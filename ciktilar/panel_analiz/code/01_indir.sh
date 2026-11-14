@@ -10,3 +10,6 @@ curl -sf -H "$H" "$O/OECD.ELS.JAI,DSD_TAXBEN_PTR@DF_PTRSA,1.0/all" | gzip -9 > D
 curl -sf "$E/lfst_hheredty/A.T.Y25-54.ED0-2.A1_NCH+A1_CH+A_CPL_CH.RT./?format=SDMX-CSV" > lfst_hheredty.csv
 curl -sf "$E/lfsa_ergaed/A.PC.T.Y25-64.ED0-2+ED5-8./?format=SDMX-CSV" > lfsa_ergaed.csv
 curl -sf "$E/nama_10_gdp/A.CLV_PCH_PRE.B1GQ./?format=SDMX-CSV" > nama_10_gdp.csv
+# Kırılma düzeltilmiş (IESS 2021) LFS ana gösterge serisi ve eğitim bileşimi kontrolü
+curl -sf "$E/lfsi_educ_a/A.ED0-2+ED5-8.T.Y25-54+Y20-64.PC_POP./?format=SDMX-CSV" > lfsi_educ_a.csv
+curl -sf "$E/edat_lfse_03?format=SDMX-CSV&sex=T&age=Y25-64&isced11=ED0-2&unit=PC" > edat_lfse_03.csv
