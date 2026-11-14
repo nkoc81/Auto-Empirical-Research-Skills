@@ -1,0 +1,43 @@
+Landais Spinnewijn|2021|The Value of Unemployment Insurance
+Gugushvili Laenen|2021|Two decades after Korpi and Palme's paradox of redistribution
+de Chaisemartin D'Haultfoeuille|2020|Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects
+Roth Sant'Anna Bilinski Poe|2023|What's trending in difference-in-differences? A synthesis of the recent econometrics literature
+Egger Haushofer Miguel Niehaus Walker|2022|General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya
+Gentilini Grosh Rigolini Yemtsov|2020|Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices
+Hyee Immervoll Fernandez Lee|2020|How reliable are social safety nets in situations of acute economic need
+Almeida De Poli Hernandez|2025|The Role of Minimum Income Schemes in Poverty Alleviation in the European Union
+Marchal Marx|2018|Stemming the tide: What have EU countries done to support low-wage workers in an era of downward wage pressure
+Penne Hufkens Goedeme Storms|2020|To what extent do welfare states compensate for the cost of children? The joint impact of taxes, benefits and public goods and services
+Hufkens Goedeme Gasior Leventi Manios Rastrigina|2019|The Hypothetical Household Tool (HHoT) in EUROMOD: a new instrument for comparative research on tax-benefit policies in Europe
+Aerts Marx Verbist|2025|participation tax rates Belgium non-workers financial disincentives administrative data
+Banerjee Hanna Kreindler Olken|2017|Debunking the Stereotype of the Lazy Welfare Recipient: Evidence from Cash Transfer Programs
+Salehi-Isfahani Mostafavi-Dehzooei|2018|Cash transfers and labor supply: Evidence from a large-scale program in Iran
+Kleven Kreiner Larsen Sogaard|2025|Micro versus Macro Labor Supply Elasticities: The Role of Dynamic Returns to Effort
+Chetty Guren Manoli Weber|2011|Are Micro and Macro Labor Supply Elasticities Consistent? A Review of Evidence on the Intensive and Extensive Margins
+Haller Staubli Zweimuller|2024|Designing Disability Insurance Reforms: Tightening Eligibility Rules or Reducing Benefits
+Zaresani|2020|Adjustment cost and incentives to work: Evidence from a disability insurance program
+DellaVigna Heining Schmieder Trenkle|2022|Evidence on Job Search Models from a Survey of Unemployed Workers in Germany
+Schmieder von Wachter Heining|2023|The Costs of Job Displacement over the Business Cycle and Its Sources: Evidence from Germany
+Boeri van Ours|2021|The Economics of Imperfect Labor Markets
+Esping-Andersen|1990|The Three Worlds of Welfare Capitalism
+Korpi Palme|1998|The Paradox of Redistribution and Strategies of Equality: Welfare State Institutions, Inequality, and Poverty in the Western Countries
+Immervoll Jenkins Konigs|2015|Are recipients of social assistance 'benefit dependent'? Concepts, measurement and results for selected countries
+Mogstad Pronzato|2012|Are Lone Mothers Responsive to Policy Changes? Evidence from a Workfare Reform in a Generous Welfare State
+Ganong Noel|2019|Consumer Spending during Unemployment: Positive and Normative Implications
+Dolls Fuest Peichl|2012|Automatic stabilizers and economic crisis: US vs. Europe
+Immervoll Peichl Tatsiramos|2011|Who loses in the downturn? Economic crisis, employment and income distribution
+Bargain Immervoll Viitamaa-Tervonen|2012|Work incentives in Finland
+Kanninen Hamalainen Verho|2023|Finnish basic income experiment employment
+Bastagli Hagen-Zanker Harman Barca Sturge Schmidt|2019|The Impact of Cash Transfers: A Review of the Evidence from Low- and Middle-income Countries
+Baird McKenzie Ozler|2018|The effects of cash transfers on adult labor market outcomes
+Banerjee Faye Krueger Niehaus Suri|2023|Universal Basic Income: Short-Term Results from a Long-Term Experiment in Kenya
+Akee Copeland Costello Simeonova|2018|How Does Household Income Affect Child Personality Traits and Behaviors?
+Price Song|2018|The long-term effects of cash assistance
+Cengiz Dube Lindner Zipperer|2019|The Effect of Minimum Wages on Low-Wage Jobs
+Autor|2019|Work of the Past, Work of the Future
+Goos Manning Salomons|2014|Explaining Job Polarization: Routine-Biased Technological Change and Offshoring
+Eichhorst Marx Wehner|2017|Labor market reforms in Europe: towards more flexicure labor markets
+Hemerijck|2018|Social investment as a policy paradigm
+Bonoli|2010|The Political Economy of Active Labor-Market Policy
+Marx Nolan|2014|In-work poverty
+Kuitto|2016|From social security to social investment? Compensating and social investment welfare policies in a life-course perspective

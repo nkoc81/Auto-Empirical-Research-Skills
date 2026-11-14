@@ -1,0 +1,66 @@
+Jones Marinescu|2022|The Labor Market Impacts of Universal and Permanent Cash Transfers: Evidence from the Alaska Permanent Fund
+Daruich Fernandez|2024|Universal Basic Income: A Dynamic Assessment
+Verho Hamalainen Kanninen|2022|Removing Welfare Traps: Employment Responses in the Finnish Basic Income Experiment
+Golosov Graber Mogstad Novgorodsky|2024|How Americans Respond to Idiosyncratic and Exogenous Changes in Household Wealth and Unearned Income
+Hendren Sprung-Keyser|2020|A Unified Welfare Analysis of Government Policies
+Kleven|2024|The EITC and the extensive margin: A reappraisal
+Schanzenbach Strain|2021|Employment Effects of the Earned Income Tax Credit: Taking the Long View
+Bastian|2020|The Rise of Working Mothers and the 1975 Earned Income Tax Credit
+Bastian Jones|2021|Do EITC expansions pay for themselves? Effects on tax revenue and government transfers
+Landais Spinnewijn|2021|The Value of Unemployment Insurance
+Ko Moffitt|2024|Take-up of Social Benefits
+Natili|2020|Worlds of last-resort safety nets? A proposed typology of minimum income schemes in Europe
+Nelson Fredriksson Korpi Korpi Palme Sjoberg|2020|The Social Policy Indicators (SPIN) database
+Nelson Nieuwenhuis|2021|Towards a new consolidated framework for analysing benefit coverage
+Gugushvili Laenen|2021|Two decades after Korpi and Palme's paradox of redistribution: What have we learned so far and where do we take it from here
+Cantillon Parolin Collado|2020|A glass ceiling on poverty reduction? An empirical investigation into the structural constraints on minimum income protections
+Ayala Arranz Garcia-Serrano Martinez-Virto|2021|The effectiveness of minimum income benefits in poverty reduction in Spain
+Hohmeyer Lietzmann|2020|Persistence of welfare receipt and unemployment in Germany: Determinants and duration dependence
+van den Berg Uhlendorff Wolff|2022|The impact of sanctions for young welfare recipients on transitions to work and wages and on dropping out
+MacKinnon Nielsen Webb|2023|Cluster-robust inference: A guide to empirical practice
+Abadie Athey Imbens Wooldridge|2023|When Should You Adjust Standard Errors for Clustering?
+Imai Kim|2021|On the Use of Two-Way Fixed Effects Regression Models for Causal Inference with Panel Data
+de Chaisemartin D'Haultfoeuille|2020|Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects
+Roth Sant'Anna Bilinski Poe|2023|What's trending in difference-in-differences? A synthesis of the recent econometrics literature
+Pesaran|2021|General diagnostic tests for cross-sectional dependence in panels
+Acemoglu Restrepo|2020|Robots and Jobs: Evidence from US Labor Markets
+Dustmann Lindner Schonberg Umkehrer vom Berge|2022|Reallocation Effects of the Minimum Wage
+Kleven Landais Posch Steinhauer Zweimuller|2024|Do Family Policies Reduce Gender Inequality? Evidence from 60 Years of Policy Experimentation
+Marchal Marx|2018|Stemming the tide: What have EU countries done to support low-wage workers in an era of downward wage pressure?
+Marchal Marx Van Mechelen|2014|The Great Wake-Up Call? Social Citizenship and Minimum Income Provisions in Europe in Times of Crisis
+Bargain Doorley|2011|Caught in the trap? Welfare's disincentive and the labor supply of single men
+Lemieux Milligan|2008|Incentive effects of social assistance: A regression discontinuity approach
+Bargain Orsini Peichl|2014|Comparing Labor Supply Elasticities in Europe and the United States: New Results
+Jantti Pirttila Selin|2015|Estimating labour supply elasticities based on cross-country micro data: A bridge between micro and macro estimates?
+Immervoll Kleven Kreiner Saez|2007|Welfare reform in European countries: a micro-simulation analysis
+Saez|2002|Optimal Income Transfer Programs: Intensive versus Extensive Labor Supply Responses
+Kostol Mogstad|2014|How Financial Incentives Induce Disability Insurance Recipients to Return to Work
+Card Kluve Weber|2018|What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations
+Driscoll Kraay|1998|Consistent Covariance Matrix Estimation with Spatially Dependent Panel Data
+Cameron Gelbach Miller|2008|Bootstrap-Based Improvements for Inference with Clustered Errors
+Hoynes Rothstein|2019|Universal Basic Income in the United States and Advanced Countries
+Banerjee Niehaus Suri|2019|Universal Basic Income in the Developing World
+Egger Haushofer Miguel Niehaus Walker|2022|General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya
+Kangas Jauhiainen Simanainen Ylikanno|2021|Experimenting with Unconditional Basic Income: Lessons from the Finnish BI Experiment 2017-2018
+Gentilini Grosh Rigolini Yemtsov|2020|Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices
+Immervoll Scarpetta|2012|Activation and employment support policies in OECD countries. An overview of current approaches
+Konigs|2018|Micro-level dynamics of social assistance receipt: Evidence from four European countries
+Kolsrud Landais Nilsson Spinnewijn|2018|The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden
+Blundell Costa Dias Meghir Shaw|2016|Female Labor Supply, Human Capital, and Welfare Reform
+Cesarini Lindqvist Notowidigdo Ostling|2017|The Effect of Wealth on Individual and Household Labor Supply: Evidence from Swedish Lotteries
+Picchio Suetens van Ours|2018|Labour Supply Effects of Winning a Lottery
+Vivalt Rhodes Bartik Broockman Krause Miller|2024|The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States
+Bartik Rhodes Broockman Krause Miller Vivalt|2024|The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets: Experimental Evidence from Two US States
+Gerard Naritomi|2021|Job Displacement Insurance and (the Lack of) Consumption-Smoothing
+Coady Jahan Matsumoto Shang|2021|Guaranteed Minimum Income Schemes in Europe: Landscape and Design
+Hyee Immervoll Fernandez Lee|2020|How reliable are social safety nets in situations of acute economic need? An international comparison of minimum-income support
+Bassanini Duval|2009|Unemployment, institutions, and reform complementarities: re-assessing the aggregate evidence for OECD countries
+Kleven Landais Sogaard|2019|Children and Gender Inequality: Evidence from Denmark
+Bargain Jara Rodriguez|2017|Learning from Your Neighbor: Swapping Taxes and Benefits in Europe
+Almeida De Poli Hernandez|2022|The effectiveness of minimum income schemes in the EU
+Callaway Sant'Anna|2021|Difference-in-differences with multiple time periods
+Bonoli Natali|2012|The politics of the new welfare state
+Eichhorst Marx Wehner|2017|Labor market reforms in Europe: towards more flexicure labor markets?
+Parolin|2021|Temporary Assistance for Needy Families and the Black-White child poverty gap in the United States
+Bruckmeier Riphahn Wiemers|2021|Misreporting of program take-up in survey data and its consequences for measuring non-take-up: new evidence from linked administrative and survey data
+Kyzyma|2024|Non-take-up of social assistance
