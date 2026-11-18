@@ -1,0 +1,1002 @@
+[
+ {
+  "girdi": "Egger Haushofer Miguel Niehaus Walker|2022|General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya",
+  "benzerlik": 1.0,
+  "doi": "10.3982/ecta17945",
+  "baslik": "General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya",
+  "yazarlar": [
+   [
+    "Egger",
+    "Dennis"
+   ],
+   [
+    "Haushofer",
+    "Johannes"
+   ],
+   [
+    "Miguel",
+    "Edward"
+   ],
+   [
+    "Niehaus",
+    "Paul"
+   ],
+   [
+    "Walker",
+    "Michael"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "Econometrica",
+  "cilt": "90",
+  "sayi": "6",
+  "sayfa": "2603-2643",
+  "tur": "journal-article",
+  "yayinci": "The Econometric Society",
+  "ozet": "<jats:p>How large economic stimuli generate individual and aggregate responses is a central question in economics, but has not been studied experimentally. We provided one‐time cash transfers of about USD 1000 to over 10,500 poor households across 653 randomized villages in rural Kenya. The implied fiscal shock was over 15 percent of local GDP. We find large impacts on consumption and assets for recipients. Importantly, we document large positive spillovers on non‐recipient households and firms, and minimal price inflation. We estimate a local transfer multiplier of 2.5. We interpret welfare implications through the lens of a simple household optimization framework.</jats:p>"
+ },
+ {
+  "girdi": "Jones Marinescu|2022|Universal Cash Transfers and Inflation",
+  "benzerlik": 1.0,
+  "doi": "10.1086/720770",
+  "baslik": "Universal Cash Transfers and Inflation",
+  "yazarlar": [
+   [
+    "Jones",
+    "Damon"
+   ],
+   [
+    "Marinescu",
+    "Ioana"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "National Tax Journal",
+  "cilt": "75",
+  "sayi": "3",
+  "sayfa": "627-653",
+  "tur": "journal-article",
+  "yayinci": "University of Chicago Press",
+  "ozet": ""
+ },
+ {
+  "girdi": "Verho Hamalainen Kanninen|2022|Removing Welfare Traps: Employment Responses in the Finnish Basic Income Experiment",
+  "benzerlik": 1.0,
+  "doi": "10.1257/pol.20200143",
+  "baslik": "Removing Welfare Traps: Employment Responses in the Finnish Basic Income Experiment",
+  "yazarlar": [
+   [
+    "Verho",
+    "Jouko"
+   ],
+   [
+    "Hämäläinen",
+    "Kari"
+   ],
+   [
+    "Kanninen",
+    "Ohto"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "American Economic Journal: Economic Policy",
+  "cilt": "14",
+  "sayi": "1",
+  "sayfa": "501-522",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p> This paper provides evidence that replacing minimum unemployment benefits with a basic income of equal size has minor employment effects at best. We examine an experiment in Finland in which 2,000 benefit recipients were randomized to receive a monthly basic income. The experiment lowered participation tax rates by 23  percentage points for full-time employment. Despite the considerable increase in work incentives, days in employment remained statistically unchanged in the first year of the experiment. Moreover, even though all job search requirements were waived, participation in reemployment services remained high. (JEL C93, H24, H53, I38, J64, J65) </jats:p>"
+ },
+ {
+  "girdi": "Filmer Friedman Kandpal Onishi|2023|Cash Transfers, Food Prices, and Nutrition Impacts on Ineligible Children",
+  "benzerlik": 1.0,
+  "doi": "10.1162/rest_a_01061",
+  "baslik": "Cash Transfers, Food Prices, and Nutrition Impacts on Ineligible Children",
+  "yazarlar": [
+   [
+    "Filmer",
+    "Deon"
+   ],
+   [
+    "Friedman",
+    "Jed"
+   ],
+   [
+    "Kandpal",
+    "Eeshani"
+   ],
+   [
+    "Onishi",
+    "Junko"
+   ]
+  ],
+  "yil": 2023,
+  "dergi": "The Review of Economics and Statistics",
+  "cilt": "105",
+  "sayi": "2",
+  "sayfa": "327-343",
+  "tur": "journal-article",
+  "yayinci": "MIT Press",
+  "ozet": "<jats:title>Abstract</jats:title>\n                  <jats:p>Can cash aid harm nonrecipients by raising local prices? We show that a household-targeted cash transfer in the Philippines increases the prices of perishable foods in some markets and raises stunting among nonbeneficiary children by 11 percentage points (34%). Impacts increase in the size of the village income shock and remoteness---and are sustained two and a half years after program introduction. Price effects from an experimental sample are confirmed with national expenditure surveys collected during program scale-up. Household-targeted cash transfers can thus generate local spillovers that undermine program goals. Selected geographic targeting may avoid price spillovers at moderate additional cost.</jats:p>"
+ },
+ {
+  "girdi": "Bernanke Blanchard|2025|What Caused the US Pandemic-Era Inflation?",
+  "durum": "HATA HTTP Error 429: Too Many Requests"
+ },
+ {
+  "girdi": "Daruich Fernandez|2024|Universal Basic Income: A Dynamic Assessment",
+  "benzerlik": 1.0,
+  "doi": "10.1257/aer.20221099",
+  "baslik": "Universal Basic Income: A Dynamic Assessment",
+  "yazarlar": [
+   [
+    "Daruich",
+    "Diego"
+   ],
+   [
+    "Fernández",
+    "Raquel"
+   ]
+  ],
+  "yil": 2024,
+  "dergi": "American Economic Review",
+  "cilt": "114",
+  "sayi": "1",
+  "sayfa": "38-88",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p> Universal basic income (UBI) is an increasingly popular policy proposal, but there is no evidence regarding its longer-term consequences. We find that UBI generates large welfare losses in a general equilibrium model with imperfect capital markets, labor market shocks, and intergenerational linkages via skill formation and transfers. This conclusion is robust to various alternative ways of financing UBI. By using observationally equivalent models that eliminate different sources of endogenous dynamic linkages (equilibrium capital market and parental investment in child skills), we show that the latter are largely responsible for the negative welfare consequences. (JEL H24, H31, I38, J22, J24, J62) </jats:p>"
+ },
+ {
+  "girdi": "Coady Jahan Matsumoto Shang|2021|Guaranteed Minimum Income Schemes in Europe: Landscape and Design",
+  "durum": "HATA HTTP Error 429: Too Many Requests"
+ },
+ {
+  "girdi": "Almeida De Poli Hernandez|2025|The Role of Minimum Income Schemes in Poverty Alleviation in the European Union",
+  "benzerlik": 1.0,
+  "doi": "10.1111/roiw.12728",
+  "baslik": "The Role of Minimum Income Schemes in Poverty Alleviation in the European Union",
+  "yazarlar": [
+   [
+    "Almeida",
+    "Vanda"
+   ],
+   [
+    "De Poli",
+    "Silvia"
+   ],
+   [
+    "Hernández",
+    "Adrián"
+   ]
+  ],
+  "yil": 2025,
+  "dergi": "Review of Income and Wealth",
+  "cilt": "71",
+  "sayi": "1",
+  "sayfa": null,
+  "tur": "journal-article",
+  "yayinci": "Wiley",
+  "ozet": "<jats:title>ABSTRACT</jats:title><jats:p>Assessing the effectiveness of Minimum Income (MI) schemes in poverty alleviation is challenging. Studies based on survey microdata are usually subject to bias because households tend to underreport benefit receipts. Studies based on microsimulation models tend to overestimate these benefits mainly due to high non‐take‐up rates. In this paper, we tackle these challenges by calibrating the simulation of MI schemes in the microsimulation model EUROMOD to match official expenditure results for each European Union (EU) Member State's scheme. We use this calibrated model to evaluate the poverty‐alleviating effects of existing MI schemes and explore the impacts of possible reforms toward eradicating extreme poverty. Our results show that MI support varies widely across EU countries, with most failing to reach half of households in extreme poverty or provide adequate support, particularly for larger families. Reforms aimed at improving coverage and adequacy could eradicate extreme poverty at a relatively low budgetary cost.</jats:p>"
+ },
+ {
+  "girdi": "Ko Moffitt|2024|Take-up of Social Benefits",
+  "benzerlik": 1.0,
+  "doi": "10.1007/978-3-319-57365-6_372-3",
+  "baslik": "Take-Up of Social Benefits",
+  "yazarlar": [
+   [
+    "Ko",
+    "Wonsik"
+   ],
+   [
+    "Moffitt",
+    "Robert A."
+   ]
+  ],
+  "yil": 2024,
+  "dergi": "Handbook of Labor, Human Resources and Population Economics",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": "1-42",
+  "tur": "book-chapter",
+  "yayinci": "Springer International Publishing",
+  "ozet": ""
+ },
+ {
+  "girdi": "Fagereng Holm Natvik|2021|MPC Heterogeneity and Household Balance Sheets",
+  "benzerlik": 1.0,
+  "doi": "10.1257/mac.20190211",
+  "baslik": "MPC Heterogeneity and Household Balance Sheets",
+  "yazarlar": [
+   [
+    "Fagereng",
+    "Andreas"
+   ],
+   [
+    "Holm",
+    "Martin B."
+   ],
+   [
+    "Natvik",
+    "Gisle J."
+   ]
+  ],
+  "yil": 2021,
+  "dergi": "American Economic Journal: Macroeconomics",
+  "cilt": "13",
+  "sayi": "4",
+  "sayfa": "1-54",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p>We use sizable lottery prizes in Norwegian administrative panel data to explore how transitory income shocks are spent and saved over time and how households’ marginal propensities to consume (MPCs) vary with household characteristics and shock size. We find that spending peaks in the year of winning and gradually reverts to normal within five years. Controlling for all items on households’ balance sheets and characteristics such as education and income, it is the amount won, age, and liquid assets that vary systematically with MPCs. Low-liquidity winners of the smallest prizes (around US$1,500) are estimated to spend all within the year of winning. The corresponding estimate for high-liquidity winners of large prizes (US$8, 300–150,000) is slightly below one-half. While conventional models will struggle to account for such high MPC levels, we show that a two-asset life cycle model with a realistic earnings profile and a luxury bequest motive can account for both the time profile of consumption responses and their systematic covariation with observables. (JEL D12, D15, E21, G51, H24)</jats:p>"
+ },
+ {
+  "girdi": "Baker Farrokhnia Meyer Pagel Yannelis|2023|Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments",
+  "benzerlik": 1.0,
+  "doi": "10.1093/rof/rfad010",
+  "baslik": "Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments",
+  "yazarlar": [
+   [
+    "R. Baker",
+    "Scott"
+   ],
+   [
+    "Farrokhnia",
+    "Robert A"
+   ],
+   [
+    "Meyer",
+    "Steffen"
+   ],
+   [
+    "Pagel",
+    "Michaela"
+   ],
+   [
+    "Yannelis",
+    "Constantine"
+   ]
+  ],
+  "yil": 2023,
+  "dergi": "Review of Finance",
+  "cilt": "27",
+  "sayi": "6",
+  "sayfa": "2271-2304",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": "<jats:title>Abstract</jats:title>\n                  <jats:p>The 2020 CARES Act directed large cash payments to households. We analyze households’ spending responses using data from a Fintech nonprofit, exploring heterogeneity by income, recent income declines, and liquidity as well as linked survey responses about economic expectations. Households respond rapidly to payments, with spending increasing by about $0.14 per dollar during the first week and plateauing around $0.25–$0.30 over 3 months. In contrast to previous stimulus programs, we see little response of durables spending. Households with lower incomes, greater income declines, and less liquidity display stronger responses whereas households that expect employment losses and benefit cuts display weaker responses.</jats:p>"
+ },
+ {
+  "girdi": "Kubota Onishi Toyama|2021|Consumption responses to COVID-19 payments: Evidence from a natural experiment and bank account data",
+  "benzerlik": 1.0,
+  "doi": "10.1016/j.jebo.2021.05.006",
+  "baslik": "Consumption responses to COVID-19 payments: Evidence from a natural experiment and bank account data",
+  "yazarlar": [
+   [
+    "Kubota",
+    "So"
+   ],
+   [
+    "Onishi",
+    "Koichiro"
+   ],
+   [
+    "Toyama",
+    "Yuta"
+   ]
+  ],
+  "yil": 2021,
+  "dergi": "Journal of Economic Behavior &amp; Organization",
+  "cilt": "188",
+  "sayi": null,
+  "sayfa": "1-17",
+  "tur": "journal-article",
+  "yayinci": "Elsevier BV",
+  "ozet": ""
+ },
+ {
+  "girdi": "Kaplan Violante|2022|The Marginal Propensity to Consume in Heterogeneous Agent Models",
+  "benzerlik": 1.0,
+  "doi": "10.2139/ssrn.4103999",
+  "baslik": "The Marginal Propensity to Consume in Heterogeneous Agent Models",
+  "yazarlar": [
+   [
+    "Kaplan",
+    "Greg"
+   ],
+   [
+    "Violante",
+    "Gianluca"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "SSRN Electronic Journal",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": null,
+  "tur": "journal-article",
+  "yayinci": "Elsevier BV",
+  "ozet": ""
+ },
+ {
+  "girdi": "Boehm Fize Jaravel|2025|Five Facts about MPCs: Evidence from a Randomized Experiment",
+  "benzerlik": 1.0,
+  "doi": "10.1257/aer.20240138",
+  "baslik": "Five Facts about MPCs: Evidence from a Randomized Experiment",
+  "yazarlar": [
+   [
+    "Boehm",
+    "Johannes"
+   ],
+   [
+    "Fize",
+    "Etienne"
+   ],
+   [
+    "Jaravel",
+    "Xavier"
+   ]
+  ],
+  "yil": 2025,
+  "dergi": "American Economic Review",
+  "cilt": "115",
+  "sayi": "1",
+  "sayfa": "1-42",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p> We present five facts from an experiment on the marginal propensity to consume (MPC) out of transitory transfers: (1) the one-month MPC on a cash-like transfer is 23 percent; (2) it is substantially higher (61 percent) on a transfer administered via a card where remaining funds expire after three weeks, inconsistent with money fungibility; (3) the consumption response is concentrated in the first three weeks; (4) MPCs vary with household characteristics but are high even for the liquid wealthy; (5) unconditional MPC distribution exhibits large variation. Our findings inform the design of stimulus policies and pose challenges to existing macroeconomic models. (JEL D12, D91, E21, G51, I38) </jats:p>"
+ },
+ {
+  "girdi": "Fuster Kaplan Zafar|2021|What Would You Do with $500? Spending Responses to Gains, Losses, News, and Loans",
+  "benzerlik": 1.0,
+  "doi": "10.1093/restud/rdaa076",
+  "baslik": "What Would You Do with $500? Spending Responses to Gains, Losses, News, and Loans",
+  "yazarlar": [
+   [
+    "Fuster",
+    "Andreas"
+   ],
+   [
+    "Kaplan",
+    "Greg"
+   ],
+   [
+    "Zafar",
+    "Basit"
+   ]
+  ],
+  "yil": 2020,
+  "dergi": "The Review of Economic Studies",
+  "cilt": "88",
+  "sayi": "4",
+  "sayfa": "1760-1795",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": "<jats:title>Abstract</jats:title>\n                  <jats:p>We use survey questions about spending in hypothetical scenarios to investigate features of propensities to consume that are useful for distinguishing between consumption theories. We find that (1) responses to unanticipated gains are vastly heterogeneous (either zero or substantially positive); (2) responses increase in the size of the gain, driven by the extensive margin of spending adjustments; (3) responses to losses are much larger and more widespread than responses to gains; and (4) even those with large responses to gains do not respond to news about future gains. These four findings suggest that limited access to disposable resources, and frictions in adjusting consumption, are important determinants of consumption behaviour. We also find that (5) households do not respond to the offer of a one-year interest-free loan, suggesting that this is not a consequence of short-term credit constraints; and (6) people do cut spending in response to news about future losses, suggesting that neither is this a consequence of myopia. A calibrated precautionary savings model with utility costs of changing consumption, and a sufficient fraction of low-wealth households, can account for these features of propensities to consume on both the extensive and intensive margins.</jats:p>"
+ },
+ {
+  "girdi": "di Giovanni Kalemli-Ozcan Silva Yildirim|2023|Quantifying the Inflationary Impact of Fiscal Stimulus under Supply Constraints",
+  "benzerlik": 1.0,
+  "doi": "10.1257/pandp.20231028",
+  "baslik": "Quantifying the Inflationary Impact of Fiscal Stimulus under Supply Constraints",
+  "yazarlar": [
+   [
+    "di Giovanni",
+    "Julian"
+   ],
+   [
+    "Kalemli-Özcan",
+    "Şebnem"
+   ],
+   [
+    "Silva",
+    "Alvaro"
+   ],
+   [
+    "Yıldırım",
+    "Muhammed A."
+   ]
+  ],
+  "yil": 2023,
+  "dergi": "AEA Papers and Proceedings",
+  "cilt": "113",
+  "sayi": null,
+  "sayfa": "76-80",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p> This paper builds on Baqaee and Farhi (2022) and di Giovanni et al. (2022) to quantify the contribution of fiscal policy on US inflation over the December 2019 to June 2022 period. Model calibrations show that aggregate demand shocks explain roughly two-thirds of total model-based inflation and that the fiscal stimulus contributed half or more of the total aggregate demand effect. </jats:p>"
+ },
+ {
+  "girdi": "Guerrieri Lorenzoni Straub Werning|2022|Macroeconomic Implications of COVID-19: Can Negative Supply Shocks Cause Demand Shortages?",
+  "benzerlik": 1.0,
+  "doi": "10.1257/aer.20201063",
+  "baslik": "Macroeconomic Implications of COVID-19: Can Negative Supply Shocks Cause Demand Shortages?",
+  "yazarlar": [
+   [
+    "Guerrieri",
+    "Veronica"
+   ],
+   [
+    "Lorenzoni",
+    "Guido"
+   ],
+   [
+    "Straub",
+    "Ludwig"
+   ],
+   [
+    "Werning",
+    "Iván"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "American Economic Review",
+  "cilt": "112",
+  "sayi": "5",
+  "sayfa": "1437-1474",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p>Motivated by the effects of the COVID-19 pandemic, we present a theory of Keynesian supply shocks: shocks that reduce potential output in a sector of the economy, but that, by reducing demand in other sectors, ultimately push aggregate activity below potential. A Keynesian supply shock is more likely when the elasticity of substitution between sectors is relatively low, the intertemporal elasticity of substitution is relatively high, and markets are incomplete. Fiscal policy can display a smaller multiplier, but the insurance benefit of fiscal transfers can be enhanced. Firm exits and job destruction can amplify and propagate the shock. (JEL D52, E23, E24, E32, E62, I12, I18)</jats:p>"
+ },
+ {
+  "girdi": "Ferrante Graves Iacoviello|2023|The inflationary effects of sectoral reallocation",
+  "benzerlik": 1.0,
+  "doi": "10.17016/ifdp.2023.1369",
+  "baslik": "The Inflationary Effects of Sectoral Reallocation",
+  "yazarlar": [
+   [
+    "Ferrante",
+    "Francesco"
+   ],
+   [
+    "Graves",
+    "Sebastian"
+   ],
+   [
+    "Iacoviello",
+    "Matteo"
+   ]
+  ],
+  "yil": 2023,
+  "dergi": "International Finance Discussion Papers",
+  "cilt": null,
+  "sayi": "1369",
+  "sayfa": "1-57",
+  "tur": "journal-article",
+  "yayinci": "Board of Governors of the Federal Reserve System",
+  "ozet": "<jats:p>The COVID-19 pandemic has led to an unprecedented shift of consumption from services to goods. We study this demand reallocation in a multi-sector model featuring sticky prices, input-output linkages, and labor reallocation costs. Reallocation costs hamper the increase in the supply of goods, causing inflationary pressures. These pressures are amplified by the fact that goods prices are more flexible than services prices. We estimate the model allowing for demand reallocation, sectoral productivity, and aggregate labor supply shocks. The demand reallocation shock explains a large portion of the rise in U.S. inflation in the aftermath of the pandemic.</jats:p>"
+ },
+ {
+  "girdi": "Baum-Snow Han|2024|The Microgeography of Housing Supply",
+  "benzerlik": 1.0,
+  "doi": "10.1086/728110",
+  "baslik": "The Microgeography of Housing Supply",
+  "yazarlar": [
+   [
+    "Baum-Snow",
+    "Nathaniel"
+   ],
+   [
+    "Han",
+    "Lu"
+   ]
+  ],
+  "yil": 2024,
+  "dergi": "Journal of Political Economy",
+  "cilt": "132",
+  "sayi": "6",
+  "sayfa": "1897-1946",
+  "tur": "journal-article",
+  "yayinci": "University of Chicago Press",
+  "ozet": ""
+ },
+ {
+  "girdi": "Eerola Lyytikainen|2021|Housing allowance and rents: Evidence from a stepwise subsidy scheme",
+  "benzerlik": 1.0,
+  "doi": "10.1111/sjoe.12396",
+  "baslik": "Housing Allowance and Rents: Evidence from a Stepwise Subsidy Scheme*",
+  "yazarlar": [
+   [
+    "Eerola",
+    "Essi"
+   ],
+   [
+    "Lyytikäinen",
+    "Teemu"
+   ]
+  ],
+  "yil": 2020,
+  "dergi": "The Scandinavian Journal of Economics",
+  "cilt": "123",
+  "sayi": "1",
+  "sayfa": "84-109",
+  "tur": "journal-article",
+  "yayinci": "Wiley",
+  "ozet": "<jats:title>Abstract</jats:title><jats:p>In this paper, we study the effect of housing demand subsidies on rents using discontinuities in the Finnish housing allowance system as a quasi‐experimental setting. The stepwise dependence of housing allowance on the floor area of the dwelling and on the year of construction of the building causes economically and statistically significant discontinuities in the amounts of housing allowances. However, our results show that there are no discontinuities in the rents paid by the recipients of housing allowance at these cut‐offs. Instead, differences in the amounts of housing allowance are translated roughly one‐to‐one into differences in the rent net of housing allowance.</jats:p>"
+ },
+ {
+  "girdi": "Cunha De Giorgi Jayachandran|2019|The Price Effects of Cash Versus In-Kind Transfers",
+  "benzerlik": 1.0,
+  "doi": "10.1093/restud/rdy018",
+  "baslik": "The Price Effects of Cash Versus In-Kind Transfers",
+  "yazarlar": [
+   [
+    "Cunha",
+    "Jesse M"
+   ],
+   [
+    "De Giorgi",
+    "Giacomo"
+   ],
+   [
+    "Jayachandran",
+    "Seema"
+   ]
+  ],
+  "yil": 2018,
+  "dergi": "The Review of Economic Studies",
+  "cilt": "86",
+  "sayi": "1",
+  "sayfa": "240-281",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": ""
+ },
+ {
+  "girdi": "Gibbons Manning|2006|The incidence of UK housing benefit: Evidence from the 1990s reforms",
+  "benzerlik": 1.0,
+  "doi": "10.1016/j.jpubeco.2005.01.002",
+  "baslik": "The incidence of UK housing benefit: Evidence from the 1990s reforms",
+  "yazarlar": [
+   [
+    "Gibbons",
+    "Stephen"
+   ],
+   [
+    "Manning",
+    "Alan"
+   ]
+  ],
+  "yil": 2006,
+  "dergi": "Journal of Public Economics",
+  "cilt": "90",
+  "sayi": "4-5",
+  "sayfa": "799-822",
+  "tur": "journal-article",
+  "yayinci": "Elsevier BV",
+  "ozet": ""
+ },
+ {
+  "girdi": "Saiz|2010|The Geographic Determinants of Housing Supply",
+  "durum": "HATA HTTP Error 429: Too Many Requests"
+ },
+ {
+  "girdi": "Kueng|2018|Excess Sensitivity of High-Income Consumers",
+  "benzerlik": 1.0,
+  "doi": "10.1093/qje/qjy014",
+  "baslik": "Excess Sensitivity of High-Income Consumers*",
+  "yazarlar": [
+   [
+    "Kueng",
+    "Lorenz"
+   ]
+  ],
+  "yil": 2018,
+  "dergi": "The Quarterly Journal of Economics",
+  "cilt": "133",
+  "sayi": "4",
+  "sayfa": "1693-1751",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": ""
+ },
+ {
+  "girdi": "Parker Souleles Johnson McClelland|2013|Consumer Spending and the Economic Stimulus Payments of 2008",
+  "benzerlik": 1.0,
+  "doi": "10.1257/aer.103.6.2530",
+  "baslik": "Consumer Spending and the Economic Stimulus Payments of 2008",
+  "yazarlar": [
+   [
+    "Parker",
+    "Jonathan A"
+   ],
+   [
+    "Souleles",
+    "Nicholas S"
+   ],
+   [
+    "Johnson",
+    "David S"
+   ],
+   [
+    "McClelland",
+    "Robert"
+   ]
+  ],
+  "yil": 2013,
+  "dergi": "American Economic Review",
+  "cilt": "103",
+  "sayi": "6",
+  "sayfa": "2530-2553",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p>We measure the change in household spending caused by receipt of the economic stimulus payments of 2008, using questions added to the Consumer Expenditure Survey and variation from the randomized timing of disbursement. Households spent 12–30 percent (depending on specification) of their payments on nondurable goods during the three-month period of payment receipt, and a significant amount more on durable goods, primarily vehicles, bringing the total response to 50–90 percent of the payments. The responses are substantial and significant for older, lower-income, and home-owning households. Spending does not vary significantly with the method of disbursement (check versus electronic transfer). (JEL D12, D14, E21, E62)</jats:p>"
+ },
+ {
+  "girdi": "Jappelli Pistaferri|2010|The Consumption Response to Income Changes",
+  "benzerlik": 1.0,
+  "doi": "10.1146/annurev.economics.050708.142933",
+  "baslik": "The Consumption Response to Income Changes",
+  "yazarlar": [
+   [
+    "Jappelli",
+    "Tullio"
+   ],
+   [
+    "Pistaferri",
+    "Luigi"
+   ]
+  ],
+  "yil": 2010,
+  "dergi": "Annual Review of Economics",
+  "cilt": "2",
+  "sayi": "1",
+  "sayfa": "479-506",
+  "tur": "journal-article",
+  "yayinci": "Annual Reviews",
+  "ozet": "<jats:p> We review different empirical approaches that researchers have taken to estimate how consumption responds to income changes. We critically evaluate the empirical evidence on the sensitivity of consumption to predicted income changes, distinguishing between the traditional excess sensitivity tests and the effect of predicted income increases and income declines. We also review studies that attempt to estimate the marginal propensity to consume out of income shocks, distinguishing between three different approaches: identifying episodes in which income changes unexpectedly, relying on the covariance restrictions that the theory imposes on the joint behavior of consumption and income growth, and combining realizations and expectations of income or consumption in surveys in which data on subjective expectations are available. </jats:p>"
+ },
+ {
+  "girdi": "Moffitt|2003|The Negative Income Tax and the Evolution of U.S. Welfare Policy",
+  "benzerlik": 1.0,
+  "doi": "10.1257/089533003769204380",
+  "baslik": "The Negative Income Tax and the Evolution of U.S. Welfare Policy",
+  "yazarlar": [
+   [
+    "Moffitt",
+    "Robert A"
+   ]
+  ],
+  "yil": 2003,
+  "dergi": "Journal of Economic Perspectives",
+  "cilt": "17",
+  "sayi": "3",
+  "sayfa": "119-140",
+  "tur": "journal-article",
+  "yayinci": "American Economic Association",
+  "ozet": "<jats:p> The negative income tax proposed by Milton Friedman represents one of the fundamental ideas of modern welfare policy. However, the academic literature has raised two difficulties with it, one challenging its purported work incentives and the other suggesting the possible superiority of work requirements. In addition, work requirement approaches have gained ground in actual U.S. welfare policy over the last 30 years and the number of different programs has proliferated, another development counter to the negative income tax. On the other hand, the Earned Income Tax Credit has produced a negative-income-tax-like program on a vast scale. </jats:p>"
+ },
+ {
+  "girdi": "Hoynes Rothstein|2019|Universal Basic Income in the United States and Advanced Countries",
+  "benzerlik": 1.0,
+  "doi": "10.1146/annurev-economics-080218-030237",
+  "baslik": "Universal Basic Income in the United States and Advanced Countries",
+  "yazarlar": [
+   [
+    "Hoynes",
+    "Hilary"
+   ],
+   [
+    "Rothstein",
+    "Jesse"
+   ]
+  ],
+  "yil": 2019,
+  "dergi": "Annual Review of Economics",
+  "cilt": "11",
+  "sayi": "1",
+  "sayfa": "929-958",
+  "tur": "journal-article",
+  "yayinci": "Annual Reviews",
+  "ozet": "<jats:p> We discuss the potential role of universal basic incomes (UBIs) in advanced countries. A feature of advanced economies that distinguishes them from developing countries is the existence of well-developed, if often incomplete, safety nets. We develop a framework for describing transfer programs that is flexible enough to encompass most existing programs as well as UBIs, and we use this framework to compare various UBIs to the existing constellation of programs in the United States. A UBI would direct much larger shares of transfers to childless, nonelderly, nondisabled households than existing programs, and much more to middle-income rather than poor households. A UBI large enough to increase transfers to low-income families would be enormously expensive. We review the labor supply literature for evidence on the likely impacts of a UBI. We argue that the ongoing UBI pilot studies will do little to resolve the major outstanding questions. </jats:p>"
+ },
+ {
+  "girdi": "Bartik Rhodes Broockman Krause Miller Vivalt|2024|The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets",
+  "benzerlik": 0.77,
+  "doi": "10.3386/w34040",
+  "baslik": "The Impact of Unconditional Cash Transfers on Parenting and Children",
+  "yazarlar": [
+   [
+    "Krause",
+    "Patrick"
+   ],
+   [
+    "Rhodes",
+    "Elizabeth"
+   ],
+   [
+    "Miller",
+    "Sarah"
+   ],
+   [
+    "Bartik",
+    "Alexander"
+   ],
+   [
+    "Broockman",
+    "David"
+   ],
+   [
+    "Vivalt",
+    "Eva"
+   ]
+  ],
+  "yil": 2025,
+  "dergi": "",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": null,
+  "tur": "report",
+  "yayinci": "National Bureau of Economic Research",
+  "ozet": ""
+ },
+ {
+  "girdi": "Vivalt Rhodes Bartik Broockman Krause Miller|2026|The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States",
+  "benzerlik": 1.0,
+  "doi": "10.1093/qje/qjag042",
+  "baslik": "The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States",
+  "yazarlar": [
+   [
+    "Vivalt",
+    "Eva"
+   ],
+   [
+    "Rhodes",
+    "Elizabeth"
+   ],
+   [
+    "Bartik",
+    "Alexander"
+   ],
+   [
+    "Broockman",
+    "David"
+   ],
+   [
+    "Krause",
+    "Patrick"
+   ],
+   [
+    "Miller",
+    "Sarah"
+   ]
+  ],
+  "yil": 2026,
+  "dergi": "The Quarterly Journal of Economics",
+  "cilt": "141",
+  "sayi": "4",
+  "sayfa": "2675-2734",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the causal effects of income on a rich array of employment outcomes, leveraging an experiment in which 1,000 low-income individuals were randomized into receiving $1,000 per month unconditionally for three years, with a control group of 2,000 participants receiving $50/month. We gather detailed survey data, administrative records, and data from a mobile phone app. The transfer caused total individual income excluding the transfers to fall by about $1,900/year relative to the control group and a 4.2 percentage point decrease in labor market participation. Participants reduced their work hours as a result of the transfers by 1–2 hours/week and participants’ partners reduced their work hours by a comparable amount. Among other categories of time use, the greatest increase generated by the transfer was in time spent on leisure. Despite asking detailed questions about amenities, we find no effect on quality of employment, and our confidence intervals can rule out even small improvements. Treated participants broadly increase expenditures, led by spending on nondurable goods and services, with smaller increases in spending on durable goods and human capital. We observe no significant effects on degree attainment, though the magnitudes of the estimated effects generally appear larger among younger participants. Measures of subjective well-being are higher among treated participants in the first year of the transfer"
+ },
+ {
+  "girdi": "Ball Leigh Mishra|2022|Understanding U.S. Inflation during the COVID-19 Era",
+  "benzerlik": 1.0,
+  "doi": "10.1353/eca.2022.a901276",
+  "baslik": "Understanding US Inflation during the COVID-19 Era",
+  "yazarlar": [
+   [
+    "Ball",
+    "Laurence"
+   ],
+   [
+    "Leigh",
+    "Daniel"
+   ],
+   [
+    "Mishra",
+    "Prachi"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "Brookings Papers on Economic Activity",
+  "cilt": "2022",
+  "sayi": "2",
+  "sayfa": "1-80",
+  "tur": "journal-article",
+  "yayinci": "Project MUSE",
+  "ozet": ""
+ },
+ {
+  "girdi": "Banerjee Faye Krueger Niehaus Suri|2023|Universal Basic Income: Short-Term Results from a Long-Term Experiment in Kenya",
+  "benzerlik": 0.58,
+  "doi": "10.1257/rct.1952-2.0",
+  "baslik": "Universal Basic Income in Kenya",
+  "yazarlar": [
+   [
+    "Suri",
+    "Tavneet"
+   ],
+   [
+    "Faye",
+    "Michael"
+   ],
+   [
+    "Banerjee",
+    "Abhijit"
+   ],
+   [
+    "Niehaus",
+    "Paul"
+   ],
+   [
+    "Krueger",
+    "Alan"
+   ]
+  ],
+  "yil": 2018,
+  "dergi": "AEA Randomized Controlled Trials",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": null,
+  "tur": "dataset",
+  "yayinci": "American Economic Association",
+  "ozet": ""
+ },
+ {
+  "girdi": "Parker Schild Erhard Johnson|2022|Household Spending Responses to the Economic Impact Payments of 2020: Evidence from the Consumer Expenditure Survey",
+  "benzerlik": 1.0,
+  "doi": "10.3386/w29648",
+  "baslik": "Household Spending Responses to the Economic Impact Payments of 2020: Evidence from the Consumer Expenditure Survey",
+  "yazarlar": [
+   [
+    "Parker",
+    "Jonathan"
+   ],
+   [
+    "Schild",
+    "Jake"
+   ],
+   [
+    "Erhard",
+    "Laura"
+   ],
+   [
+    "Johnson",
+    "David"
+   ]
+  ],
+  "yil": 2022,
+  "dergi": "",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": null,
+  "tur": "report",
+  "yayinci": "National Bureau of Economic Research",
+  "ozet": ""
+ },
+ {
+  "girdi": "Orchard Ramey Wieland|2025|Micro MPCs and Macro Counterfactuals: The Case of the 2008 Rebates",
+  "benzerlik": 1.0,
+  "doi": "10.1093/qje/qjaf015",
+  "baslik": "Micro MPCs and Macro Counterfactuals: The Case of the 2008 Rebates",
+  "yazarlar": [
+   [
+    "Orchard",
+    "Jacob D"
+   ],
+   [
+    "Ramey",
+    "Valerie A"
+   ],
+   [
+    "Wieland",
+    "Johannes F"
+   ]
+  ],
+  "yil": 2025,
+  "dergi": "The Quarterly Journal of Economics",
+  "cilt": "140",
+  "sayi": "3",
+  "sayfa": "2001-2052",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We present evidence that the high estimated marginal propensities to consume (MPCs) from the leading household studies result in implausible macroeconomic counterfactuals. Using the 2008 tax rebate as a case study, we calibrate a standard macro model with the estimated micro MPCs to construct counterfactual macroeconomic consumption paths in the absence of a rebate. The counterfactual paths imply that consumption expenditures would have plummeted in spring and summer 2008 and mostly recovered in September 2008. We use narratives and forecasts to argue that these paths are implausible. We show that standard two-way fixed effect estimates of the micro MPCs are upward biased. When we correct for the biases, we estimate smaller micro MPCs using the CEX data than the previous literature. We show that realistic modifications of the model result in general equilibrium forces that dampen rather than amplify micro MPCs. The combination of smaller micro MPCs and dampening general equilibrium forces implies general equilibrium consumption multipliers that are below 0.2.</jats:p>"
+ },
+ {
+  "girdi": "Golosov Graber Mogstad Novgorodsky|2024|How Americans Respond to Idiosyncratic and Exogenous Changes in Household Wealth and Unearned Income",
+  "benzerlik": 1.0,
+  "doi": "10.1093/qje/qjad053",
+  "baslik": "How Americans Respond to Idiosyncratic and Exogenous Changes in Household Wealth and Unearned Income",
+  "yazarlar": [
+   [
+    "Golosov",
+    "Mikhail"
+   ],
+   [
+    "Graber",
+    "Michael"
+   ],
+   [
+    "Mogstad",
+    "Magne"
+   ],
+   [
+    "Novgorodsky",
+    "David"
+   ]
+  ],
+  "yil": 2023,
+  "dergi": "The Quarterly Journal of Economics",
+  "cilt": "139",
+  "sayi": "2",
+  "sayfa": "1321-1395",
+  "tur": "journal-article",
+  "yayinci": "Oxford University Press (OUP)",
+  "ozet": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how Americans respond to idiosyncratic and exogenous changes in household wealth and unearned income. Our analyses combine administrative data on U.S. lottery winners with an event study design. We first examine individual and household earnings responses to these windfall gains, finding significant and sizable wealth and income effects. On average, an extra ${\\$}$1 of unearned income in a given period reduces household labor earnings by about 50 cents, decreases total labor taxes by 10 cents, and increases consumption expenditure by 60 cents. These effects are heterogeneous across the income distribution, with households in higher quartiles of the income distribution reducing their earnings by a larger amount. Next we examine margins of adjustment other than earnings and, in the course of doing so, address a number of important economic questions about how additional wealth or unearned income affect retirement decisions and labor market dynamics, family formation and dissolution, entrepreneurship and self-employment, and geographic mobility and neighborhood choice. Last, we carefully compare our findings to those reported in existing lottery studies. This comparison reveals that existing U.S. studies substantially underestimate wealth and income effects because they use measures that understate the earnings responses and overstate the after-tax wealth changes associated with lottery wins.</jats:p>"
+ },
+ {
+  "girdi": "Kangas Jauhiainen Simanainen Ylikanno|2021|Experimenting with Unconditional Basic Income: Lessons from the Finnish BI Experiment 2017-2018",
+  "benzerlik": 0.48,
+  "doi": "10.1007/s10680-025-09735-9",
+  "baslik": "How Changes in Cash Transfers Can Affect Childbearing Among Low-Income Women: Evidence from the Finnish Basic Income Experiment",
+  "yazarlar": [
+   [
+    "Simanainen",
+    "Miska"
+   ]
+  ],
+  "yil": 2025,
+  "dergi": "European Journal of Population",
+  "cilt": "41",
+  "sayi": "1",
+  "sayfa": null,
+  "tur": "journal-article",
+  "yayinci": "Springer Science and Business Media LLC",
+  "ozet": "<jats:title>Abstract</jats:title>\n                  <jats:p>The study analyses how a two-year guaranteed income program that provided a significant earnings supplement affected childbearing among previously unemployed women. Results from previous research indicate that cash transfers may increase fertility, for example, by compensating for the additional costs of childbearing and lost earnings opportunities. However, cash transfers may also induce incentives that lead to opposite fertility effects. The study provides new empirical evidence on the effect of cash transfers on childbearing by using register data from the Finnish basic income experiment conducted in 2017–2018. The intervention increased returns from employment relative to unemployment. As a result, it increased cash incentives to employment and other activities, such as studying, that compete with childbearing. The experiment offers a unique opportunity to study the causal effect of these changes on women’s childbearing decisions. According to the analysis, the experiment had a negative effect on the probability of having children among women who received basic income and a positive effect among women whose spouses received basic income. The findings suggest that while improvements in economic circumstances likely have a positive effect on childbearing, benefits conditional to working or other competing activities may have the opposite effect, at least in the short term. The findings emphasize the importance of c"
+ },
+ {
+  "girdi": "Van Parijs Vanderborght|2017|Basic Income: A Radical Proposal for a Free Society and a Sane Economy",
+  "benzerlik": 0.5,
+  "doi": "10.5117/9789053564615-ch09",
+  "baslik": "Basic Income at the Heart of Social Europe?",
+  "yazarlar": [
+   [
+    "Van Parijs",
+    "Philippe"
+   ]
+  ],
+  "yil": 2025,
+  "dergi": "Basic Income on the Agenda",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": "161-169",
+  "tur": "book-chapter",
+  "yayinci": "Routledge",
+  "ozet": ""
+ },
+ {
+  "girdi": "Gentilini Grosh Rigolini Yemtsov|2020|Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices",
+  "benzerlik": 1.0,
+  "doi": "10.1596/978-1-4648-1458-7",
+  "baslik": "Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices",
+  "yazarlar": [
+   [
+    "Gentilini",
+    "Ugo"
+   ],
+   [
+    "Grosh",
+    "Margaret"
+   ],
+   [
+    "Rigolini",
+    "Jamele"
+   ],
+   [
+    "Yemtsov",
+    "Ruslan"
+   ]
+  ],
+  "yil": 2019,
+  "dergi": "",
+  "cilt": null,
+  "sayi": null,
+  "sayfa": null,
+  "tur": "book",
+  "yayinci": "Washington, DC: World Bank",
+  "ozet": ""
+ }
+]
