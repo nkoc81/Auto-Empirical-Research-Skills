@@ -1,0 +1,34 @@
+Haushofer Shapiro|2016|The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya
+Lundberg Pollak Wales|1997|Do Husbands and Wives Pool Their Resources? Evidence from the United Kingdom Child Benefit
+Armand Attanasio Carneiro Lechene|2020|The Effect of Gender-Targeted Conditional Cash Transfers on Household Expenditures: Evidence from a Randomized Experiment
+Agarwal Liu Souleles|2007|The Reaction of Consumer Spending and Debt to Tax Rebates: Evidence from Consumer Credit Data
+Baugh Ben-David Park Parker|2021|Asymmetric Consumption Smoothing
+Hsieh|2003|Do Consumers React to Anticipated Income Changes? Evidence from the Alaska Permanent Fund
+Stephens|2003|3rd of tha Month: Do Social Security Recipients Smooth Consumption Between Checks?
+Stephens|2006|Paycheque Receipt and the Timing of Consumer Expenditure
+Shapiro|2005|Is there a daily discount rate? Evidence from the food stamp nutrition cycle
+Hastings Washington|2010|The First of the Month Effect: Consumer Behavior and Store Responses
+Barrow McGranahan|2000|The Effects of the Earned Income Credit on the Seasonality of Household Expenditures
+Parolin Ananat Collyer Curran Wimer|2023|The Effects of the Monthly and Lump-Sum Child Tax Credit Payments on Food and Housing Hardship
+Parker Todd|2017|Conditional Cash Transfers: The Case of Progresa/Oportunidades
+Hoddinott Skoufias|2004|The Impact of PROGRESA on Food Consumption
+Evans Popova|2017|Cash Transfers and Temptation Goods
+Handa Daidone Peterman Davis Pereira Palermo Yablonski|2018|Myth-Busting? Confronting Six Common Perceptions about Unconditional Cash Transfers as a Poverty Reduction Strategy in Africa
+Banerjee Faye Krueger Niehaus Suri|2023|Universal Basic Income: Short-Term Results from a Long-Term Experiment in Kenya
+Coibion Gorodnichenko Weber|2020|How Did U.S. Consumers Use Their Stimulus Payments?
+Nichols Rothstein|2016|The Earned Income Tax Credit
+Hoynes Patel|2018|Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income
+Fiszbein Schady|2009|Conditional Cash Transfers: Reducing Present and Future Poverty
+Bastagli Hagen-Zanker Harman Barca Sturge Schmidt|2019|The Impact of Cash Transfers: A Review of the Evidence from Low- and Middle-income Countries
+Pilkauskas Michelmore Kovski Shaefer|2023|The effects of the 2021 Child Tax Credit
+Gelman Kariv Shapiro Silverman Tadelis|2014|Harnessing naturally occurring data to measure the response of spending to income
+Kuhn Kooreman Soetevent Kapteyn|2011|The Effects of Lottery Prizes on Winners and Their Neighbors: Evidence from the Dutch Postcode Lottery
+Haushofer Shapiro|2018|The long-term impact of unconditional cash transfers: experimental evidence from Kenya
+Ganong Noel|2019|Consumer Spending during Unemployment: Positive and Normative Implications
+Aguila Kapteyn Perez-Arce|2017|Consumption Smoothing and Frequency of Benefit Payments of Cash Transfer Programs
+Mastrobuoni Weinberg|2009|Heterogeneity in Intra-monthly Consumption Patterns, Self-Control, and Savings at Retirement
+Jappelli Pistaferri|2014|Fiscal Policy and MPC Heterogeneity
+Misra Surico|2014|Consumption, Income Changes, and Heterogeneity: Evidence from Two Fiscal Stimulus Programs
+Shapiro Slemrod|2009|Did the 2008 Tax Rebates Stimulate Spending?
+Forget|2011|The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment
+West Castro Baker Samra Coltrera|2021|SEED stockton guaranteed income
