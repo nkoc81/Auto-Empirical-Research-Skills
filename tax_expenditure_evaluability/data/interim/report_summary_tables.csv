@@ -1,0 +1,940 @@
+report_id,table_kind,caption,page,line,fiscal_year,column,value,table_no,series
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,GV,2015,value,18097.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,GV,2016,value,20494.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,KV,2015,value,4131.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,KV,2016,value,4448.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,KDV,2015,value,1805.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,KDV,2016,value,2280.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,OTV,2015,value,463.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,OTV,2016,value,525.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,OTHER_LAWS,2015,value,1616.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,OTHER_LAWS,2016,value,2215.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,TOTAL,2015,value,26113.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,budget_law,Tablo 4 4 2015-2016 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri ,284,TOTAL,2016,value,29963.0,Tablo 4.4,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,GV,2015,value,0.93,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,GV,2016,value,0.95,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,KV,2015,value,0.21,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,KV,2016,value,0.21,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,KDV,2015,value,0.09,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,KDV,2016,value,0.11,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,OTV,2015,value,0.02,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,OTV,2016,value,0.02,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,OTHER_LAWS,2015,value,0.08,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,OTHER_LAWS,2016,value,0.1,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,TOTAL,2015,value,1.34,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_gdp,Tablo 4 5 2015-2016 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%) ,285,TOTAL,2016,value,1.39,Tablo 4.5,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,GV,2015,value,4.44,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,GV,2016,value,4.55,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,KV,2015,value,1.01,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,KV,2016,value,0.99,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,KDV,2015,value,0.44,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,KDV,2016,value,0.51,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,OTV,2015,value,0.11,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,OTV,2016,value,0.12,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,OTHER_LAWS,2015,value,0.4,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,OTHER_LAWS,2016,value,0.49,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,TOTAL,2015,value,6.4,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_taxrev,Tablo 4 6 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Genel Bütçe Vergi Gelirlerine Oranı (%) ,285,TOTAL,2016,value,6.66,Tablo 4.6,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,GV,2015,value,3.58,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,GV,2016,value,3.59,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,KV,2015,value,0.82,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,KV,2016,value,0.78,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,KDV,2015,value,0.36,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,KDV,2016,value,0.4,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,OTV,2015,value,0.09,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,OTV,2016,value,0.09,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,OTHER_LAWS,2015,value,0.32,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,OTHER_LAWS,2016,value,0.39,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,TOTAL,2015,value,5.16,Tablo 4.7,old_budget_annex_basis
+VHR2016,pct_expenditure,Tablo 4 7 2015-2016 Dönemi Vergi Harcaması Tahminlerinin Merkezi Yönetim Bütçe Giderlerine Oranı (%) ,286,TOTAL,2016,value,5.25,Tablo 4.7,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,GV,2015,value,58.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,GV,2016,value,58.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,KV,2015,value,28.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,KV,2016,value,28.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,KDV,2015,value,17.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,KDV,2016,value,17.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,OTV,2015,value,11.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,OTV,2016,value,11.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,OTHER_LAWS,2015,value,13.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,OTHER_LAWS,2016,value,15.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,TOTAL,2015,value,127.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,item_count,Tablo 4 8 2015-2016 Dönemi Vergi Harcaması Tahmin Edilen Kalem Sayısı ,286,TOTAL,2016,value,130.0,Tablo 4.8,old_budget_annex_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,GV,2015,value,30353.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,GV,2016,value,33699.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,GV,2017,value,37714.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,GV,2018,value,42134.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,GV,2019,value,46851.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KV,2015,value,12298.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KV,2016,value,13529.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KV,2017,value,15110.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KV,2018,value,16881.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KV,2019,value,18771.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KDV,2015,value,16865.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KDV,2016,value,20992.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KDV,2017,value,23493.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KDV,2018,value,26247.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,KDV,2019,value,29185.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,OTV,2015,value,10980.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,OTV,2016,value,12444.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,OTV,2017,value,14711.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,OTV,2018,value,16504.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,OTV,2019,value,17879.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,MTV,2015,value,534.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,MTV,2016,value,588.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,MTV,2017,value,658.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,MTV,2018,value,735.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,MTV,2019,value,817.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,BSMV,2015,value,8521.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,BSMV,2016,value,9374.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,BSMV,2017,value,10491.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,BSMV,2018,value,11721.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,BSMV,2019,value,13033.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,TOTAL,2015,value,79582.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,TOTAL,2016,value,90660.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,TOTAL,2017,value,102216.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,TOTAL,2018,value,114264.0,Tablo 4.10,report_basis
+VHR2016,amount,Tablo 4 10 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminleri ,289,TOTAL,2019,value,126584.0,Tablo 4.10,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,GV,2015,value,1.55,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,GV,2016,value,1.57,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,GV,2017,value,1.57,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,GV,2018,value,1.57,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,GV,2019,value,1.57,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KV,2015,value,0.63,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KV,2016,value,0.63,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KV,2017,value,0.63,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KV,2018,value,0.63,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KV,2019,value,0.63,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KDV,2015,value,0.86,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KDV,2016,value,0.98,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KDV,2017,value,0.98,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KDV,2018,value,0.98,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,KDV,2019,value,0.98,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,OTV,2015,value,0.56,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,OTV,2016,value,0.58,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,OTV,2017,value,0.61,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,OTV,2018,value,0.61,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,OTV,2019,value,0.6,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,MTV,2015,value,0.03,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,MTV,2016,value,0.03,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,MTV,2017,value,0.03,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,MTV,2018,value,0.03,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,MTV,2019,value,0.03,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,BSMV,2015,value,0.44,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,BSMV,2016,value,0.44,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,BSMV,2017,value,0.44,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,BSMV,2018,value,0.44,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,BSMV,2019,value,0.44,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,TOTAL,2015,value,4.08,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,TOTAL,2016,value,4.22,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,TOTAL,2017,value,4.25,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,TOTAL,2018,value,4.25,Tablo 4.11,report_basis
+VHR2016,pct_gdp,Tablo 4 11 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin GSYH’ye Oranı (%),290,TOTAL,2019,value,4.24,Tablo 4.11,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,GV,2015,value,7.44,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,GV,2016,value,7.49,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,GV,2017,value,7.38,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,GV,2018,value,7.43,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,GV,2019,value,7.51,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KV,2015,value,3.02,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KV,2016,value,3.01,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KV,2017,value,2.96,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KV,2018,value,2.98,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KV,2019,value,3.01,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KDV,2015,value,4.14,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KDV,2016,value,4.67,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KDV,2017,value,4.6,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KDV,2018,value,4.63,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,KDV,2019,value,4.68,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,OTV,2015,value,2.69,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,OTV,2016,value,2.77,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,OTV,2017,value,2.88,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,OTV,2018,value,2.91,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,OTV,2019,value,2.86,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,MTV,2015,value,0.13,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,MTV,2016,value,0.13,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,MTV,2017,value,0.13,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,MTV,2018,value,0.13,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,MTV,2019,value,0.13,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,BSMV,2015,value,2.09,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,BSMV,2016,value,2.08,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,BSMV,2017,value,2.05,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,BSMV,2018,value,2.07,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,BSMV,2019,value,2.09,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,TOTAL,2015,value,19.51,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,TOTAL,2016,value,20.15,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,TOTAL,2017,value,20.0,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,TOTAL,2018,value,20.15,Tablo 4.12,report_basis
+VHR2016,pct_taxrev,Tablo 4 12 2015-2019 Dönemi Yeni Belirlemeye Göre Vergi Harcaması GerçekleŞmesi ve Tahminlerinin Vergi Gelirlerine Oranı (%),291,TOTAL,2019,value,20.28,Tablo 4.12,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,GV,2018,value,54250.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,GV,2019,value,60954.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,GV,2020,value,68036.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,KV,2018,value,17654.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,KV,2019,value,19836.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,KV,2020,value,22141.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,KDV,2018,value,32821.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,KDV,2019,value,36877.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,KDV,2020,value,41161.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,OTV,2018,value,18863.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,OTV,2019,value,20708.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,OTV,2020,value,23114.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,OTHER_LAWS,2018,value,8554.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,OTHER_LAWS,2019,value,9611.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,OTHER_LAWS,2020,value,10728.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,TOTAL,2018,value,132142.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,TOTAL,2019,value,147986.0,Tablo 2,report_basis
+VHR2017,budget_law,Tablo 2: 2018-2020 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri,55,TOTAL,2020,value,165181.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,GV,2019,value,68267.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,GV,2020,value,78619.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,GV,2021,value,87800.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KV,2019,value,28031.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KV,2020,value,32435.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KV,2021,value,36159.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KDV,2019,value,49797.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KDV,2020,value,57469.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KDV,2021,value,64084.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTV,2019,value,24903.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTV,2020,value,27970.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTV,2021,value,31190.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTHER_LAWS,2019,value,7698.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTHER_LAWS,2020,value,8907.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTHER_LAWS,2021,value,9932.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,TOTAL,2019,value,178696.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,TOTAL,2020,value,205401.0,Tablo 2,report_basis
+VHR2018,budget_law,Tablo 2: 2019-2021 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,TOTAL,2021,value,229165.0,Tablo 2,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2017,value,49284.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2018,value,57954.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2019,value,68267.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2020,value,78619.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2021,value,87800.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2017,value,19567.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2018,value,23560.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2019,value,28031.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2020,value,32435.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2021,value,36159.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2017,value,34806.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2018,value,41909.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2019,value,49797.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2020,value,57469.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2021,value,64084.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2017,value,17619.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2018,value,21215.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2019,value,24903.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2020,value,27970.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2021,value,31190.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2017,value,5373.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2018,value,6470.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2019,value,7698.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2020,value,8907.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2021,value,9932.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2017,value,126650.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2018,value,151108.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2019,value,178696.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2020,value,205401.0,Tablo 3,report_basis
+VHR2018,amount,Tablo 3: 2017-2021 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2021,value,229165.0,Tablo 3,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2017,value,1.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2018,value,1.5,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2019,value,1.5,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2020,value,1.5,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2021,value,1.5,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2017,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2018,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2019,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2020,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2021,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2017,value,1.1,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2018,value,1.1,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2019,value,1.1,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2020,value,1.1,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2021,value,1.1,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2017,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2018,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2019,value,0.6,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2020,value,0.5,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2021,value,0.5,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2017,value,0.2,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2018,value,0.2,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2019,value,0.2,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2020,value,0.2,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2021,value,0.2,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2017,value,4.08,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2018,value,4.04,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2019,value,4.02,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2020,value,3.99,Tablo 4,report_basis
+VHR2018,pct_gdp,Tablo 4: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2021,value,3.99,Tablo 4,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2017,value,9.2,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2018,value,9.2,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2019,value,9.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2020,value,8.9,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2021,value,8.8,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2017,value,3.6,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2018,value,3.7,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2019,value,3.7,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2020,value,3.7,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2021,value,3.6,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2017,value,6.5,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2018,value,6.6,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2019,value,6.6,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2020,value,6.5,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2021,value,6.4,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2017,value,3.3,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2018,value,3.4,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2019,value,3.3,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2020,value,3.2,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2021,value,3.1,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2017,value,1.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2018,value,1.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2019,value,1.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2020,value,1.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2021,value,1.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2017,value,23.6,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2018,value,24.0,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2019,value,23.6,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2020,value,23.2,Tablo 5,report_basis
+VHR2018,pct_taxrev,Tablo 5: 2017-2021 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2021,value,22.9,Tablo 5,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,GV,2021,value,91173.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,GV,2022,value,101821.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,GV,2023,value,113083.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,KV,2021,value,49423.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,KV,2022,value,55249.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,KV,2023,value,61477.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,KDV,2021,value,58252.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,KDV,2022,value,65119.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,KDV,2023,value,72459.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,OTV,2021,value,20516.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,OTV,2022,value,22934.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,OTV,2023,value,25519.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,OTHER_LAWS,2021,value,11406.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,OTHER_LAWS,2022,value,12751.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,OTHER_LAWS,2023,value,14188.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,TOTAL,2021,value,230770.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,TOTAL,2022,value,257873.0,Tablo 1,report_basis
+VHR2020,budget_law,Tablo 1: 2021-2023 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),306,TOTAL,2023,value,286725.0,Tablo 1,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,GV,2019,value,70378.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,GV,2020,value,78110.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,GV,2021,value,91173.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,GV,2022,value,101821.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,GV,2023,value,113083.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KV,2019,value,37833.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KV,2020,value,42474.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KV,2021,value,49423.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KV,2022,value,55249.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KV,2023,value,61477.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KDV,2019,value,44778.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KDV,2020,value,50229.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KDV,2021,value,58252.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KDV,2022,value,65119.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,KDV,2023,value,72459.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTV,2019,value,15882.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTV,2020,value,17631.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTV,2021,value,20516.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTV,2022,value,22934.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTV,2023,value,25519.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTHER_LAWS,2019,value,8730.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTHER_LAWS,2020,value,9802.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTHER_LAWS,2021,value,11406.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTHER_LAWS,2022,value,12751.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,OTHER_LAWS,2023,value,14188.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,TOTAL,2019,value,177601.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,TOTAL,2020,value,198247.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,TOTAL,2021,value,230770.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,TOTAL,2022,value,257873.0,Tablo 2,report_basis
+VHR2020,amount,Tablo 2: 2019-2023 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,308,TOTAL,2023,value,286725.0,Tablo 2,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,GV,2019,value,1.6,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,GV,2020,value,1.6,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,GV,2021,value,1.6,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,GV,2022,value,1.6,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,GV,2023,value,1.6,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KV,2019,value,0.9,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KV,2020,value,0.9,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KV,2021,value,0.9,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KV,2022,value,0.9,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KV,2023,value,0.9,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KDV,2019,value,1.0,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KDV,2020,value,1.0,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KDV,2021,value,1.0,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KDV,2022,value,1.0,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,KDV,2023,value,1.0,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTV,2019,value,0.4,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTV,2020,value,0.4,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTV,2021,value,0.4,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTV,2022,value,0.4,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTV,2023,value,0.4,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTHER_LAWS,2019,value,0.2,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTHER_LAWS,2020,value,0.2,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTHER_LAWS,2021,value,0.2,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTHER_LAWS,2022,value,0.2,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,OTHER_LAWS,2023,value,0.2,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,TOTAL,2019,value,4.11,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,TOTAL,2020,value,4.09,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,TOTAL,2021,value,4.09,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,TOTAL,2022,value,4.09,Tablo 3,report_basis
+VHR2020,pct_gdp,Tablo 3: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),308,TOTAL,2023,value,4.08,Tablo 3,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,GV,2019,value,10.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,GV,2020,value,9.9,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,GV,2021,value,9.9,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,GV,2022,value,10.0,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,GV,2023,value,10.1,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KV,2019,value,5.6,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KV,2020,value,5.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KV,2021,value,5.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KV,2022,value,5.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KV,2023,value,5.5,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KDV,2019,value,6.6,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KDV,2020,value,6.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KDV,2021,value,6.3,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KDV,2022,value,6.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,KDV,2023,value,6.5,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTV,2019,value,2.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTV,2020,value,2.2,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTV,2021,value,2.2,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTV,2022,value,2.2,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTV,2023,value,2.3,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTHER_LAWS,2019,value,1.3,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTHER_LAWS,2020,value,1.2,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTHER_LAWS,2021,value,1.2,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTHER_LAWS,2022,value,1.2,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,OTHER_LAWS,2023,value,1.3,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,TOTAL,2019,value,26.4,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,TOTAL,2020,value,25.1,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,TOTAL,2021,value,25.0,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,TOTAL,2022,value,25.3,Tablo 4,report_basis
+VHR2020,pct_taxrev,Tablo 4: 2019-2023 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),309,TOTAL,2023,value,25.6,Tablo 4,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,GV,2022,value,127903.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,GV,2023,value,145989.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,GV,2024,value,165250.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,KV,2022,value,86108.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,KV,2023,value,98798.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,KV,2024,value,112420.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,KDV,2022,value,71275.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,KDV,2023,value,81780.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,KDV,2024,value,93055.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,OTV,2022,value,25911.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,OTV,2023,value,29730.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,OTV,2024,value,33829.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,OTHER_LAWS,2022,value,24771.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,OTHER_LAWS,2023,value,28422.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,OTHER_LAWS,2024,value,32277.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,TOTAL,2022,value,335968.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,TOTAL,2023,value,384718.0,Tablo 1,report_basis
+VHR2021,budget_law,Tablo 1: 2022-2024 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),314,TOTAL,2024,value,436831.0,Tablo 1,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,GV,2020,value,84378.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,GV,2021,value,111624.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,GV,2022,value,127903.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,GV,2023,value,145989.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,GV,2024,value,165250.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KV,2020,value,55152.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KV,2021,value,72649.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KV,2022,value,86108.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KV,2023,value,98798.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KV,2024,value,112420.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KDV,2020,value,65403.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KDV,2021,value,85337.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KDV,2022,value,71275.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KDV,2023,value,81780.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,KDV,2024,value,93055.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTV,2020,value,16596.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTV,2021,value,21861.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTV,2022,value,25911.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTV,2023,value,29730.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTV,2024,value,33829.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTHER_LAWS,2020,value,15866.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTHER_LAWS,2021,value,20900.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTHER_LAWS,2022,value,24771.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTHER_LAWS,2023,value,28422.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,OTHER_LAWS,2024,value,32277.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,TOTAL,2020,value,237395.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,TOTAL,2021,value,312372.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,TOTAL,2022,value,335968.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,TOTAL,2023,value,384718.0,Tablo 2,report_basis
+VHR2021,amount,Tablo 2: 2020-2024 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,316,TOTAL,2024,value,436831.0,Tablo 2,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,GV,2020,value,1.67,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,GV,2021,value,1.68,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,GV,2022,value,1.62,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,GV,2023,value,1.61,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,GV,2024,value,1.61,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KV,2020,value,1.09,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KV,2021,value,1.09,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KV,2022,value,1.09,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KV,2023,value,1.09,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KV,2024,value,1.09,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KDV,2020,value,1.3,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KDV,2021,value,1.28,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KDV,2022,value,0.9,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KDV,2023,value,0.9,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,KDV,2024,value,0.9,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTV,2020,value,0.33,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTV,2021,value,0.33,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTV,2022,value,0.33,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTV,2023,value,0.33,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTV,2024,value,0.33,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTHER_LAWS,2020,value,0.31,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTHER_LAWS,2021,value,0.31,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTHER_LAWS,2022,value,0.31,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTHER_LAWS,2023,value,0.31,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,OTHER_LAWS,2024,value,0.31,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,TOTAL,2020,value,4.7,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,TOTAL,2021,value,4.7,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,TOTAL,2022,value,4.26,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,TOTAL,2023,value,4.26,Tablo 3,report_basis
+VHR2021,pct_gdp,Tablo 3: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),316,TOTAL,2024,value,4.25,Tablo 3,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,GV,2020,value,10.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,GV,2021,value,10.6,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,GV,2022,value,10.2,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,GV,2023,value,10.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,GV,2024,value,10.0,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KV,2020,value,6.6,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KV,2021,value,6.9,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KV,2022,value,6.8,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KV,2023,value,6.8,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KV,2024,value,6.8,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KDV,2020,value,7.8,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KDV,2021,value,8.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KDV,2022,value,5.7,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KDV,2023,value,5.7,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,KDV,2024,value,5.6,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTV,2020,value,2.0,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTV,2021,value,2.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTV,2022,value,2.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTV,2023,value,2.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTV,2024,value,2.1,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTHER_LAWS,2020,value,1.9,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTHER_LAWS,2021,value,2.0,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTHER_LAWS,2022,value,2.0,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTHER_LAWS,2023,value,2.0,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,OTHER_LAWS,2024,value,2.0,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,TOTAL,2020,value,28.5,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,TOTAL,2021,value,29.5,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,TOTAL,2022,value,26.7,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,TOTAL,2023,value,26.6,Tablo 4,report_basis
+VHR2021,pct_taxrev,Tablo 4: 2020-2024 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),317,TOTAL,2024,value,26.5,Tablo 4,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,GV,2023,value,443472.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,GV,2024,value,539661.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,GV,2025,value,623303.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KV,2023,value,280840.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KV,2024,value,351798.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KV,2025,value,411457.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KDV,2023,value,161868.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KDV,2024,value,200976.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KDV,2025,value,232586.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTV,2023,value,45881.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTV,2024,value,57647.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTV,2025,value,67491.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTHER_LAWS,2023,value,62319.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTHER_LAWS,2024,value,78051.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTHER_LAWS,2025,value,91378.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,TOTAL,2023,value,994380.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,TOTAL,2024,value,1228134.0,Tablo 1,report_basis
+VHR2022,budget_law,Tablo 1: 2023-2025 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,TOTAL,2025,value,1426216.0,Tablo 1,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2021,value,133345.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2022,value,309405.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2023,value,443472.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2024,value,539661.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2025,value,623303.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2021,value,145957.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2022,value,240856.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2023,value,280840.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2024,value,351798.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2025,value,411457.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2021,value,94342.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2022,value,118728.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2023,value,161868.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2024,value,200976.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2025,value,232586.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2021,value,19456.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2022,value,33031.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2023,value,45881.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2024,value,57647.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2025,value,67491.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2021,value,30718.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2022,value,44865.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2023,value,62319.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2024,value,78051.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2025,value,91378.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2021,value,423817.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2022,value,746885.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2023,value,994380.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2024,value,1228134.0,Tablo 2,report_basis
+VHR2022,amount,Tablo 2: 2021-2025 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2025,value,1426216.0,Tablo 2,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2021,value,1.84,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2022,value,2.06,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2023,value,2.38,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2024,value,2.3,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2025,value,2.27,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2021,value,2.01,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2022,value,1.61,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2023,value,1.51,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2024,value,1.5,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2025,value,1.5,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2021,value,1.3,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2022,value,0.79,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2023,value,0.87,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2024,value,0.86,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2025,value,0.85,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2021,value,0.27,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2022,value,0.22,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2023,value,0.25,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2024,value,0.25,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2025,value,0.25,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2021,value,0.42,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2022,value,0.3,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2023,value,0.33,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2024,value,0.33,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2025,value,0.33,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2021,value,5.85,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2022,value,4.98,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2023,value,5.33,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2024,value,5.24,Tablo 3,report_basis
+VHR2022,pct_gdp,Tablo 3: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2025,value,5.2,Tablo 3,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2021,value,11.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2022,value,13.1,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2023,value,13.9,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2024,value,13.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2025,value,13.2,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2021,value,12.5,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2022,value,10.2,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2023,value,8.8,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2024,value,8.7,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2025,value,8.7,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2021,value,8.1,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2022,value,5.0,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2023,value,5.1,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2024,value,5.0,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2025,value,4.9,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2021,value,1.7,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2022,value,1.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2023,value,1.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2024,value,1.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2025,value,1.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2021,value,2.6,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2022,value,1.9,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2023,value,1.9,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2024,value,1.9,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2025,value,1.9,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2021,value,36.4,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2022,value,31.7,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2023,value,31.1,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2024,value,30.5,Tablo 4,report_basis
+VHR2022,pct_taxrev,Tablo 4: 2021-2025 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2025,value,30.2,Tablo 4,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,GV,2024,value,1006274.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,GV,2025,value,1249816.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,GV,2026,value,1434139.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KV,2024,value,657044.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KV,2025,value,837109.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KV,2026,value,989705.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KDV,2024,value,342278.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KDV,2025,value,431343.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,KDV,2026,value,493851.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTV,2024,value,61758.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTV,2025,value,74210.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTV,2026,value,84219.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTHER_LAWS,2024,value,143022.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTHER_LAWS,2025,value,185204.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,OTHER_LAWS,2026,value,220721.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,TOTAL,2024,value,2210376.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,TOTAL,2025,value,2777682.0,Tablo 1,report_basis
+VHR2023,budget_law,Tablo 1: 2024-2026 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),296,TOTAL,2026,value,3222634.0,Tablo 1,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2022,value,344579.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2023,value,660647.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2024,value,1006274.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2025,value,1249816.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,GV,2026,value,1434139.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2022,value,278102.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2023,value,446827.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2024,value,657044.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2025,value,837109.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KV,2026,value,989705.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2022,value,174683.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2023,value,235053.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2024,value,342278.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2025,value,431343.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,KDV,2026,value,493851.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2022,value,23104.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2023,value,42576.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2024,value,61758.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2025,value,74210.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTV,2026,value,84219.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2022,value,60265.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2023,value,91561.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2024,value,143022.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2025,value,185204.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,OTHER_LAWS,2026,value,220721.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2022,value,880732.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2023,value,1476664.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2024,value,2210376.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2025,value,2777682.0,Tablo 2,report_basis
+VHR2023,amount,Tablo 2: 2022-2026 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,298,TOTAL,2026,value,3222634.0,Tablo 2,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2022,value,2.3,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2023,value,2.59,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2024,value,2.44,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2025,value,2.36,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,GV,2026,value,2.28,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2022,value,1.85,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2023,value,1.75,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2024,value,1.6,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2025,value,1.58,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KV,2026,value,1.57,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2022,value,1.16,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2023,value,0.92,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2024,value,0.83,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2025,value,0.81,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,KDV,2026,value,0.78,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2022,value,0.15,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2023,value,0.17,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2024,value,0.15,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2025,value,0.14,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTV,2026,value,0.13,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2022,value,0.4,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2023,value,0.36,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2024,value,0.35,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2025,value,0.35,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,OTHER_LAWS,2026,value,0.35,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2022,value,5.87,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2023,value,5.79,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2024,value,5.37,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2025,value,5.25,Tablo 3,report_basis
+VHR2023,pct_gdp,Tablo 3: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),298,TOTAL,2026,value,5.12,Tablo 3,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2022,value,14.6,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2023,value,14.7,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2024,value,13.6,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2025,value,13.1,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,GV,2026,value,12.6,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2022,value,11.8,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2023,value,9.9,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2024,value,8.9,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2025,value,8.8,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KV,2026,value,8.7,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2022,value,7.4,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2023,value,5.2,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2024,value,4.6,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2025,value,4.5,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,KDV,2026,value,4.4,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2022,value,1.0,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2023,value,0.9,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2024,value,0.8,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2025,value,0.8,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTV,2026,value,0.7,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2022,value,2.6,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2023,value,2.0,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2024,value,1.9,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2025,value,1.9,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,OTHER_LAWS,2026,value,1.9,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2022,value,37.4,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2023,value,32.8,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2024,value,29.8,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2025,value,29.2,Tablo 4,report_basis
+VHR2023,pct_taxrev,Tablo 4: 2022-2026 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),299,TOTAL,2026,value,28.4,Tablo 4,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,GV,2025,value,1417924.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,GV,2026,value,1567898.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,GV,2027,value,1713211.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,KV,2025,value,701028.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,KV,2026,value,794142.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,KV,2027,value,875581.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,KDV,2025,value,519580.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,KDV,2026,value,569639.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,KDV,2027,value,639197.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,OTV,2025,value,133360.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,OTV,2026,value,146706.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,OTV,2027,value,157929.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,OTHER_LAWS,2025,value,233275.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,OTHER_LAWS,2026,value,262041.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,OTHER_LAWS,2027,value,287033.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,TOTAL,2025,value,3005167.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,TOTAL,2026,value,3340425.0,Tablo 1,report_basis
+VHR2024,budget_law,Tablo 1: 2025-2027 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),301,TOTAL,2027,value,3672952.0,Tablo 1,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,GV,2023,value,697470.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,GV,2024,value,1144604.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,GV,2025,value,1417924.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,GV,2026,value,1567898.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,GV,2027,value,1713211.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KV,2023,value,571719.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KV,2024,value,607693.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KV,2025,value,701028.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KV,2026,value,794142.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KV,2027,value,875581.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KDV,2023,value,301197.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KDV,2024,value,392278.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KDV,2025,value,519580.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KDV,2026,value,569639.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,KDV,2027,value,639197.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTV,2023,value,53932.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTV,2024,value,122657.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTV,2025,value,133360.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTV,2026,value,146706.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTV,2027,value,157929.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTHER_LAWS,2023,value,105139.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTHER_LAWS,2024,value,186806.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTHER_LAWS,2025,value,233275.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTHER_LAWS,2026,value,262041.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,OTHER_LAWS,2027,value,287033.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,TOTAL,2023,value,1729457.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,TOTAL,2024,value,2454037.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,TOTAL,2025,value,3005167.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,TOTAL,2026,value,3340425.0,Tablo 2,report_basis
+VHR2024,amount,Tablo 2: 2023-2027 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,303,TOTAL,2027,value,3672952.0,Tablo 2,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,GV,2023,value,2.63,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,GV,2024,value,2.59,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,GV,2025,value,2.3,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,GV,2026,value,2.15,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,GV,2027,value,2.06,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KV,2023,value,2.15,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KV,2024,value,1.37,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KV,2025,value,1.14,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KV,2026,value,1.09,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KV,2027,value,1.05,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KDV,2023,value,1.13,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KDV,2024,value,0.89,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KDV,2025,value,0.84,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KDV,2026,value,0.78,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,KDV,2027,value,0.77,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTV,2023,value,0.2,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTV,2024,value,0.28,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTV,2025,value,0.22,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTV,2026,value,0.2,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTV,2027,value,0.19,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTHER_LAWS,2023,value,0.4,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTHER_LAWS,2024,value,0.42,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTHER_LAWS,2025,value,0.38,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTHER_LAWS,2026,value,0.36,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,OTHER_LAWS,2027,value,0.35,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,TOTAL,2023,value,6.52,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,TOTAL,2024,value,5.55,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,TOTAL,2025,value,4.88,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,TOTAL,2026,value,4.58,Tablo 3,report_basis
+VHR2024,pct_gdp,Tablo 3: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),303,TOTAL,2027,value,4.42,Tablo 3,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2023,value,15.5,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2024,value,15.7,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2025,value,12.7,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2026,value,11.9,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,GV,2027,value,11.4,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KV,2023,value,12.7,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KV,2024,value,8.3,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KV,2025,value,6.3,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KV,2026,value,6.0,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KV,2027,value,5.8,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KDV,2023,value,6.7,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KDV,2024,value,5.4,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KDV,2025,value,4.7,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KDV,2026,value,4.3,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,KDV,2027,value,4.2,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTV,2023,value,1.2,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTV,2024,value,1.7,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTV,2025,value,1.2,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTV,2026,value,1.1,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTV,2027,value,1.0,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTHER_LAWS,2023,value,2.3,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTHER_LAWS,2024,value,2.6,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTHER_LAWS,2025,value,2.1,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTHER_LAWS,2026,value,2.0,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,OTHER_LAWS,2027,value,1.9,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,TOTAL,2023,value,38.4,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,TOTAL,2024,value,33.6,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,TOTAL,2025,value,27.0,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,TOTAL,2026,value,25.3,Tablo 4,report_basis
+VHR2024,pct_taxrev,Tablo 4: 2023-2027 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),304,TOTAL,2027,value,24.4,Tablo 4,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,GV,2026,value,1728957.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,GV,2027,value,1882839.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,GV,2028,value,2059763.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KV,2026,value,768069.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KV,2027,value,780158.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KV,2028,value,800668.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KDV,2026,value,728591.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KDV,2027,value,815515.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,KDV,2028,value,899093.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTV,2026,value,91718.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTV,2027,value,103333.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTV,2028,value,114609.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTHER_LAWS,2026,value,279805.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTHER_LAWS,2027,value,297985.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,OTHER_LAWS,2028,value,313576.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,TOTAL,2026,value,3597140.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,TOTAL,2027,value,3879831.0,Tablo 1,report_basis
+VHR2025,budget_law,Tablo 1: 2026-2028 Dönemi Merkezi Yönetim Bütçe Kanununa Eklenen Vergi Harcaması Tahminleri (Milyon TL),302,TOTAL,2028,value,4187709.0,Tablo 1,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2024,value,1221932.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2025,value,1483706.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2026,value,1728957.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2027,value,1882839.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,GV,2028,value,2059763.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2024,value,685239.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2025,value,752854.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2026,value,768069.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2027,value,780158.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KV,2028,value,800668.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2024,value,501015.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2025,value,605020.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2026,value,728591.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2027,value,815515.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,KDV,2028,value,899093.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2024,value,129694.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2025,value,76925.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2026,value,91718.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2027,value,103333.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTV,2028,value,114609.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2024,value,214974.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2025,value,251791.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2026,value,279805.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2027,value,297985.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,OTHER_LAWS,2028,value,313576.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2024,value,2752854.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2025,value,3170297.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2026,value,3597140.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2027,value,3879831.0,Tablo 2,report_basis
+VHR2025,amount,Tablo 2: 2024-2028 Dönemi Vergi Harcaması Tahminleri (Milyon TL) ,304,TOTAL,2028,value,4187709.0,Tablo 2,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2024,value,2.74,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2025,value,2.39,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2026,value,2.24,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2027,value,2.11,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,GV,2028,value,2.03,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2024,value,1.54,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2025,value,1.21,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2026,value,0.99,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2027,value,0.87,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KV,2028,value,0.79,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2024,value,1.12,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2025,value,0.97,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2026,value,0.94,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2027,value,0.91,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,KDV,2028,value,0.89,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2024,value,0.29,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2025,value,0.12,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2026,value,0.12,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2027,value,0.12,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTV,2028,value,0.11,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2024,value,0.48,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2025,value,0.4,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2026,value,0.36,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2027,value,0.33,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,OTHER_LAWS,2028,value,0.31,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2024,value,6.17,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2025,value,5.1,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2026,value,4.66,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2027,value,4.34,Tablo 3,report_basis
+VHR2025,pct_gdp,Tablo 3: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin GSYH’ye Oranı (%),304,TOTAL,2028,value,4.13,Tablo 3,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,GV,2024,value,16.7,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,GV,2025,value,13.4,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,GV,2026,value,12.5,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,GV,2027,value,11.7,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,GV,2028,value,11.3,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2024,value,9.4,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2025,value,6.8,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2026,value,5.6,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2027,value,4.9,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KV,2028,value,4.4,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2024,value,6.9,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2025,value,5.5,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2026,value,5.3,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2027,value,5.1,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,KDV,2028,value,4.9,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2024,value,1.8,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2025,value,0.7,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2026,value,0.7,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2027,value,0.6,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTV,2028,value,0.6,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2024,value,2.9,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2025,value,2.3,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2026,value,2.0,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2027,value,1.9,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,OTHER_LAWS,2028,value,1.7,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2024,value,37.68,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2025,value,28.69,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2026,value,26.1,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2027,value,24.2,Tablo 4,report_basis
+VHR2025,pct_taxrev,Tablo 4: 2024-2028 Dönemi Vergi Harcaması Tahminlerinin Vergi Gelirlerine Oranı (%),305,TOTAL,2028,value,22.89,Tablo 4,report_basis

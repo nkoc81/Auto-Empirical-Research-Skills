@@ -1,0 +1,107 @@
+# PROJE DURUMU – Veri Uygunluğu (Fizibilite) Raporu
+
+**Proje:** Evaluability of Tax Expenditures in Türkiye: An Assessment of Official Reporting Against the IMF Evaluation Framework
+**Tarih:** 22 Kasım 2026 (tüm erişim tarihleri bu tarihtir)
+**Durum:** Kaynak taraması, belge temini, ek tablolarının çıkarımı ve mutabakatı tamamlandı. Kodlama ve analiz **henüz yapılmadı**; aşağıdaki bulgular yalnızca veri uygunluğuna ilişkindir, araştırma sonucu değildir.
+
+---
+
+## 1. Hangi yılların hangi resmî belgeleri bulundu?
+
+Ayrıntılı envanter: `data/source_inventory.csv` (kurum, başlık, belge türü, yayın yılı, kapsadığı mali yıllar, kalıcı URL, erişim tarihi, yerel dosya yolu, sayfa sayısı, kapsam, durum).
+
+| Belge | Kurum | Yayın (PDF oluşturma tarihi) | Gerçekleşme yılı (ek sütun 1) | Tahmin yılları | Durum |
+|---|---|---|---|---|---|
+| Vergi Harcamaları Raporu 2007 | Maliye Bakanlığı | 2007-10 | (yöntem temeli) | – | indirildi; yalnızca bağlam |
+| VHR 2016 (+ EK I-6, EK I-7 ayrı dosyalar) | Maliye Bakanlığı GPGM | 2016-10-12 | 2015 | 2016–2019 | indirildi |
+| VHR 2017 | Maliye Bakanlığı GPGM | 2018-03-08 | 2016 | 2017–2020 | indirildi |
+| VHR 2018 | Hazine ve Maliye Bakanlığı GPGM | 2018-10-18 | 2017 | 2018–2021 | indirildi |
+| VHR 2019 | – | – | (2018) | – | **bulunamadı** |
+| VHR 2020 | HMB Gelir İdaresi Başkanlığı | 2020-11-19 | 2019 | 2020–2023 | indirildi |
+| VHR 2021 | GİB | 2022-01-28 | 2020 | 2021–2024 | indirildi |
+| VHR 2022 | GİB | 2023-03-23 | 2021 | 2022–2025 | indirildi |
+| VHR 2023 | GİB | 2024-02-22 | 2022 | 2023–2026 | indirildi |
+| VHR 2024 | GİB | 2025-03-04 | 2023 | 2024–2027 | indirildi |
+| VHR 2025 (en güncel) | GİB | 2026-02-26 | 2024 | 2025–2028 | indirildi |
+| IMF How-To Note 22/05 (Beer, Benedek, Erard, Loeprick) | IMF FAD | 2022-11 | – | – | indirildi; DOI 10.5089/9798400221507.061 CrossRef ile doğrulandı |
+
+Notlar:
+- **2019 raporu bulunamadı.** HMB arşiv sayfası yalnızca 2007, 2016, 2017, 2018 raporlarını; GİB sayfası 2020–2025 raporlarını listeliyor. GİB dosya sunucusunda 2019 ve 2026 adları HTTP 400 döndürüyor. İkincil bir kaynakta 2019 raporundan söz edilmesi, resmî bir kopyaya ulaşılamadığı için kullanılmadı. Sonuç: **2018 gerçekleşme yılı serisi eksiktir.**
+- **En güncel rapor 2025 raporudur** (Şubat 2026). 2026 raporu henüz yayımlanmamış görünüyor (dosya adı sunucuda yok, listeleme sayfasında yok).
+- Kullanıcının verdiği `teknoloji.gib.gov.tr` adresi 404 döndürdü; aynı belge `cdn.gib.gov.tr` üzerinden alındı (envanterde kalıcı URL olarak bu adres kayıtlı).
+- **Bütçe kanunu ekleri** ayrı belge türü olarak envantere girildi ancak ayrıca indirilmedi. Raporlar bütçe kanununa eklenen vergi türü toplamlarını kendi tablolarında yeniden basıyor (2016 Tablo 4.4; 2017 Tablo 2; 2018 Tablo 2; 2020–2025 Tablo 1). Analizde bu rakamlar `budget_law` serisi olarak ayrı tutulacak; rapor tutarlarıyla toplanmayacak (çift sayım yok). 2025 raporundaki bütçe kanunu tutarları raporun kendi tahmin sütunlarıyla birebir aynıdır (2026: 3.597.140 milyon TL).
+- **Sanayi ve Teknoloji Bakanlığı** sitesi otomatik erişime “The requested URL was rejected” yanıtı veriyor; erişim kısıtı aşılmaya çalışılmadı. Bu kaynak elle indirilip `data/raw/sanayi/` klasörüne konursa eklenebilir. Ancak teşvik belgesi istatistikleri **öngörülen (planlanan)** yatırım ve istihdamı gösterir; ne vergi harcaması maliyeti ne de nedensel etki ölçüsüdür. Bu nedenle çalışmanın ana sorusu için zorunlu değildir; yalnızca “raporlarda çıktı/gösterge bilgisi yok, ama başka kurumlarda kısmi bilgi var” tespitini desteklemek için kullanılabilir.
+- **GTED, OECD, TÜİK:** Oranlar için raporların kendi resmî tabloları (GSYH’ye ve vergi gelirlerine oranlar) yeterli olduğundan ayrıca payda verisi gerekmiyor. GTED yalnızca uluslararası bağlam için (Türkiye’nin GTED’deki kaydı) isteğe bağlıdır.
+
+## 2. Veri çıkarımı ve mutabakat (yapılanlar)
+
+- Ek I-1…I-5 tabloları (madde, açıklama, 5 yıl tutar, tahmin kalitesi, hücre durumu) 9 rapordan çıkarıldı: toplam **2.112 rapor-kalem satırı**, panelde **10.560 rapor-kalem-yıl gözlemi** (`data/tax_expenditure_panel.csv`). Her satırda kaynak PDF sayfası, URL ve yerel dosya yolu var.
+- Teknik sorunlar ve çözümler: 2020–2023 eklerinde tablolar 90° döndürülmüş; 2017’de bozuk karakter kodlaması; 2018 ekinde fontlarda Unicode eşlemesi yok (glif eşlemesi öğrenilerek çözüldü, `scripts/00_decode_2018_glyphs.py`); 2016’da MTV ve ÖİV sayfaları otomatik çıkarıcıdan kaçtı ve 5 satır elle aktarıldı (`data/interim/manual_rows_VHR2016.csv`, sayfa notlu).
+- **Mutabakat 1 (kalem toplamı ↔ alt tablo GENEL TOPLAM):** basılı GENEL TOPLAM satırı olan 402 alt tablo-yıl karşılaştırmasının 395’i ±5 bin TL içinde (yuvarlama); 93 alt tablo-yılda (çoğu tek satırlık alt tablolar) basılı toplam yok. Kalan farkların hepsi kaynağına kadar izlendi (`outputs/tables/official_document_inconsistencies.csv`).
+- **Mutabakat 2 (ek toplamları ↔ rapor gövdesindeki toplam tablosu):** 2016, 2018, 2020–2025’te genel toplamlar ±0,5 milyon TL içinde uyuşuyor. 2017 raporunda gövdede toplam tutar tablosu yok (yalnızca bütçe kanunu tahmini).
+- **Resmî belgelerin kendi iç tutarsızlıkları** (çıkarım hatası değil; belgede doğrulandı):
+  - VHR2020 Tablo 2: GV 2020 = 78.110 milyon TL; ekin alt toplamları 77.910 milyon TL (200 milyonluk fark, büyük olasılıkla dizgi hatası).
+  - VHR2022 Ek I-3 sıra 48 (KDV Geç. Md. 39): 2025 sütununda “-” basılı, ama alt tablo toplamı bu kalem için 1.167 milyon TL içeriyor.
+  - VHR2023 Ek I-1 sıra 49 (GVK 89/3): kalem basılı, ancak alt tablo toplamı ve gövde tablosu bu kalemi içermiyor (2,2–9,4 milyon TL).
+  - VHR2023: 6111 s. K. Geç. Md. 16 kalemi 2026 için “-”; gövde KDV 2026 rakamı ise 1.292 milyon TL fazladan içeriyor.
+  - VHR2017 GV ana tablo 2016: 60 bin TL’lik açıklanamayan fark.
+
+## 3. Hangi kalemler yıllar arasında karşılaştırılabilir?
+
+- Kalemler raporlar arasında **vergi türü + alt tablo (ana kanun/diğer kanunlar) + normalize edilmiş yasal dayanak + açıklama benzerliği** ile eşleştirildi (`scripts/02_build_panel.py`). Sonuç: **338 benzersiz kalem kimliği**. Eşleşme yöntemi her satırda kayıtlı (`link_method`): 2020–2025’te kalemlerin %85–97’si “yasal dayanak + açıklama” ile eşleşiyor; zayıf eşleşmeler (yalnızca açıklama / yalnızca madde) elle örneklem denetiminden geçirildi, büyük çoğunluğu doğru; yasa numarası çelişen eşleşmeler engellendi. Kalem eşleştirmesi bir araştırma kurgusudur; kalem düzeyinde zaman serisi analizleri yalnızca güçlü eşleşmelerle yapılacak.
+- **En karşılaştırılabilir dönem: 2020–2025 raporları (GİB, gerçekleşme yılları 2019–2024).** Aynı kurum, aynı ek yapısı (Ek I-1…I-5, II, III, IV), aynı vergi türü kapsamı (GV, KV, KDV, ÖTV, BSMV, MTV, ÖİV) ve aynı gövde tabloları.
+- **2016–2018 raporları** aynı yöntem ailesinde (“yeni belirleme”) ve aynı yedi vergiyi kapsıyor; karşılaştırılabilir ama aşağıdaki kırılmalar dikkate alınmalı.
+- Rapor başına kalem sayısı: 2016: 193; 2017: 223; 2018: 233; 2020: 252; 2021: 252; 2022: 256; 2023: 236; 2024: 236; 2025: 231. Bu değişim, kapsam değişikliği ile yeni/kaldırılan düzenlemeleri birlikte yansıtır; ayrıştırma analiz aşamasında yapılacak.
+
+## 4. Adlar, kapsam, sınıflandırma ve yöntemde değişiklikler
+
+1. **2016’da seri kırılması:** 2016 raporu iki seri basıyor: (a) 2007 yöntemine dayanıp nominal büyüklüklerle büyütülen eski bütçe eki serisi (2015: 26.113 milyon TL, GSYH’nin %1,34’ü; Tablo 4.4–4.8) ve (b) “yeni belirlemeye göre” seri (2015: 79.582 milyon TL, GSYH’nin %4,08’i; Tablo 4.10–4.12). İkisi birleştirilemez. 2008–2015 bütçe eki tutarları bu yüzden kapsam dışı.
+2. **Vergi türü gruplaması:** 2016 gövde tablosu BSMV, MTV, ÖİV’yi ayrı satırlarda ve “diğer kanunlar” kalemlerini ana vergilerin içinde veriyor; 2018’den itibaren BSMV+MTV+ÖİV “Diğer Kanunlar” satırında toplanıyor. Analizde vergi türleri ek tablolardan yeniden kurulduğu için karşılaştırılabilirlik sağlanabiliyor.
+3. **Kapsam:** Yalnızca 2016 raporunun eki damga vergisi (32), harçlar (99), veraset ve intikal (19), emlak (47), belediye gelirleri (34) hükümlerini **tutar vermeden** listeliyor; sonraki raporlar bu vergileri hiç listelemiyor. Savunma/askerî amaçlı istisnalar ve uluslararası anlaşmalara bağlı uygulamalar (ör. diplomat muaflığı) tüm raporlarda kapsam dışı.
+4. **Anlatı (Bölüm 2) kapsamı:** 2016, 2018, 2020–2025 raporları her madde için anlatı içeriyor (yasa metni, gerekçe/amaç cümlesi, yararlananlar, vergi harcaması niteliği, hesaplama yöntemi). **2017 raporu yalnızca yeni vergi harcamalarını** anlatıyor; mevcut kalemler için anlatı yok.
+5. **Kurumsal değişiklik:** 2016–2018 Maliye/HMB Gelir Politikaları Genel Müdürlüğü; 2020’den itibaren Gelir İdaresi Başkanlığı (Gelir Bütçesi Daire Başkanlığı).
+6. **Başlık yılı ile tutar yılı ilişkisi değişti:** 2018–2022 raporlarının özet cümleleri gerçekleşme yılını (ör. “2021 yılında %5,85”) öne çıkarırken 2023–2025 raporları rapor yılının **tahmin** tutarını öne çıkarıyor (ör. 2025 raporu: “2025 yılında 3.170,3 milyar TL, GSYH’nin %5,1’i”), oysa bu raporlarda gerçekleşme yılı bir önceki yıldır (2024: GSYH’nin %6,17’si).
+7. **Tahmin dönemi makro temeli:** 2016–2018’de “nominal GSYH artışı”/YEP hedefleri; 2020 sonrası OVP makro çerçevesi ve “son vergisel düzenlemeler”.
+
+## 5. “Gerçekleşme” ve “tahmin” ne anlama geliyor?
+
+- Ek tablo başlıkları ilk sütunu “gerçekleşme” diye etiketlemiyor (2016’da tüm sütunların üstünde “Tahmin (Bin TL)”, 2017’de “Tahmin (*)”, GİB raporlarında yalnızca yıllar ve “(Bin TL)”). Anlam gövde metninden çıkıyor: ör. 2025 raporu: “Vazgeçilen vergi tutarları 2024 yılı verilerine göre hesaplanmış, 2025-2028 yıllarına ilişkin tutarlar ise Orta Vadeli Program kapsamında duyurulan makroekonomik hedefler baz alınarak tahmin edilmiştir.”
+- Dolayısıyla **“gerçekleşme”**, o yılın beyanname ve kurum verileriyle yapılmış *statik vazgeçilen gelir hesaplamasıdır* (ölçülmüş bir harcama değil, veriye dayalı ex post bir tahmindir). **“Tahmin”** ise gerçekleşme tutarlarının makro büyüklüklerle (ve bilinen düzenleme değişiklikleriyle) ileriye taşınmasıdır; 2016 raporu bunu açıkça yazıyor (“2015 gerçekleşme rakamları nominal GSYH artışı oranında artırılarak”; bu nedenle tahmin yıllarında GSYH’ye oran sabit kalıyor).
+- **Yöntem:** Tüm raporlar vazgeçilen gelir (revenue forgone) yöntemini ve “mükellef davranışında ya da ekonomik aktivitede değişiklik olmayacağı” varsayımını kullandığını belirtiyor. Bu tutarlar **politika etkisi değildir**; kaldırılma halinde elde edilecek gelir de değildir. Makalede böyle sunulmayacak.
+- **Tahmin kalitesi:** Tek tanım, “kullanılan verinin güvenirliliği ve kapsamına göre tespiti yapılan vergi harcaması tutarlarının ‘çok iyi’, ‘iyi’ ya da ‘yaklaşık’ şeklinde sınıflandırılan tahmin kalitesi” cümlesidir (2025 raporu, Giriş, PDF s. 15; 2018 ve 2020–2024 raporlarında aynı cümle; 2016 raporunda benzer biçimde “kullanılan verinin güvenirliliği ve kalitesine göre ‘çok iyi’, ‘iyi’ ya da ‘yaklaşık’ ifadeleri kullanılarak” denmekte; 2017 raporunda tanım bulunamadı). Hangi ölçütle hangi etikete karar verildiği, belirsizlik aralığı veya standart hata **açıklanmıyor**. Bu bir veri bulgusudur ve 4. ölçütün kodlanmasında kullanılacak.
+- Gerçekleşme yılı hücre durumları (rapor başına kalem): tahmin edilmiş 139–199; “Veri temin edilememiştir” 22–35; “Vergi harcaması oluşmamıştır” 9–23; “Yeni uygulama” 0–16; başka kalem içinde 1–10. Bu dağılım, kalem düzeyinde maliyet bilgisinin ne ölçüde var olduğunu doğrudan gösteriyor.
+
+## 6. Hangi IMF ölçütleri kodlanabilir, hangileri için bilgi yok?
+
+IMF notu (How-To Note 22/05) puanlı bir kontrol listesi vermiyor; değerlendirme sürecini (amaç beyanı, değişim kuramı, önceden tanımlı göstergeler, maliyet ve tahmin güvenilirliği, yararlanıcılar, ek katkı/karşı-olgusal, alternatif araçlar, periyodik değerlendirme ve yayımlama) anlatıyor. Bizim 9 ölçütümüz bu içeriğin belgeye uygulanabilir bir operasyonelleştirmesidir; eşleştirme tablosu `data/codebook.md` içinde verilecek. Notun kendisi kurumsal bir rehberdir, hakemli yayın değildir.
+
+| # | Ölçüt | Bilgi kaynağı | Kodlanabilirlik (ön inceleme) |
+|---|---|---|---|
+| 1 | Politika amacı | Bölüm 2 anlatıları (“...amacıyla düzenlenmiştir” türü cümleler) | **Kodlanabilir.** Çoğu maddede genel bir gerekçe cümlesi var; ölçülebilir hedef görülmedi. |
+| 2 | Yararlanıcı grup/sektör/faaliyet | Anlatılar (uygunluk koşulları), Ek IV (en büyük kalemlerin NACE dağılımı) | **Kodlanabilir.** Tanım düzeyinde bilgi var; yararlanıcı sayısı ön taramada bulunamadı. |
+| 3 | Kalem düzeyi maliyet tahmini | Ek I | **Tam kodlanabilir**, tüm rapor-kalem-yıllar için (hücre durumundan). |
+| 4 | Tahmin kalitesi/belirsizlik | Ek I kalite sütunu, yöntem metni | **Kodlanabilir.** Etiket var, tanımı ve belirsizlik ölçüsü yok. |
+| 5 | Beklenen politika çıktısı | Anlatılar | Kodlanabilir; ön taramada çoğunlukla genel ifadeler (“istihdamı artırmak” vb.). |
+| 6 | Gösterge/gerçekleşen çıktı verisi | Tüm metin | Kodlanabilir; ön anahtar sözcük taramasında yararlanıcı sayısı, gösterge veya çıktı verisi bulunamadı (kesinleştirilecek). |
+| 7 | Ek katkı/karşı-olgusal | Tüm metin | Kodlanabilir; ön taramada “etki analizi” geçmiyor (kesinleştirilecek). |
+| 8 | Maliyet-etkinlik/alternatif araç | Tüm metin | Kodlanabilir; ön taramada “maliyet-etkinlik/fayda-maliyet” geçmiyor; “harcama denkliği” yalnızca yöntem tanımında. |
+| 9 | Düzenli gözden geçirme (sona erme, yenileme, değerlendirme) | Anlatılardaki yasa metinleri | Kısmen: bazı hükümlerde yasal süre/bitiş tarihi var (yasa metninden); değerlendirmeye bağlı yenileme ya da gözden geçirme ön taramada yok. |
+
+Önemli ayrım: “belgede yok” (0) ile “politikada yok” aynı şey değildir. Raporlarda bilgi bulunmaması, ilgili kurumların bu bilgiyi hiç üretmediği anlamına gelmez; kodlama yalnızca **resmî raporlama** hakkındadır. Bağımsız ikinci kodlayıcı yoktur; bu açıkça belirtilecek ve tekrar kodlama bağımsız kodlama gibi sunulmayacak.
+
+## 7. Uygulanabilir dönem ve kapsam (öneri)
+
+- **Belgeler:** 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025 Vergi Harcamaları Raporları (9 rapor).
+- **Mali yıllar:** gerçekleşme yılları 2015, 2016, 2017, 2019–2024 (2018 eksik); tahminler 2016–2028. Rapor “vintage”ları çakıştığı için aynı yıl için tahmin ile sonraki raporun gerçekleşmesi karşılaştırılabilir (ör. 2023 raporunun 2023 tahmini ↔ 2024 raporunun 2023 gerçekleşmesi). Bu bir tahmin revizyonu analizidir, etkililik ölçüsü değildir.
+- **Analiz birimleri:**
+  - Ölçüt 3–4 ve hücre durumları: **rapor × kalem × yıl** (tüm panel).
+  - Ölçüt 1, 2, 5–9: **rapor × anlatı bölümü (madde)**, kalemlere yasal dayanakla bağlanarak. Anlatılar raporlar arasında büyük ölçüde aynen tekrarlandığı için tam kodlama en güncel (2025) ve ilk (2016) raporlarda yapılacak; ara raporlarda metin karşılaştırmasıyla değişen bölümler ayrıca kodlanacak, değişmeyenlerde kodun taşındığı açıkça işaretlenecek.
+- **Nicel göstergeler:** Raporların kendi resmî oranları (GSYH’ye ve genel bütçe vergi gelirlerine oran). Nominal TL karşılaştırması yapılmayacak (yüksek enflasyon dönemi; güvenilir bir deflatörle uzun dönem karşılaştırma yerine oranlar kullanılacak). Vergi türü dağılımları ek tablolardan; fonksiyonel sınıflandırma (Ek II) yalnızca 2020–2025’te tutarlı biçimde çıkarılabilirse kullanılacak.
+- **Kapsam dışı:** etki/etkililik tahmini; 2008–2015 bütçe eki serisi (yöntem kırılması); Sanayi ve Teknoloji Bakanlığı verileri (erişilemedi, ayrıca maliyet ölçüsü değil).
+
+## 8. Sıradaki adımlar
+
+1. `data/codebook.md` ve karar günlüğü; IMF ölçüt eşleştirme tablosu.
+2. Anlatı bölümlerinin çıkarımı ve kalem-bölüm bağlantısı; 9 ölçütün sayfa referanslı kodlanması.
+3. Hakemli literatür taraması (CrossRef ile DOI doğrulaması) ve `paper/references.bib`.
+4. Nicel tablolar/şekiller, kodlama dağılımları; makale metni bulgulara göre (İngilizce); sınırlılıklar dosyası; tüm kodun yeniden çalıştırılarak çapraz kontrolü.

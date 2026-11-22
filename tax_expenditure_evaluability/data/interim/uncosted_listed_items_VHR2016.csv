@@ -1,0 +1,7 @@
+report_id,section,n_items_listed,pdf_pages,amounts_printed,note
+VHR2016,3- Damga Vergisi,32,326-330,no,Listed as TE provisions without cost estimates
+VHR2016,4- Harçlar Kanunu,99,330-340,no,Listed as TE provisions without cost estimates
+VHR2016,5- Motorlu Taşıtlar Vergisi,4,340-341,one amount on item 1 only,See manual_rows_VHR2016.csv
+VHR2016,6- Veraset ve İntikal Vergisi,19,342-343,no,Listed as TE provisions without cost estimates
+VHR2016,8- Emlak Vergisi,47,344-349,no,Listed as TE provisions without cost estimates
+VHR2016,9- Belediye Gelirleri Kanunu,34,349-352,no,Listed as TE provisions without cost estimates

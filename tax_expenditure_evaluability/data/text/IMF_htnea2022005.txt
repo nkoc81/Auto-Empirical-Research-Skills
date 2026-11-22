@@ -1,0 +1,1194 @@
+                          FISCAL AFFAIRS
+
+
+
+
+               HOW TO
+                        NOTES
+
+
+
+          How to Evaluate Tax Expenditures
+
+Prepared by Sebastian Beer, Dora Benedek, Brian Erard, and Jan Loeprick
+
+
+
+                               NOTE 22/05
+Fiscal Affairs Department
+
+
+
+
+                      How to Evaluate Tax
+                            Expenditures
+
+
+
+
+                        Prepared by Sebastian Beer, Dora Benedek,
+                                     Brian Erard, and Jan Loeprick
+
+
+
+
+  I N T E R N A T I O N A L   M O N E T A R Y        F U N D
+                                ©2022 International Monetary Fund
+                                Cover Design: IMF Creative Solutions
+                                  Composition: The Grauel Group
+
+
+                                       HOW TO NOTE
+                                   Fiscal Affairs Department
+                               How to Evaluate Tax Expenditures
+            Prepared by Sebastian Beer, Dora Benedek, Brian Erard, and Jan Loeprick
+
+
+Names: Beer, Sebastian, author. | Benedek, Dora, author. | Erard, Brian, author. | Loeprick, Jan, author. |
+  International Monetary Fund. Fiscal Affairs Department, issuing body. | International Monetary Fund,
+  publisher.
+Title: How to evaluate tax expenditures / prepared by Sebastian Beer, Dora Benedek, Brian Erard, and
+  Jan Loeprick.
+Other titles: How to notes (International Monetary Fund).
+Description: Washington, DC : International Monetary Fund, 2022. | Dec. 2022. | Includes bibli-
+  ographical references.
+Identifiers: 9798400221507 (paper)
+             9798400225383 (ePub)
+             9798400225536 (Web PDF)
+Subjects: Tax expenditures.
+Classification: LCC HJ4642.B44 2022
+
+
+ The authors would like to thank Flurim Aliu, Katherine Baer, Ruud De Mooij, Tibor Hanappi,
+ Alexander Klemm, Mario Mansour, Agustin Redonda, Artur Swistak, and colleagues who pro-
+ vided guidance as part of the IMF’s departmental review process for providing helpful comments
+ and suggestions.
+
+
+
+ DISCLAIMER: Fiscal Affairs Department (FAD) How To Notes offer practical advice from
+ IMF staff members to policymakers on important issues. The views expressed in FAD How To
+ Notes are those of the author(s) and do not necessarily represent the views of the IMF, its Exec-
+ utive Board, or its management.
+
+
+
+               Publication orders may be placed online, by fax, or through the mail:
+                        International Monetary Fund, Publication Services
+                         PO Box 92780, Washington, DC 20090, U.S.A.
+                            Tel.: (202) 623-7430 Fax: (202) 623-7201
+                                    Email: publications@imf.org
+                                      www.imfbookstore.org
+CONTENTS
+
+
+
+From Tax Expenditure Reporting to Evaluation�������������������������������������������������������������������1
+Scope, Depth, and Timing of Evaluations����������������������������������������������������������������������������3
+What Should Be Evaluated?��������������������������������������������������������������������������������������������������5
+Tools for Measuring Impact�������������������������������������������������������������������������������������������������6
+Practical Implementation�����������������������������������������������������������������������������������������������������9
+Conclusion�������������������������������������������������������������������������������������������������������������������������11
+References���������������������������������������������������������������������������������������������������������������������������13
+Boxes
+       1. The Benchmark Tax System��������������������������������������������������������������������������������������������2
+       2. Sample Evaluation Questions������������������������������������������������������������������������������������������7
+Figures
+       1. Total Tax Expenditures (in Percent of GDP) �����������������������������������������������������������������2
+       2. Number of Recorded Tax Expenditures��������������������������������������������������������������������������4
+Tables
+       1. TE Reporting and Evaluation in Selected Economies�����������������������������������������������������3
+       2. Approaches for Different Tax Instruments����������������������������������������������������������������������8
+       3. Commonly Used Tools for Evaluation����������������������������������������������������������������������������9
+       4. Steps for Conducting an Ex Post Evaluation�����������������������������������������������������������������11
+
+
+
+
+                                                                                       International Monetary Fund | November 2022    iii
+HOW TO EVALUATE TAX EXPENDITURES
+
+
+
+From Tax Expenditure Reporting to Evaluation                                 Systematic evaluations, as opposed to ad hoc dis-
+   Governments use tax expenditures (TEs)—devi-                           cussions, are needed to guide informed decision-mak-
+ations from a benchmark tax system (Box 1)—to                             ing and to avoid a situation where the narrative on
+provide financial support or benefits to individuals,                     the benefits of TEs is primarily driven by profiting
+companies, and other entities, including nongovern-                       stakeholders.3 By TE “evaluation,” this note refers to a
+ment organizations. The budgetary impact of TEs can                       process that seeks to systematically inform policymak-
+be similar to that of direct outlays: after the support                   ers on the desirability of introducing or maintaining
+is provided, less money is available to fund other                        specific tax benefits by gathering and analyzing avail-
+government priorities. Even though TEs frequently                         able quantitative and qualitative information on their
+run counter to the principles of good tax policy design                   effects. Evaluation processes can be tailored to different
+(IMF 2015), they are ubiquitous and often sizeable. As                    levels of data availability and analytical capacity, with a
+illustrated in Figure 1, they are estimated to reduce tax                 minimum requirement of the application of a struc-
+revenues by an average of around 4 percent of GDP                         tured questionnaire to guide and delineate the effort.
+among countries that report on them, with some coun-                      An evaluation should focus on the policy objective of
+tries forgoing more than 10 percent on the preferential                   a TE and whether it effectively and efficiently contrib-
+tax treatment of specific sectors, firms, and/or individ-                 utes to that policy objective. In some cases, the evalua-
+uals (Von Haldenwang and others 2021).2                                   tion can also contribute to the refinement of static cost
+   Efficient use of limited public resources requires                     estimates by identifying behavioral responses.4
+careful management of any type of public outlay,                             In most countries, fiscal transparency would be
+including TEs and direct spending. Understanding and                      enhanced by making more performance informa-
+transparently reporting on the revenue impact of TEs                      tion on the outcomes of major policy areas publicly
+is required for comprehensive fiscal reporting (IMF                       available (IMF 2018). A minority of countries have
+2018) and the starting point for any policy debate on                     undertaken a comprehensive and systematic evaluation
+their appropriateness (Heady and Mansour 2019).                           of TEs’ effects. As illustrated in Table 1, only a small
+Efforts to improve the systematic quantification of rev-                  group of countries evaluate TEs with any regularity
+enue forgone have advanced over the past decade, with                     and, even within this group, evaluations are often
+102 countries providing some public information on                        performed on an ad hoc basis rather than institution-
+related costs, albeit with varying coverage and quality                   alized.5 This is not surprising given the multifaceted
+(Von Haldenwang and others 2021).2 Although serv-                         challenges facing evaluation efforts. However, con-
+ing as a useful starting point, enhancing transparency                    sidering the scale of public resources spent on TEs,
+on the revenue impact of TEs does not by itself ensure                    even “though evaluation of tax expenditures may be
+that the funds are being well spent.                                      difficult, a more serious problem may be the failure to
+                                                                          try” (OECD 2010, page 29).
+
+                                                                             3This is often the case in practice, where reports on the benefits
+  1These estimates are likely to be a lower bound in many cases           of sector-specific measures are prepared by line ministries, industry
+because the published TE costing estimates are often not compre-          organizations, or investment promotion agencies (see Institutional-
+hensive (as noted by Von Haldenwang and others 2021 and detailed          ization and Partnerships section).
+in Table 1). Moreover, idiosyncrasies among benchmark tax systems            4For instance, an evaluation may identify a significant potential
+
+and differences in the costing approaches that have been employed         for noncompliance with respect to a TE, in which case the actual
+limit the utility of cross-country comparisons.                           revenue cost is likely to exceed the static estimate.
+   2Good practice examples include disclosure of details that allow          5For some countries, conducting evaluations is a legal require-
+
+for further analysis of a TE’s performance similar to that of spending    ment. In Germany, for instance, all subsidies and TEs are required to
+programs, for instance by publishing expenditures granted to firms        undergo a regular evaluation in terms of target attainment. Similarly,
+by sectors and policy objectives or the distribution of benefits across   The Netherlands requires evaluations of TEs to be carried out every
+household income levels.                                                  four to seven years.
+
+
+
+                                                                                           International Monetary Fund | November 2022         1
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+
+        Box 1. The Benchmark System
+           A benchmark tax system serves as a basis to identify          Combinations of these approaches are possible. For
+        the nature and extent of tax expenditures (TEs). It           instance, it is common to incorporate some elements
+        should be grounded in the key principles of good              of the reference tax law even when the guiding
+        tax policy design, including fairness, efficiency, and        principle is the conceptual approach. Regardless of
+        simplicity. To subject all public spending to the same        the underlying approach, the benchmark tax system
+        rigor in evaluations and to enable the same level of          should be well defined and transparent. It should be
+        transparency, the benchmark definition should be as           limited to the key features of the main taxes; repre-
+        broad as possible and should aim at avoiding excep-           sent the standard tax treatment that applies to similar
+        tions to the general rule. Three approaches of defining       taxpayers or types of activity; and exclude provisions
+        the benchmark tax system can be distinguished:                that favor particular groups, business activities, or
+        • The conceptual approach relies on a clearly for-            regions. It should be consistent across taxes and should
+          mulated normative benchmark tax system based                be defined in a way such that the resulting list of TEs
+          on theoretical concepts of tax policy.                      informs policymakers about possible reform options.
+        • The reference tax law approach is more practical            Refer to Heady and Mansour (2019) for a discussion
+                                                                      of selected features of the benchmarks for different
+          and takes as the starting point a discussion of
+                                                                      taxes.
+          existing tax provisions.
+        • The expenditure equivalent approach defines
+          the benchmark based on provisions that could
+          equally well be provided through the expenditure
+          side.
+
+
+
+
+Figure 1. Total Tax Expenditures
+(Percent of GDP)
+15
+             Advanced Economies
+             Emerging Markets
+             Low-Income Developing Countries
+
+10
+
+
+
+
+    5
+
+
+
+
+    0
+                Kazakhstan
+
+
+
+                   Pakistan
+                    Ukraine
+              Burkina Faso
+                     Gabon
+              Côte d’Ivoire
+                     Bhutan
+              New Zealand
+
+
+                  Seychelles
+
+                  Mauritius
+                 Cameroon
+                       Benin
+                         Peru
+                   Eswatini
+
+                Madagascar
+               Sierra Leone
+                         Mali
+                   Morocco
+                Philippines
+
+                       Spain
+                       Chile
+                     Iceland
+                     Mexico
+                      France
+                    Türkiye
+                       Brazil
+                    Sweden
+
+
+
+
+                        Israel
+        Dominican Republic
+                     Greece
+                   Ecuador
+
+
+                Cape Verde
+                   Belgium
+                   Portugal
+                 Honduras
+              United States
+                       Japan
+           United Kingdom
+
+
+                      Jordan
+                    Finland
+                     Ireland
+           The Netherlands
+                   Slovenia
+          Equatorial Guinea
+            DRC-Kinshasa
+         Papua New Guinea
+                    Bulgaria
+                     Estonia
+
+
+
+                    Slovakia
+
+                        India
+                      Ghana
+                  Sri Lanka
+                  Indonesia
+               Luxembourg
+                     Guinea
+
+
+
+                       Korea
+
+                    Rwanda
+                Guatemala
+
+
+
+                  Argentina
+                  Lithuania
+
+
+
+
+                     Liberia
+                     Austria
+
+               South Africa
+                   Romania
+                   Ethiopia
+                    Jamaica
+
+
+
+                 Costa Rica
+                     Albania
+                     Canada
+
+
+
+                   Armenia
+
+
+
+                       Latvia
+                  Colombia
+                   Australia
+
+
+
+                      Russia
+                  Denmark
+                  Germany
+
+
+
+
+                   Hungary
+
+
+
+
+                         Italy
+
+
+
+
+                    Norway
+
+
+
+
+                   Uruguay
+
+
+
+
+Sources: Global Tax Expenditures Database; and Redonda and others (2022).
+Note: DRC = Democratic Republic of the Congo.
+
+
+
+
+2             International Monetary Fund | November 2022
+                                                                                                           How to evaluate tax expenditures
+
+
+Table 1. TE Reporting and Evaluation in Selected Economies
+ Country                               TEs Identified                  TEs Estimated                Evaluation Referenced in TE Reporting1
+ Argentina (2018)                            77                              77                                       No
+ Australia (2017)                           289                             146                                      Yes
+ Austria (2016)                              67                              47                                      Yes
+ Belgium (2018)                             251                             136                                       No
+ Brazil (2017)                              205                             193                                       No
+ Canada (2017)                              337                             216                                      Yes
+ Chile (2016)                               179                             179                                       No
+ Denmark (2017)                              80                              80                                       No
+ Estonia (2017)                              20                              20                                       No
+ Finland (2017)                             188                             126                                       No
+ France ((2018)                             457                             221                                      Yes
+ Germany (2017)                             104                              71                                      Yes
+ Greece (2018)                              768                             130                                       No
+ Hungary (2018)                              51                              51                                       No
+ India (2018)                               120                             120                                       No
+ Ireland (2017)                             167                              95                                      Yes
+ Israel (2017/18)                            66                              49                                       No
+ Italy (2017)                               338                             187                                       No
+ Latvia (2016)                              321                             321                                       No
+ Mexico (2017)                              105                             105                                      Yes
+ The Netherlands (2017)                     125                             100                                      Yes
+ Norway (2017)                               45                              45                                      Yes
+ New Zealand (2017)                          51                              10                                       No
+ Poland (2015)                              208                              96                                      Yes
+ Slovak Republic (2016)                      47                              47                                       No
+ South Africa (2018)                         30                              30                                       No
+ South Korea (2018)                         276                             254                                       No
+ Spain (2017)                                95                              95                                       No
+ Sweden (2017)                              174                             113                                      Yes
+ Switzerland (2011)                         192                              70                                       No
+ Türkiye (2017)                             222                             183                                       No
+ United Kingdom (2017)                      424                             185                                      Yes
+ Unites States (2018)                       167                             167                                       No
+ Sources: Redonda and Neubig (2018).
+ 1Information in Redonda and Neubig (2018) is drawn from public TE reports. Where no evaluations are referenced in the report, separate evaluation
+
+ efforts may still be taking place. For instance, in the United States, the Congressional Research Service (CRS) periodically produces a compendium
+ of TEs for the Senate Budget Committee. The CRS provides a balanced discussion of available evidence relating to each TE along with references
+ to relevant studies from the academic literature. However, the CRS does not develop direct impact evaluation estimates for the compendium.
+ Note: For Australia, reported figures are for the Commonwealth Government only. TE 5 tax expenditure.
+
+
+
+   Although pragmatic qualitative approaches will often                     Analysis Online course6 developed by the IMF Fiscal
+need to be taken, following a systematic approach can                       Affairs Department can be a useful starting point for
+dramatically improve the quality of the debate on the                       this.
+use of TEs and the scope for meaningful policy reform.
+A range of options and associated tools are at the
+disposal of policymakers seeking to institutionalize TE                     Scope, Depth, and Timing of Evaluations
+evaluations. This note summarizes key considerations                           Evaluating each TE annually is not feasible but also
+and country experiences in applying them, including                         not necessary. However, it is desirable to evaluate all
+practical considerations for implementing a TE eval-                        TEs periodically over a multiyear evaluation cycle.7 A
+uation process. The note builds on previous How-to                          broad scope of evaluations allows for analysis of dupli-
+Notes on TE reporting by Heady and Mansour (2019)                           cations and redundancies, and it maximizes transpar-
+and Tax Policy Units by Grote (2017). Although the
+note provides some guidance on evaluation methods, it                          6https://www.imf.org/en/Capacity-Development/Training/
+
+                                                                            ICDTC/Courses/RFAx.
+does not provide detailed instructions on implement-                           7In practice, the actual scope can also be unduly restrained de
+ing these methodologies. The Revenue Forecasting and                        facto by questionable decisions on benchmark systems. In Germany,
+                                                                            for instance, reduced VAT rates are excluded from TE reporting and
+                                                                            evaluation.
+
+
+
+                                                                                               International Monetary Fund | November 2022            3
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+Figure 2. Number of Recorded Tax Expenditures
+
+          Advanced Economies
+          Emerging Markets
+500       Low-Income Developing Countries
+
+
+
+
+300
+
+
+
+
+100
+
+    0
+                      Ghana
+                       Chile
+          Equatorial Guinea
+                   Ethiopia
+                   Romania
+            DRC-Kinshasa
+                     Iceland
+                Madagascar
+                   Armenia
+              Côte d’Ivoire
+                Cape Verde
+              New Zealand
+                  Seychelles
+                   Slovenia
+                 Costa Rica
+                     Gabon
+                  Mauritius
+                     Estonia
+                   Portugal
+                  Sri Lanka
+                 Honduras
+                   Eswatini
+        Dominican Republic
+                     Liberia
+               Luxembourg
+                         Mali
+                Philippines
+               Sierra Leone
+                    Bulgaria
+                   Pakistan
+         Papua New Guinea
+                     Bhutan
+                     Guinea
+                Kazakhstan
+               South Africa
+                      Jordan
+                     Austria
+                   Hungary
+                  Lithuania
+                    Rwanda
+                  Indonesia
+                 Guatemala
+                        Israel
+                    Slovakia
+                    Ukraine
+                  Argentina
+                     Albania
+                   Ecuador
+                         Peru
+                  Germany
+                    Norway
+           The Netherlands
+                        India
+                       Spain
+                    Sweden
+                       Latvia
+                     Mexico
+                  Denmark
+                    Jamaica
+                    Finland
+                     Greece
+                       Benin
+                  Colombia
+           United Kingdom
+                     Ireland
+                   Uruguay
+                       Japan
+                   Belgium
+                       Brazil
+                   Australia
+                    Türkiye
+              United States
+                   Morocco
+                     Canada
+                       Korea
+                      Russia
+                      France
+                         Italy
+                 Cameroon
+              Burkina Faso
+Sources: Global Tax Expenditures Database; and Redonda and others (2022).
+Note: DRC = Democratic Republic of the Congo.
+
+
+
+ency. It is, for instance, desirable to conduct thematic               the relative importance and nature8 of specific TEs.
+evaluations covering several TEs aimed at similar or the               This differentiation can help ensure that resources are
+same objectives. Such an approach has the potential to                 methodically deployed, recognizing that a large share
+yield revealing comparisons, maximizes the return on                   of TE evaluations may need to be of a less resource-in-
+the investment into the evaluation effort, and informs                 tensive, qualitative nature. Ireland, for instance,
+decisions on the scope for streamlining and consoli-                   envisages TE evaluations every five years for each TE,
+dation. For example, the same level of generosity may                  but it recognizes that quantitative assessment cannot
+be maintained, but it is delivered while relying on the                be prepared for many TEs. However, any triage should
+most efficient instrument. Similarly, covering all TEs                 allow for some flexibility so that in-depth evaluations
+in an evaluation cycle reduces the risk of the process                 are accelerated for newly identified high-risk areas, as
+being seen as a selective and politically driven exer-                 has recently been proposed in the UK (National Audit
+cise, thus increasing its credibility. However, with an                Office 2020).
+average of 100 TE provisions in countries reporting                        Although the evaluation of existing TEs is necessary
+on the costs of TEs (Figure 2), conducting in-depth                    to optimize the efficiency of the current TE portfolio,
+research on all TEs is not practically feasible in most                ex ante evaluations—the evaluation before a new TE
+economies.                                                             is introduced—can help constrain the proliferation
+   Differentiating evaluation efforts, depending on the                of TEs that are unlikely to improve social welfare.9
+importance and structural nature of TEs, may there-                    Ex ante evaluations will typically be focused on
+fore be needed to keep the process manageable and                      reviewing the justification of a TE and its consistency
+costs reasonable. In Germany, large-scale evaluations                  with broader economic policy objectives. TEs may
+are conducted once per legislative cycle in line with a                be justified, for instance, when they target positive
+mandate to evaluate every TE at least once every 10
+years. The German subsidy report, which reports on                        8Some countries differentiate between “structural” and “nonstruc-
+
+                                                                       tural” TEs, where the former are deviations from the benchmark that
+TEs on a biannual basis, then draws on the findings
+                                                                       are considered an integral component of the system, such as a basic
+of these studies in its discussion and presentation of                 allowance for the taxation of personal income.
+TEs (Thoene 2019). Other countries with compre-                           9This can be an obligatory step of regulatory impact assessments,
+
+hensive evaluation mandates seek to differentiate the                  although the depth of these assessments varies in practice. When
+                                                                       an in-depth ex ante assessment cannot be prepared, an alternative is
+depth of analysis and the evaluation interval based on                 to introduce new TEs as temporary instruments, with permanence
+                                                                       conditional on an initial evaluation.
+
+
+
+4          International Monetary Fund | November 2022
+                                                                                                       How to evaluate tax expenditures
+
+
+
+externalities, such as knowledge spillovers, are aimed                       its goals and intended beneficiaries will often require
+at reducing compliance or administrative costs, or seek                      consultation with stakeholders, administrators, and
+to promote the government’s distributional objectives.                       other experts. Requiring an explicit statement of
+Potential improvements in the proposed design for the                        the intended policy objective for all new measures
+TE might also be explored at this stage. Indicators and                      facilitates this process. Delineating the purpose can
+underlying data sources to be used in future assess-                         sometimes help identify TEs that no longer align with
+ments of the TE’s performance should be defined ex                           government priorities or may no longer have any clear
+ante, and a discussion of the ex ante assessment should                      social benefit associated with them. For instance, TEs
+be a standardized requirement for ex post evaluations.                       that are found to be out of step with current envi-
+This comparison of ex post performance against ex                            ronmental objectives may be targeted for elimination
+ante predictions fosters transparency and establishes a                      without the need to conduct an in-depth evaluation.
+feedback mechanism that helps safeguard the quality                          Relatedly, TEs that target objectives that have since
+and objectivity of the ex ante evaluation process.                           been accomplished, such as the development of specific
+                                                                             sectors or activities, can be reconsidered.
+                                                                                In evaluating effectiveness, it is important to
+What Should Be Evaluated?                                                    consider net effects against a counterfactual outcome.
+  Evaluations should seek to answer the same set of                          These often go beyond direct change in behavior
+basic questions, notwithstanding differences in the                          targeted by an incentive. Investment tax credits can
+methods and resources employed:                                              lead to an increase in investment, with positive effects
+• Is a TE effective in achieving its stated or implied10                     on employment, wages, and productivity. However, an
+  objectives? Most TEs aim at changing behavior                              increase in investment or employment in one sector
+  or supporting redistribution.11 Effectiveness refers                       may also result in a corresponding decrease in another
+  to the extent that the desired impact is directly or                       (displacement effects). Similarly, it is important to
+  indirectly accomplished. This needs to be qualita-                         account for the extent to which a TE merely subsi-
+  tively or quantitatively assessed against a counterfac-                    dizes activities that would have taken place even in
+  tual outcome that would have been observed in the                          the absence of the incentive (redundant expenditure).
+  absence of the TE.                                                         Consider, for example, the redundancy of a nonrefund-
+• At what direct and indirect costs are objectives                           able tuition tax credit with regard to many wealthy
+  achieved? The costs of achieving the observed                              parents who would likely provide the same expenditure
+  impact go beyond revenue forgone and include                               on their children’s education irrespective of the subsidy.
+  potential distortions and administrative and com-                          At the same time, a nonrefundable credit provides little
+  pliance costs. Often, a change in the design of a TE                       or no benefit to lower-income households that have
+  (for example, an improvement in targeting to reduce                        minimal tax obligations. Means-tested direct support
+  revenue leakage) can reduce these costs and thus                           for college education may be both more efficient and
+  increase the TE’s efficiency.                                              equitable.
+                                                                                The costs of a TE also include administrative and
+   The first step in evaluating these questions—ide-                         compliance costs. For instance, a TE may have design
+ally, but not necessarily, conducted ex ante—is to                           features that create opportunities for improper claims
+understand how a TE works, whom it benefits, and                             or that result in excessive administrative and compli-
+its intended purpose. Although the functioning of a                          ance burdens. And where governance structures are
+TE should be clear from the legislation, understanding                       weak, the process for establishing and administering
+                                                                             TEs may be open to corruption, adversely affecting the
+   10Von Haldenwang and others (2021) report that for almost 70              tax morale of nonbeneficiaries who perceive that only
+percent of TEs captured in the Global Tax Expenditures Database,             the well connected are able to avail themselves of the
+revenue estimates are not linked to information on the policy objec-
+tive it is supposed to serve.
+                                                                             benefit.
+   11For instance, corporate income tax incentives often aim                    TEs are justified when their social benefits outweigh
+at attracting investment, sometimes for specific industries. For             their social costs and the use of tax instruments is
+individuals or households, the benefits targeted by a tax incentive
+might involve changes in labor market participation or formaliza-
+tion, savings rates, poverty levels, health status, charitable activities,
+conservation, or even fertility rates.
+
+
+
+                                                                                           International Monetary Fund | November 2022   5
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+preferable to a direct budgetary outlay.12 IMF (2015)                    Tools for Measuring Impact
+provides a template to guide the evaluation of tax                          A range of tools and methods can be employed to
+incentives for investment, which illustrates that the                    assess the impact of TEs. At a minimum, a basic set of
+social welfare effect of tax incentives seeking to pro-                  indicators that summarize behavioral incentives or pro-
+mote investment depends on direct (for example, jobs                     vide a rough sense of direct costs and benefits should
+created, direct revenue loss) and indirect changes (for                  be constructed. At the other extreme for quantifying
+example, displacement of labor and capital, productiv-                   impact is the implementation of complex structural
+ity spillovers, indirect revenue effects). When com-                     models designed to capture relevant direct and indirect
+paring social benefits against social costs, the revenue                 effects of a TE. Between these two extremes are a vari-
+foregone due to the incentive should be weighted by                      ety of reduced-form estimation approaches.
+the marginal cost of public funds (that is, the social                      Qualitative indicators of program performance are
+cost of raising an additional dollar of tax revenue),                    ideally established at the time a TE is introduced and
+which generally exceeds unity because of the additional                  are regularly updated over time. Where possible, such
+distortions to resource allocation induced by a higher                   indicators should cover all the elements of the causal
+level of taxation.13                                                     chain as articulated in the theory of change. To the
+   Identifying the potential for both direct and indirect                extent possible, indicators should be selected that can
+effects can be done by mapping out the causal path                       be measured with reasonable frequency at a reasonable
+through which the TE influences economic and social                      cost. Even though it will often not be feasible or prac-
+outcomes, thereby fleshing out a “theory of change.”                     tical to quantify all outcomes that have been identified,
+Sometimes this exercise is referred to as “logic mod-                    a simple review with reference to qualitative indicators
+eling,” where causal relationships are hypothesized to                   can make a meaningful contribution to the policy dis-
+explain how the incentives created by a TE influence                     cussion.15 Depending on the nature of the TE program
+the behaviors of relevant actors and how these changes,                  and the study scope, these indicators may cover some
+in turn, affect relevant outcomes, both directly and                     combination of direct and indirect outcomes (both
+indirectly, in the short and longer terms. By going                      wanted and unwanted) over the short run and long
+through the exercise of conceptualizing the anticipated                  run.16
+linkages between the incentive, behaviors, and out-                         The selection of outcome indicators can be challeng-
+comes, a clearer sense of how to evaluate whether the                    ing. Measurability is important, but TEs often target
+program is working as intended and how to measure                        activities that are inherently hard to measure, such as
+its impact can be obtained. Thinking through the logic                   innovation and technology spillovers where reliable
+of this process can also help uncover potential path-                    indicators may be hard to find.17 Simple indicators
+ways for unwanted outcomes, which should be probed                       that are informative regarding the effectiveness and
+as part of any evaluation.                                               efficiency of TEs include the direct revenue forgone,
+   A well-developed set of questions can ensure the                      the number of participants or beneficiaries, the impact
+evaluation process addresses all components needed to                    effect of the TE on a company’s tax liability, or its
+understand a TE’s relevance, effectiveness, and direct                   overall impact on the posttax income distribution (for
+and indirect costs (see Box 2).14 Evaluations should                     instance, as measured by the Gini coefficient). Theo-
+ideally follow a consistent process of answering such a
+predetermined set of targeted questions, irrespective of                    15In Benin, for instance, a review of available descriptive infor-
+
+the depth of the envisaged analysis.                                     mation on the socioeconomic impact of VAT exemptions for rice,
+                                                                         water, and electricity, published with the tax expenditure report
+                                                                         (Ministry of Finance, Benin 2021), informed a decision to scale
+                                                                         them back in 2022.
+                                                                            16When more in-depth analyses are conducted, a starting point
+   12In practice, the use of TEs is often preferred for administrative   will often be a thorough analysis of the related literature to identify
+and procedural reasons and in contexts where the objective is to         potential direct and indirect effects and constructive methods for
+maximize access to a broad and clearly defined objective (for exam-      their assessment. Empirical studies on the relationship between
+ple, the use of mortgage deductions). See Toder (2000).                  effective tax burdens and foreign direct investment (De Mooij and
+   13Especially in developing economies, administrative constraints to   Ederveen 2008) are a useful starting point for the assessment of
+domestic revenue mobilization can increase the distortionary costs of    investment incentives, for instance.
+raising additional public funds through taxation.                           17For instance, although indicators such as the number of regis-
+   14For a more detailed discussion of potential evaluation questions,   tered patents of beneficiaries or the number of PhDs on payroll may
+see U.S. Government Accountability Office (2013).                        be informative, they must be interpreted with great caution.
+
+
+
+6          International Monetary Fund | November 2022
+                                                                                      How to evaluate tax expenditures
+
+
+
+
+   Box 2. Sample Evaluation Questions
+   Effectiveness                                            • What are the implications of the tax expenditure
+   • What are the intended benefits of the program,           for horizontal and vertical equity?
+     and who are the intended beneficiaries?                • Does the program have any unwanted side
+   • Do most eligible taxpayers claim the tax expendi-        effects?
+     ture? If not, what prevents them from doing so?        Potential for Improvement
+   • What are potential indirect benefits?
+                                                            • Would any program changes reduce the compli-
+   • Would the desired behavior also occur in the
+                                                              ance burden associated with the tax expenditure?
+     absence of the expenditure?
+                                                            • Would any program changes make the program
+   • What is the potential for displacement effects?
+                                                              easier to administer?
+   Costs                                                    • Is eligibility defined in a way that maximizes the
+   • How large and how reliable are the cost estimates        tax expenditure’s effectiveness?
+     for the program?                                       • Could the benefits be delivered more effectively
+   • What is the potential for market distortions             and efficiently through a direct expenditure
+     introduced by the tax expenditure?                       program or through a different tax mechanism
+   • How is the qualifying threshold for accessing the        (for example, a refundable credit rather than a
+     tax expenditure being monitored?                         deduction or nonrefundable credit)?
+   • What are the “pain points” about administering         • Does the tax expenditure overlap with other tax
+     the program?                                             expenditures or direct expenditure programs
+   • Do taxpayers who are ineligible submit claims?           that are targeted at similar objectives? If so, how
+   • How simple is it for eligible taxpayers to obtain        do they interact, and should they be evaluated?
+     the tax benefits?                                        together?
+
+
+
+
+retical indicators, such as forward-looking average and     equilibrium outcomes, such as computable general
+marginal effective tax rates, or summary statistics based   equilibrium [CGE] models or linked CGE-MSM
+on simulation models can be constructed to inform           models). These all have advantages and disadvantages.
+both ex ante and ex post evaluations.                       Table 3 provides a summary of methodological tools
+   Table 2 summarizes the most common areas of              for conducting an impact analysis and examples of
+analysis, data sources, and models for the value added      their application.
+tax (VAT), personal income tax, and corporate income           Although it may be straightforward to measure some
+tax. For instance, VAT expenditures often aim at            of the outcomes that have occurred after the intro-
+reducing the effective tax burden on poor individu-         duction of a TE, it is generally much more difficult
+als. Household income and expenditure surveys thus          to reliably estimate a counterfactual, that is what
+provide important information on the effectiveness of       these outcomes would have been if the TE had not
+VAT expenditures, which can be used in microsimula-         been implemented. Evaluations, therefore, can be a
+tion models (MSMs) to compute changes in disposable         resource-intensive exercise, and quantification of the
+income across the income distribution.                      economic impact of TEs can be complex and reliant
+   However, because TEs vary greatly in terms of their      on various assumptions. Impact evaluation method-
+design, operation, and intended benefits, no “one-          ologies can often be applied to capture direct benefits
+size-fits-all” approach can measure their impact. The       of a TE, comparing, for instance, the additional effect
+choice of which tools to use will depend, in part, on       on investment or jobs created (that is, the additional
+the scope and depth of the evaluation. Some of the          investment or employment that would not have hap-
+methods provide static analysis of the impact of the TE     pened had the TE not been in place) with the revenue
+(for example, some MSMs cover partial equilibrium
+effects, whereas some can be used to analyze general
+
+
+                                                                          International Monetary Fund | November 2022   7
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+Table 2. Approaches for Different Tax Instruments
+                                         Typical Data Used in                                      Typical Focus in
+           TEs Typically Aimed at                Analysis             Unit of Analysis                 Analysis           Models Typically Used
+    VAT    1. Reducing                 1. S-U tables, I-O       1. Sectors                 1. Interindustry          1. I-O or S-U models
+               compliance and               tables, import                                        links, impact of
+               administrative costs         duty information                                      TEs on prices and
+                                            (ASYCUDA)                                             distortions
+           2. Achieving                2. Household             2. Households              2. Pre- and post-TE       2. MSMs using household
+               distributional               expenditure surveys                                   distribution of tax        survey data
+               objectives                                                                         across incomes
+    PIT    1. Redistribution           1. Household income      1. Households              1. Pre- and post-TE       1. MSMs using household
+                                            and expenditure                                       distribution of tax        survey data or linked
+                                            surveys                                               across incomes             survey-administrative
+                                                                                                                             data sets
+           2. Incentivizing            2. Household- or         2. Individuals or          2. Taxpayer behavioral    2. Econometric
+               (specific) activities        individual-level          households                  outcomes, take-up,         methods applied to
+                                            administrative data                                   targeting of TEs           administrative data
+    CIT    Attracting (specific)        Sectoral GDP estimates,   Specific firms              Impact of TEs on           Effective tax rate
+           investment                   sector-specific                                       marginal and average       measures, MSMs, CGE,
+                                        investment and                                        effective tax rates,       and econometric models
+                                        financing information,                                changes in investment      applied to administrative
+                                        firm-level data                                       and employment levels      data
+                                                                                              and patterns, and
+                                                                                              displacement effects
+    Note: ASYCUDA 5 automated system for customs data; CGE 5 computable general equilibrium; CIT 5 corporate income tax; I-O 5 input-output;
+    MSM 5 microsimulation model; PIT 5 personal income tax; S-U 5 supply-use; TE 5 tax expenditure; VAT 5 value added tax
+
+
+
+
+forgone.18 In the Dominican Republic, for instance,                            prehensive TE report. Many of these evaluations are
+direct and indirect costs of tax incentives aimed at                           qualitative in nature.20
+promoting the tourism industry were found to exceed                               Ex ante evaluations will draw on a different set of
+measured benefits (Chen 2018).                                                 methods than ex post evaluations, and they may not be
+    Measuring indirect effects is often particularly                           capable of making precise predictions regarding behav-
+challenging.19 Structural models can be applied for                            ioral effects. However, the application of a standardized
+the most substantial TEs, but often, these models will                         catalog of questions can yield valuable qualitative infor-
+not include sufficient detail to meaningfully model                            mation on the relevance and potential effectiveness of
+the incentive’s spillover effects on outcomes such as                          a new TE, and static cost estimates should be prepared
+employment, wages, and economic growth. However,                               as part of an ex ante evaluation. The Irish evaluation
+qualitative approaches to evaluation may already pro-                          guidelines for TEs, for instance, require ex ante assess-
+vide some important insights on indirect effects. Such                         ment for costly TEs to provide information on (1) the
+approaches rely on tools such as surveys, focus groups,                        objective of the TE; (2) the market failure that is being
+and in-depth case studies to develop a sense of whether                        addressed; (3) why a TE is the best approach to deliver
+a given program is operating as intended and whether                           the benefit; (4) potential redundancies, displacement,
+it is producing any unwanted side effects. Canada, for                         and opportunity costs; and (5) administrative and
+instance, publishes one to three detailed evaluation                           compliance costs as well abusive claims and other
+studies of specific TEs as part of its regular and com-                        effects. Sometimes, experiments can be conducted to
+                                                                               pilot measures21 before broader roll-out. However,
+                                                                               given the limitations to applying different and hence
+                                                                               potentially discriminatory policy measures, this is more
+   18The determination of “additionality” requires sophisticated
+
+identification strategies. Such analysis is critical to disentangle the           20Occasionally, an impact evaluation methodology is used to mea-
+
+behavioral change triggered by the TE to account for the true return           sure impact (for example, a user cost of capital approach employed
+to the TE as opposed to the windfall gain that accrues to those who            to assess the impact of a research and development credit on research
+would have conducted the same activities in its absence.                       and development activity).
+   19In addition, indirect effects are often felt by a silent minority,           21China, for instance, is piloting a property tax reform in select
+
+whereas direct benefits tend to be obtained by more vocal interest             regions (OECD 2021). For a review of tax experiments focused on
+groups.                                                                        compliance management, see Mascagni (2018).
+
+
+
+8             International Monetary Fund | November 2022
+                                                                                                                   How to evaluate tax expenditures
+
+
+Table 3. Commonly Used Tools for Evaluation
+ Tool                                         Basic Description                   Areas Commonly Assessed                             Examples
+ Survey-based qualitative         Provide a descriptive profile of             Targeted TEs with narrow group            Department of Finance (2012)
+ analysis                         beneficiaries, self-reported impacts,        of beneficiaries.                         review experience with the Film
+                                  and experience.                                                                        Tax Credit in Ireland.
+ Effective tax rate measures1     Summarize combined impact of                 Assessment of relative impact of          Botman, Klemm, and Baqir (2010)
+                                  statutory tax rates, tax incentives,         different TE investment incentives        compare investment incentives for
+                                  and features of the tax system on the        on tax liabilities. Average effective     seven East Asian economies.
+                                  effective tax burden.                        tax rates are commonly used to
+                                                                               assess tax incentives’ impact
+                                                                               decisions to locate FDI activities.
+ Interrupted Time Series          Seek to identify impact of a TE              Used where incentives apply               Canadian Department of Finance
+ Analysis                         by comparing the pre- and post-              broadly and no suitable                   uses administrative data to
+                                  implementation outcomes of interest.         comparison group of taxpayers             assess impact of TE on R&D
+                                                                               who did not qualify is available.         expenditures.
+ Quasi-experimental               Compare relevant outcomes for                Whenever suitable comparison              Department of Finance (2019)
+ econometric methods: (DID)       beneficiaries (or eligible taxpayers) to     groups can be identified based on         uses trade data to estimate
+ analysis, statistical matching   those of a comparison group of non-          eligibility criteria of the incentives.   impact of TE on export
+ methods, and regression          beneficiaries (or ineligible taxpayers).                                               performance of beneficiaries in
+ discontinuity designs                                                                                                   Ireland.
+ Static simulation models:        Compute the impact of tax incentives         When seeking to assess                    The U.S Office of Tax Analysis
+ MSM and models based on          on the tax liabilities of a representative   distribution of TE benefits across        (2016) uses administrative data to
+ I-O data and S-U tables          sample (or, in some cases, the entire        income groups (among individual           measure distribution of retirement
+                                  population) of taxpayers. Other models       taxpayers) or by size and sector          savings. Hutton (2010) presents
+                                  can be based on household survey             (among corporate taxpayers).              a microsimulation framework for
+                                  data, for example, to evaluate targeting                                               evaluating VAT TEs.
+                                  of VAT exemptions and reduced rates.
+ Overlapping generations          Study long-run life-cycle behavior           Impact of TEs affected by                 Cifuentes (2005) on retirement
+ models                           (for example, retirement savings) and        demographic trends, such as               savings incentives in Chile.
+                                  resource allocation across generations.      education, health, and retirement
+                                                                               incentives.
+ Structural modeling: CGE         Used to account for spillover effects of     To evaluate TEs intended to               Copenhagen Economics (2007)
+ models and DSGE models           TEs on employment, capital investment,       promote substantial indirect              evaluate the impact of VAT rate
+                                  productivity, and income and induced         benefits.                                 reduction in the European Union.
+                                  (multiplier) effects brought about
+                                  through increased consumption.
+ Note: CGE = computable general equilibrium; DID = difference-in-differences; DSGE = dynamic stochastic general equilibrium; FDI = foreign direct
+ investment; I-O = input-output; MSM = microsimulation model; R&D = research and development; S-U = supply-use; TE = tax expenditure.
+ 1See IMF and others (2015) for a more detailed discussion of effective tax rate measures.
+
+
+
+
+common for administrative reform. In the case of large                          Practical Implementation
+TEs, it is sometimes feasible to use microsimulation,
+input-output (I-O), applied general equilibrium, or                             Information Sources and Planning Horizons
+CGE models to develop ex ante estimates of likely                                  Suitable data are key for the evaluation of TEs.
+behavioral outcomes, including spillover effects. This                          Although administrative data collected from taxpayer
+approach was used, for instance, to develop an ex ante                          returns are often the most comprehensive source of
+assessment of the economic impact of a tax incentive                            information on individuals and firms, those data may
+package to induce Tesla to build a Gigafactory in                               not be sufficient for an in-depth evaluation if they lack
+Nevada (Applied Economics 2014).                                                detail on the targeted outcomes of an expenditure.
+                                                                                Accessing relevant information often remains the big-
+                                                                                gest challenge for TE evaluations. Sufficient lead time
+                                                                                must be built in during the planning and design phase
+                                                                                to secure access to selected data sources. In some cases,
+                                                                                relevant data are not readily available, and reporting
+
+
+
+                                                                                                     International Monetary Fund | November 2022              9
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+requirements need to be expanded to furnish the requi-                  act as fiscal watchdogs and conduct periodic reviews of
+site information                                                        public expenditures, such as the Auditor General.
+   The costs and practical challenges associated with                      Evaluation strategies to determine the impact and
+accessing relevant information also reinforce the                       effectiveness of direct expenditures and TEs aimed at
+importance of being selective in conducting in-depth                    the same policy outcomes will be similar, if not identi-
+analyses. Investments in in-depth evaluations should                    cal. As a result, there is often ample scope for synergies
+be driven by the economic or political importance of                    in building evaluation capacity and collecting required
+the TE, but their pursuit will also depend on whether                   information across a range of public institutions.
+the TE design allows for rigorous quantitative impact                   Furthermore, understanding outcome achievement in
+evaluation establishing causal effects.                                 different sectors will frequently require close involve-
+   Overall, country experience supports the adop-                       ment of line ministries, departments, and agencies.
+tion of a pragmatic approach, leveraging all available                     However, a strong case for centralizing oversight
+information sources, starting with administrative data,                 under the auspices of the Ministry of Finance, or, at
+and collecting additional data where readily available                  a minimum, securing close involvement of Ministry
+information is insufficient for a specific evaluation                   of Finance staff, can be made. Although line ministry
+effort. This can, for instance, be done through targeted                staff often have a better sector-specific understanding
+surveys of beneficiaries. Depending on the incentive,                   of the expected benefits of TEs within their purview,
+other potentially useful data sources include household                 they also tend to have more of an incentive to overstate
+budget or consumption surveys, sectoral surveys, and                    these benefits. Oversight or close involvement by Min-
+national accounts data (I-O and S-U data). In cases                     istry of Finance staff can thus help ensure a more bal-
+where data for evaluations are to be sourced from other                 anced and objective evaluation. Moreover, evaluation
+agencies, it is important to establish data protocols to                efforts create a feedback loop for future tax designs,
+ensure timely, regular, and accurate data provision.22                  such as base broadening with accompanying downward
+   Systematically analyzing the potential merits of                     tax rate adjustment if revenue neutrality is pursued,
+newly proposed TEs before their introduction also                       suggesting that a Tax Policy Unit, ideally within the
+helps fill information gaps that may limit the scope for                Ministry of Finance (Grote 2017), is best placed to
+ex post evaluations. For instance, a core requirement as                steer evaluation efforts. Alternatively, methodological
+part of the ex ante assessment should be the determi-                   consistency can be ensured where independent agencies
+nation of information needs for future ex post evalu-                   are tasked with leading the evaluation process, includ-
+ations of the TE. Where this information is deemed                      ing fiscal councils.
+to be insufficient, introduction of additional reporting                   Irrespective of the institutional allocation of evalua-
+requirements for TE beneficiaries can be considered at                  tion mandates, external partnerships in implementing
+the time of introduction. An effective ex ante process                  evaluation studies are common. Examples include Ger-
+will help to ensure data availability for all TEs in                    many, The Netherlands, and the UK.23 Beyond their
+the long run. A systematic approach to data collec-                     contribution of specialized knowledge and expertise,
+tion can be especially important in the case of broad                   an advantage of partnering with external researchers is
+exemptions, for example, in sectoral exemptions where                   their independence and resulting ability to formulate
+taxpayers are also relieved from filing and reporting                   strong and sometimes inconvenient policy messages.
+requirements.                                                           Outsourcing, however, comes with additional chal-
+                                                                        lenges to maintaining consistency and a cost of limit-
+                                                                        ing both the institutional memory around evaluation
+Institutionalization and Partnerships                                   efforts and the scope for leveraging synergies with
+  TE evaluations are frequently part of more general                    other analytical efforts and across public institutions.
+public policy assessment mandates and require well-co-                  And in some cases, restrictions on data access can limit
+ordinated institutional arrangements between the                        the scope for relying on external providers.
+Ministry of Finance and other public institutions that
+                                                                           23Outsourcing costs for external evaluations have been reported
+     22Legal safeguards may be required to ensure that such exchanges   for specific TEs in the UK (EUR 60,000–290,000) and for a wider
+can take place while preserving confidentiality, particularly where     evaluation cycle in Germany across a broad range of TEs (~EUR
+individual taxpayer data are concerned.                                 300,000).
+
+
+
+10           International Monetary Fund | November 2022
+                                                                                                             How to evaluate tax expenditures
+
+
+Table 4. Steps for Conducting an Ex Post Evaluation
+ Step                                                                                             Purpose
+ 1. Review legislative history, including ex    • Understand how the incentive is meant to work, the intended beneficiaries, and the targeted
+     ante evaluation                                outcomes
+ 2. Meet with stakeholders                      • Obtain perspectives relating to a guiding set of evaluation questions like those in Box 2 that
+                                                    cover such issues as these:
+                                                    • How the incentive operates in practice, including desirable and unwanted outcomes
+                                                    • Related incentives for possible inclusion in a joint evaluation
+                                                    • Administrative and compliance costs
+                                                    • Potential ways to improve incentive design
+ 3. Review literature                            • Inform the theory of change for the incentive
+                                                 • Gather evidence on desirable and undesirable outcomes of similar incentives in other
+                                                    jurisdictions
+                                                 • Identify potential qualitative and quantitative impact evaluation strategies
+ 4. Develop evaluation plan                      • Select evaluation methods (qualitative and/or quantitative) appropriate for desired evaluation
+                                                    depth
+                                                 • Identify data sources required for implementation
+                                                 • Specify logistics, such as personnel, contracts and permissions, milestones, communication
+                                                    strategy.
+ 5. Make data arrangements                       • Ensure data will be available in time to perform the evaluation
+ 6. Perform evaluation                           • Compare predicted social benefits and costs from the ex ante assessment with the ex post
+                                                    evaluation results
+                                                 • Assess whether the social benefits exceed the social costs
+                                                 • Explore potential ways to improve TE design
+ 7. Draft report                                 • Document evaluation methodology and findings with respect to the relevance, effectiveness,
+                                                    efficiency, and equity of the incentive
+                                                 • Recommend whether TE should be continued and, if so, whether any design changes should be
+                                                    considered
+                                                 • Supply a rationale for the recommendations along with an assessment of the strength of the
+                                                    evidence on which they rest
+                                                 • Identify potential improvements in data sources and methods for future evaluations
+ 8. Communicate findings and publish report      • Inform stakeholders to enhance transparency, support decision-making, and inform public discourse
+
+
+
+
+Returns to Transparency                                                       for instance, external experts’ evaluation reports are
+   It is good and common practice to publish TE cost                          published separately from the summary evaluation
+reports, albeit the level of detail provided varies across                    reports. Such a policy also facilitates the recruiting of
+jurisdictions. In some cases, beneficiaries of specific                       scholars who desire to draw upon their commissioned
+TEs are also published to increase transparency.24                            research to make recognized academic contributions.
+Moreover, an increasing number of administrations                             Where it is deemed necessary because of disagreements
+are making (some) anonymized administrative data                              on the studies, companion statements can be published
+publicly available. This practice provides an avenue for                      alongside the background evaluation reports.
+independent external research on a variety of aspects of
+TEs, which the authorities can freely draw upon when                          Evaluation Process
+conducting their own evaluations. Digitalization and
+e-filing will likely reduce the cost of data collection                          Table 4 summarizes the process for carrying out an
+and dissemination in the future.                                              ex post TE evaluation along with a brief description of
+   Similarly, evaluation reports and the background                           the purpose of each step. Although this process applies
+work commissioned from external researchers should                            broadly to all evaluations, the time and intensity asso-
+be systematically made publicly available to receive                          ciated with a given step will depend on the planned
+feedback and to promote productive discourse. A                               depth and breadth of the assessment.
+commitment to always publish commissioned indepen-
+dent reports on specific incentives unaltered contrib-                        Conclusion
+utes to the credibility of the exercise. In Germany,
+                                                                                 Evaluations assessing the justification of tax incen-
+  24In Portugal, for instance, all beneficiaries of corporate tax bene-       tives are an important tool for better (tax) policymak-
+fits exceeding EUR 1,000 are disclosed annually.
+
+
+
+                                                                                                 International Monetary Fund | November 2022            11
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+ing. More than 100 countries that currently publish
+periodic TE cost reports have made important steps in
+this direction. These cost estimates are a critical start-
+ing point but should be complemented with an assess-
+ment of benefits to better inform decision makers.
+Although such efforts can be challenging and resource
+intensive,25 even comparatively simple qualitative and
+partial quantitative analyses are preferable to ceding
+the discussion of benefits to benefiting stakeholders.
+Although important lessons can be learned from coun-
+try practices in implementing increasingly ambitious
+evaluation processes, there is no single best-practice
+approach to replicate. With limited resources, coun-
+tries should initially focus on the most important TEs
+but should seek to gradually expand their evaluation
+mandate and to carefully consider the best division of
+responsibilities between the Ministry of Finance and
+other public and private institutions.
+
+
+
+
+   25The IMF Fiscal Affairs Department is offering technical support
+
+as part of its Tax Expenditure Assessment Program. For further
+information, see https://www.imf.org/en/Topics/fiscal-policies/
+Revenue-Portal/Tax-Policy.
+
+
+
+12         International Monetary Fund | November 2022
+                                                                                               How to evaluate tax expenditures
+
+
+
+References                                                            International Monetary Fund, Washington, DC. https://
+                                                                      www.imf.org/-/media/Files/Publications/HowToNotes/
+Applied Economics. 2014. “Economic Impact of Tesla on
+                                                                      HTNEA2019002.ashx.
+   Washoe and Storey Counties.” Report to Nevada Governor’s
+                                                                   Hutton, Eric. 2010. “A Basic Framework for Evaluating Value
+   Office of Economic Development, September 2014. https://
+                                                                      Added Tax Expenditures.” Inter-American Development Bank
+   goed.nv.gov/wp-content/uploads/2018/07/Full_Tesla_Sum-
+                                                                      Discussion Paper, IDB-DP-138. https://publications.iadb.org/
+   mary_Report_Analysis_Letters_1.pdf.
+                                                                      publications/english/document/A-Basic-Framework-for-Evalu-
+Botman, Dennis, Alexander Klemm, and Reza Baqir. 2010.
+                                                                      ating-Value-Added-Tax-Expenditures.pdf.
+   “Investment Incentives and Effective Tax Rates in the Philip-
+                                                                   International Monetary Fund (IMF). 2018. Fiscal Transparency
+   pines: A Comparison with Neighboring Countries.” Journal of
+                                                                      Handbook. Washington, DC. https://www.imf.org/en/Topics/
+   the Asia Pacific Economy 15 (2): 166–91.
+                                                                      fiscal-policies/fiscal-transparency#Fiscal%20Transparency%20
+Chen, Duanjie. 2018. “The Tax Incentives for Tourist Industry
+                                                                      Handbook.
+   in the Dominican Republic.” In Design and Assessment of
+                                                                   International Monetary Fund (IMF), Organization for Economic
+   Tax Incentives in Developing Countries—Selected Issues and a
+                                                                      Co-operation and Development (OECD), World Bank, and
+   Country Experience. United Nations and CIAT, New York.
+                                                                      United Nations. 2015.“Options for Low-Income Countries’
+   https://www.un.org/esa/ffd/wp-content/uploads/2018/02/
+                                                                      Effective and Efficient Use of Tax Incentives for Investment.”
+   tax-incentives_eng.pdf.
+                                                                      Report Prepared for the G20 Development Working Group
+Cifuentes, Rodrigo. 2005. “Tax Incentives for Retirement
+                                                                      by the Platform for Collaboration on Tax. https://www.imf.
+   Savings: Simulation Results in the Presence of Liquid-
+                                                                      org/external/np/g20/pdf/101515.pdf.
+   ity Constraints and Heterogeneous Consumers in an
+                                                                   Kronfol, Hania, and Victor Steenbergen. 2020. “Evaluating the
+   OLG-GE Model.” In General Equilibrium Models for
+                                                                      Costs and Benefits of Corporate Tax Incentives: Method-
+   the Chilean Economy, edited by R.A. Chumacero and K.
+                                                                      ological Approaches and Policy Considerations: Finance,
+   Schmidt-Hebbel, 414–40. Central Bank of Chile, Santi-
+                                                                      Competitiveness and Innovation, Investment Climate.”
+   ago. https://repositoriodigital.bcentral.cl/xmlui/bitstream/
+                                                                      World Bank Group, Washington, DC. https://openknowl-
+   handle/20.500.12580/3704/BCCh-sbc-v09-p415_440.
+                                                                      edge.worldbank.org/bitstream/handle/10986/33433/
+   pdf?sequence=1&isAllowed=y.
+                                                                      Evaluating-the-Costs-and-Benefits-of-Corporate-Tax-Incen-
+Copenhagen Economics. 2007. “Study on Reduced VAT
+                                                                      tives-Methodological-Approaches-and-Policy-Considerations.
+   Applied to Goods and Services in the Member States of the
+                                                                      pdf?sequence=1&isAllowed=y.
+   European Union.”: Final Report for the European Commis-
+                                                                   Mascagni, Giulia. 2018. “From the Lab to the Field: A Review
+   sion, DG Taxation and Customs Union, 6503 DG TAXUD.
+                                                                      of Tax Experiments.” Journal of Economic Surveys 32 (2):
+   https://taxation-customs.ec.europa.eu/system/files/2016-09/
+                                                                      272–301.
+   study_reduced_vat.pdf.
+                                                                   Ministry of Finance, Benin. 2021. “Rapport D’évaluation
+De Mooij, Ruud A., and Sjef Ederveen. 2008. “Corporate Tax
+                                                                      des Dépenses Fiscales.” https://budgetbenin.bj/wp-con-
+   Elasticities: A Reader’s Guide to Empirical Findings.” Oxford
+                                                                      tent/uploads/2021/11/PLF-2022-Rapport-Depenses-Fis-
+   Review of Economic Policy 24: 680–97.
+                                                                      cales-2020-LF-2022.pdf.
+Department of Finance (Ireland). 2012. “Economic Impact
+                                                                   National Audit Office, United Kingdom. 2020. “The Man-
+   Assessment of Section 481 Film Relief Final Report.”
+                                                                      agement of Tax Expenditures: Report by the Comptroller
+   December.
+                                                                      and Auditor General.” HC 46 Session 2019-20. https://
+Department of Finance (Ireland). 2016. “Economic Evaluation
+                                                                      www.nao.org.uk/wp-content/uploads/2020/02/The-manage-
+   of the R&D Tax Credit.” https://igees.gov.ie/wp-content/
+                                                                      ment-of-tax-expenditure.pdf.
+   uploads/2014/01/R-and-D-Credit-Evaluation-2016.pdf.
+                                                                   Organisation for Economic Co-operation and Development
+Department of Finance (Ireland). 2019. “Review of the Foreign
+                                                                      (OECD). 2010. “Tax Expenditures in OECD Countries.”
+   Earnings Deduction.” In Budget 2020: Report on Tax Expen-
+                                                                      OECD, Paris.
+   ditures Incorporating Outcomes of Certain Tax Expenditure &
+                                                                   Organisation for Economic Co-operation and Development
+   Tax-Related Reviews Completed Since October 2018. 102–38,
+                                                                      (OECD). 2021. “Making Property Tax Reform Happen in
+   https://assets.gov.ie/180888/2fb93079-7221-487b-be81-
+                                                                      China: A Review of Property Tax Design and Reform Experi-
+   978f766fb9bf.pdf.
+                                                                      ences in OECD Countries.” OECD, Paris.
+Grote, Martin. 2017. “How to Establish a Tax Policy Unit.” IMF
+                                                                   Redonda, Augustin, and Tom Neubig. 2018. „Assessing Tax
+   How-To Note, International Monetary Fund, Washington,
+                                                                      Expenditure Reporting in G20 and OECD Economies.“
+   DC. https://www.imf.org/-/media/Files/Publications/How-
+                                                                      Discussion Note 2018/3, Council on Economic Policies.
+   ToNotes/howtonote1707.ashx.
+                                                                   Redonda, Augustin, von Haldenwang, Christian and Flurium
+Heady, Christopher, and Mario Mansour. 2019. “Tax Expen-
+                                                                      Aliu. 2022. “Global Tax Expenditures Database, Version
+   diture Reporting and Its Use in Fiscal Management: A
+                                                                      1.1.3.” Accessed on 01/10/2022.
+   Guide for Developing Economies.” IMF How-To Note.
+
+
+
+
+                                                                                   International Monetary Fund | November 2022    13
+FISCAL AFFAIRS DEPARTMENT HOW TO NOTES
+
+
+
+Thoene, M. (ed.). 2019. “Evaluierung von Steuerverguensti-    U.S. Office of Tax Analysis, Department of the Treasury. 2016.
+  gungen, Ergebnisueberblick, Evaluationsschema, Methoden.”     “Distribution of Retirement Tax Benefits Estimation Meth-
+  FiFo Reports No. 28. University of Cologne.                   odology.” DOT, Washington, DC. https://home.treasury.gov/
+Toder, Eric. 2000. “Tax Cuts or Spending—Does It                system/files/131/Distribution-Retirement-Tax-Benefits-Meth-
+  Make a Difference?” The Urban Institute, Washing-             odology.pdf.
+  ton, DC. https://www.taxpolicycenter.org/publications/      Von Haldenwang, Christian, Agustin Redonda, and Flurim Aliu.
+  tax-cuts-or-spending-does-it-make-difference/full.            2021. “Shedding Light on Worldwide Tax Expenditures:
+U.S. Government Accountability Office (GAO). 2013. “Tax         GTED Flagship Report.” German Development Institute
+  Expenditures: Background and Evaluation Criteria and          and the Council on Economic Policies. Bonn. https://gted.
+  Questions,” GAO-13-167SP. GAO, Washington, DC. https://       net/wp-content/uploads/2021/08/210820_GTED_Flag-
+  www.gao.gov/products/gao-13-167sp.                            shipReport.pdf.
+
+
+
+
+14        International Monetary Fund | November 2022
+How to Evaluate Tax Expenditures
+
+NOTE 22/05
+
