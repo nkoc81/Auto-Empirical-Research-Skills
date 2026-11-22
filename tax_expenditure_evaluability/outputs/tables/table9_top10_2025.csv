@@ -1,0 +1,11 @@
+,Tax,Provision (annex description),Share of estimated total (%),Quality,C1,C5,C6,C7,C8,C9,Narrative
+1,GV,Asgari ücret istisnası,23.492916653225464,Approximate,2,1,0,0,0,0,section 2.1.11
+2,KV,Yatırım fonu ve ortaklıkları kazanç istisnası,10.809301071386942,Good,2,1,0,0,0,1,section 2.2.2
+3,GV,Bazı menkul kıymet ve diğer sermaye piyasası araçlarının Geçici 67. ma,6.807745468245697,Approximate,1,0,0,0,0,1,section 2.1.26
+4,KV,İndirimli kurumlar vergisi desteği,4.261702692362534,Very good,2,1,0,0,0,1,section 2.2.7
+5,GV,Toplama yapılmayan haller - MSİ,3.9382000770467362,Approximate,1,0,0,0,0,0,section 2.1.22
+6,ÖTV,Engellilere yönelik araç alım istisnası,3.5437578423253333,Very good,2,1,0,0,0,0,section 2.4.1
+7,KDV,Yem ve Gübre teslimleri,2.984418691545851,Good,2,1,0,0,0,1,section 2.3.1
+8,BSMV,Yatırım fonları ve ortaklıklarının işlemleri,2.882241633967957,Good,0,0,0,0,0,0,no_narrative_tax_not_covered
+9,KDV,Deniz ve hava taşıma araçlarına yönelik liman ve hava meydanlarındaki ,2.0286008012278782,Good,2,1,0,0,0,1,section 2.3.1
+10,KDV,Teşvik belgeli yatırımlarda istisna,2.0119234171255593,Good,2,1,0,0,0,1,section 2.3.1

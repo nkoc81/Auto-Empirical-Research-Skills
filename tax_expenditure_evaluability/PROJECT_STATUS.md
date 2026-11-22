@@ -105,3 +105,28 @@ IMF notu (How-To Note 22/05) puanlı bir kontrol listesi vermiyor; değerlendirm
 2. Anlatı bölümlerinin çıkarımı ve kalem-bölüm bağlantısı; 9 ölçütün sayfa referanslı kodlanması.
 3. Hakemli literatür taraması (CrossRef ile DOI doğrulaması) ve `paper/references.bib`.
 4. Nicel tablolar/şekiller, kodlama dağılımları; makale metni bulgulara göre (İngilizce); sınırlılıklar dosyası; tüm kodun yeniden çalıştırılarak çapraz kontrolü.
+
+---
+
+## 9. Tamamlanma durumu (analiz sonrası güncelleme, 22 Kasım 2026)
+
+Yukarıdaki fizibilite bölümleri analiz öncesinde yazıldı ve değiştirilmedi; bu bölüm sonradan eklendi.
+
+**Yapılanlar**
+- Kod kitabı ve karar günlüğü: `data/codebook.md`, `data/coding/decision_log.md` (D1–D10), elle düzeltmeler `data/coding/overrides.csv`.
+- Anlatı bölümleri: 683 rapor-bölüm (2016: 74, 2017: 22, 2018: 76, 2020–2025: 82–87); her kodun kanıt cümlesi ve PDF sayfası `data/coding/section_codes.csv` içinde.
+- Kalem-bölüm eşleştirmesi: 2020–2025'te kalemlerin %74–84'ü bir anlatı bölümüne bağlanıyor; BSMV, MTV ve ÖİV kalemleri için raporlarda anlatı yok.
+- Tablolar ve şekiller: `outputs/tables/tables.md`, `outputs/figures/fig1–fig4`. Tam yeniden çalıştırma (`run_all.sh`) art arda iki kez aynı tabloları üretti.
+- Literatür: 27 kaynak, DOI'ler CrossRef ile doğrulandı; her kaynağın neye dayanılarak kullanıldığı (tam metin / özet / üst veri) `data/literature/literature_notes.md` dosyasında.
+- Makale (İngilizce): `paper/manuscript.md` (özet 189 sözcük, toplam yaklaşık 5.700 sözcük); sınırlılıklar: `paper/limitations_and_data_gaps.md`.
+
+**Başlıca bulgular (yalnızca raporlardaki bilgiye ilişkin)**
+- Kalem düzeyinde maliyet tahmini olan kalemlerin payı (uygulanabilir kalemler içinde) %75,5'ten (2016) %88,1'e (2025) yükseldi. Üç ya da daha fazla raporda görünen 284 kalemden 25'i hiçbir raporda tahmin edilmemiş.
+- Tahmin kalitesi etiketleri tanımsız. "Çok iyi" etiketli kalemlerin tutar payı %58–62'den (2016–2020) %14'e (2025) düştü; 2025'te tutarın %42,5'i "yaklaşık" etiketli.
+- Aynı yıl için sonraki raporun gerçekleşme tahmini, ilk tahminden her karşılaştırmada %5,7–35,7, bütçe kanunu tahmininden ise %24,5–162,1 yüksek.
+- Amaç: 2025'te bölümlerin %51'inde kaleme özgü, %23'ünde genel bir amaç ifadesi var. Beklenen çıktı hiçbir bölümde ölçülebilir biçimde tanımlanmamış. Yararlanıcı sayısı, gösterge verisi, ek katkı (karşı-olgusal) analizi, maliyet-etkinlik değerlendirmesi ve gözden geçirme sonucu hiçbir raporda yok. Hükümlerin yaklaşık yarısında yalnızca yasal süre sınırı görülüyor.
+
+**Açık kalanlar**
+- 2019 raporu bulunamadı. Bütçe kanunu ekleri ayrıca indirilmedi. Sanayi ve Teknoloji Bakanlığı verilerine erişilemedi.
+- Bağımsız ikinci kodlayıcı yok. Dergiye göndermeden önce bağımsız bir kodlayıcıyla örneklem üzerinde güvenilirlik denetimi önerilir.
+- Bazı Türkçe kaynaklar yalnızca özetten değerlendirildi. Gönderim öncesinde tam metinleri okunmalı.

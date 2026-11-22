@@ -1,0 +1,23 @@
+report_id,sec_no,variable,new_value,decision,reason,scope
+VHR2025,2.4.12,C1,0,D2,"'kullanıma hazır hale getirilebilmesi amacıyla' describes the use of the oils, not the purpose of the exemption",same_evidence
+VHR2025,2.4.12,C5,0,D2,no outcome stated,same_evidence
+VHR2025,2.1.6,C1,1,D6,"the specific aim quoted (tax fairness, informality) belongs to the 2025 narrowing of the exemption; for the exemption itself only the generic 'social and economic purpose' formula is given",same_evidence
+VHR2025,2.1.6,C5,0,D6,"outcome refers to the 2025 narrowing, not to the exemption",same_evidence
+VHR2025,2.2.10,C1,1,D7,purpose only implicit in the eligibility clause (projects supported under Law 6745 art. 80 for zero-emission vehicle technologies),same_title
+VHR2025,2.2.10,C5,0,D7,no outcome stated as an aim of the exemption,same_title
+VHR2025,2.2.11,C1,1,D7,purpose only implicit ('dönüşümün desteklenmesi kapsamında' describes the scheme),same_title
+VHR2025,2.2.11,C5,0,D7,no outcome stated,same_title
+VHR2025,2.3.3,C1,1,D7,implicit rationale only: avoiding different treatment of domestic supplies and imports,same_title
+VHR2025,2.3.7,C1,1,D7,implicit only: income-tax incentives of technology zones 'extended' to VAT,same_title
+VHR2025,2.1.24,C5,0,D9,"simplification/compliance-cost rationale is administrative, not a policy outcome",same_evidence
+VHR2016,3.2.17,C1,1,D2,"sentence describes the aim of OYAK as an institution, not of the deduction; generic 'social and economic purpose' formula present",same_evidence
+VHR2016,3.2.17,C5,0,D2,no outcome of the deduction stated,same_evidence
+VHR2017,2.3.4,C8,0,D4,"'hibe' refers to donations excluded from the exemption, not to an alternative instrument",same_evidence
+VHR2016,3.2.6,C7,0,D3,"'bu istisna olmasaydı' is part of the cost computation, not an additionality argument",same_evidence
+VHR2017,2.2.6,C6,0,D3,"match is the section heading ('Proje Bazlı...'), no indicator data",same_evidence
+VHR2017,2.2.6,B,0,D3,"match is the section heading, no beneficiary count",same_evidence
+VHR2021,2.1.32,C1,0,D2,"'Ar-Ge projelerini desteklemek amacıyla' describes foundations eligible under Law 5746, not the purpose of the support",same_evidence
+VHR2021,2.1.32,C5,0,D2,no outcome stated for the provision,same_evidence
+VHR2025,2.4.11,C2,2,D1,eligible group defined in narrative (licensed oto-biodiesel producers / blenders); cue list missed the wording,same_evidence
+VHR2025,2.2.1,C1,1,D2,"KVK art. 4 exemptions: the 'amacıyla' clauses describe what the exempt institutions do; the narrative gives only a generic social-purpose rationale ('kar amacından ziyade sosyal amaçlarla'); applied to all reports",same_title
+VHR2025,2.2.1,C5,0,D2,"no outcome stated; applied to all reports",same_title
