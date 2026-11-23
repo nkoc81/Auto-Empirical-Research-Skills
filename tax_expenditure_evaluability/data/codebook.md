@@ -15,7 +15,9 @@ is reported as such and is *not* an inter-coder reliability statistic.
 
 Narrative codes are attached to annex items through the legal reference (law + article). An annex item
 that maps to no narrative section receives code 0 on C1, C2, C5–C9 with the note `no_narrative`
-("not reported"), because the annex itself only gives a short label.
+("not reported"), because the annex itself only gives a short label. Because one section can cover many items,
+item-level narrative codes are reported as a range (decision D11): upper bound = section code attributed to all
+mapped items; lower bound = explicit codes credited only to items that are the sole item of their section.
 
 ## 2. Code values
 
@@ -31,8 +33,10 @@ does not show. These cases are not searched for and not coded.
 
 ## 3. Criteria and decision rules
 
-Mapping to the IMF How-To Note 22/05 (Beer et al., 2022) is given in column "IMF note". The note is guidance, not a
-scored checklist; the criteria below are our operationalisation for document analysis.
+Mapping to the IMF How-To Note 22/05 (Beer et al., 2022) is given in column "IMF note" (fuller mapping with page
+numbers: manuscript Table A1). The note is institutional guidance from the IMF Fiscal Affairs Department, not a
+peer-reviewed study and not a scored checklist; the nine criteria and the 0/1/2 scale are the author's operationalisation
+for document analysis, not an IMF standard.
 
 | # | Criterion | 2 | 1 | 0 | IMF note (section / content) |
 |---|---|---|---|---|---|

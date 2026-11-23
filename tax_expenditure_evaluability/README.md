@@ -14,7 +14,7 @@ reported information**, not the effects of any tax expenditure.
 ```
 
 This needs Python 3 with `pandas`, `numpy`, `matplotlib`, `pymupdf`, `fonttools` and `tabulate`. The full run takes
-about 40 seconds and is deterministic. Step 11 reads cached CrossRef records and goes online only if a record is missing.
+about 40 seconds and is deterministic; a clean run from the raw files reproduces the committed outputs byte for byte (checked 23 Nov 2026). The 2018 glyph map is learned from the other reports' annexes, so `run_all.sh` extracts those first. `data/text/` (pdftotext output) and the hand-checked inputs (`data/interim/manual_rows_VHR2016.csv`, `data/interim/budget_law_annexes.csv`, `data/coding/overrides.csv`) are inputs, not outputs. Step 11 reads cached CrossRef records and goes online only if a record is missing.
 
 ## Layout
 
@@ -22,7 +22,7 @@ about 40 seconds and is deterministic. Step 11 reads cached CrossRef records and
 |---|---|
 | `PROJECT_STATUS.md` | Feasibility report (Turkish) written before the analysis, plus the completion status |
 | `data/source_inventory.csv` | Every source document: institution, title, type, years covered, URL, access date, local file |
-| `data/raw/` | Downloaded PDFs (HMB 2007, 2016–2018; GİB 2020–2025; IMF note) |
+| `data/raw/` | Downloaded PDFs (HMB 2007, 2016–2018; GİB 2020–2025; IMF note); `data/raw/budget_law/`: Official Gazette pages and scanned annexes of the 2019 and 2020 budget laws |
 | `data/text/` | `pdftotext -layout` output of the PDFs |
 | `data/tax_expenditure_panel.csv` | **Main panel**: report × item × year (10,560 rows): amount (thousand TL), cell status, realisation/projection, quality label, legal reference, PDF page, URL |
 | `data/interim/` | Extracted annex rows and totals, body summary tables, narrative sections, item links, manual 2016 rows |
@@ -42,6 +42,7 @@ about 40 seconds and is deterministic. Step 11 reads cached CrossRef records and
 | `01_extract_annex_tables.py` | Extracts Annex I item rows and sub-table totals from each report (handles rotated pages and encodings) |
 | `02_build_panel.py` | Normalises legal references, links items across reports and builds the long panel |
 | `03_extract_summary_tables.py` | Extracts body tables: totals, % of GDP, % of tax revenue, budget-law estimates |
+| `03b_budget_law_annexes.py` | Checks the transcribed budget-law annex tables (row sums) and compares them with the reports (same-vintage detection) |
 | `04_reconcile.py` | Reconciles item rows with sub-table totals, and annex totals with body tables |
 | `05_extract_narratives.py` | Splits the provisions chapter into numbered narrative sections, with page markers |
 | `06_candidate_sentences.py` | Splits sentences and separates quoted statute from narrative |
@@ -50,6 +51,7 @@ about 40 seconds and is deterministic. Step 11 reads cached CrossRef records and
 | `09_item_codes.py` | Maps items to sections and derives C3/C4 for every item-year |
 | `10_analysis.py` | Tables and figures |
 | `11_verify_references.py` | Verifies DOIs at CrossRef and writes `paper/references.bib` |
+| `12_number_trace.py` | Recomputes every number quoted in the manuscript from its table cell and checks it against the text (`outputs/tables/manuscript_number_trace.csv`) |
 | `check_totals.py`, `diag_rows.py` | Diagnostic helpers used during extraction |
 
 ## Key conventions

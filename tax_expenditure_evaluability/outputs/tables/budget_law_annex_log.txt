@@ -1,0 +1,35 @@
+source_id  fiscal_year  sum_of_rows_try  printed_total_try  difference_try
+   BL2019         2019     178695912831       178695912831               0
+   BL2019         2020     205401393390       205401393389               1
+   BL2019         2021     229165426066       229165426066               0
+   BL2020         2020     195590812732       195590812732               0
+   BL2020         2021     222661650448       222661650447               1
+   BL2020         2022     251397082495       251397082494               1
+report_table_kind               amount budget_law
+source_id fiscal_year report_id                  
+BL2019    2019        VHR2016    False        NaN
+                      VHR2017      NaN      False
+                      VHR2018     True       True
+                      VHR2020    False        NaN
+          2020        VHR2017      NaN      False
+                      VHR2018     True       True
+                      VHR2020    False        NaN
+                      VHR2021    False        NaN
+          2021        VHR2018     True       True
+                      VHR2020    False      False
+                      VHR2021    False        NaN
+                      VHR2022    False        NaN
+BL2020    2020        VHR2017      NaN      False
+                      VHR2018    False      False
+                      VHR2020    False        NaN
+                      VHR2021    False        NaN
+          2021        VHR2018    False      False
+                      VHR2020    False      False
+                      VHR2021    False        NaN
+                      VHR2022    False        NaN
+          2022        VHR2020    False      False
+                      VHR2021    False      False
+                      VHR2022    False        NaN
+                      VHR2023    False        NaN
+BL2019 years [np.int64(2019), np.int64(2020), np.int64(2021)] -> identical to report tables: ['VHR2018']
+BL2020 years [np.int64(2020), np.int64(2021), np.int64(2022)] -> identical to report tables: none (no report reproduces this vintage)

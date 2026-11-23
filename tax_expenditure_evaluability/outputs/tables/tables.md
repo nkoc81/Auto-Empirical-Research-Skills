@@ -34,17 +34,18 @@
 
 ### Table 3. Same-year comparison of projections, budget-law estimates and later realisation estimates
 
-|   Fiscal year |   Projection (report) |   Projection (million TL) |   Budget-law estimate (report) |   Budget-law estimate (million TL) |   Realisation (report) |   Realisation (million TL) |   Realisation vs projection (%) |   Realisation vs budget law (%) |   Projection TE/GDP (%) |   Realisation TE/GDP (%) |
-|--------------:|----------------------:|--------------------------:|-------------------------------:|-----------------------------------:|-----------------------:|---------------------------:|--------------------------------:|--------------------------------:|------------------------:|-------------------------:|
-|          2016 |                  2016 |                   90660.0 |                                |                              nan   |                   2017 |                    99547.4 |                             9.8 |                           nan   |                     4.2 |                    nan   |
-|          2017 |                  2017 |                  119792.1 |                           2016 |                              nan   |                   2018 |                   126650.0 |                             5.7 |                           nan   |                   nan   |                      4.1 |
-|          2020 |                  2020 |                  198247.0 |                                |                              nan   |                   2021 |                   237395.0 |                            19.7 |                           nan   |                     4.1 |                      4.7 |
-|          2021 |                  2021 |                  312372.0 |                           2020 |                           230770.0 |                   2022 |                   423817.0 |                            35.7 |                            83.7 |                     4.7 |                      5.8 |
-|          2022 |                  2022 |                  746885.0 |                           2021 |                           335968.0 |                   2023 |                   880732.0 |                            17.9 |                           162.1 |                     5.0 |                      5.9 |
-|          2023 |                  2023 |                 1476664.0 |                           2022 |                           994380.0 |                   2024 |                  1729457.0 |                            17.1 |                            73.9 |                     5.8 |                      6.5 |
-|          2024 |                  2024 |                 2454037.0 |                           2023 |                          2210376.0 |                   2025 |                  2752854.0 |                            12.2 |                            24.5 |                     5.5 |                      6.2 |
+|   Fiscal year | First projection (report)   |   First projection (million TL) | Budget-law estimate (source)   |   Budget-law estimate (million TL) |   Realisation (report) |   Realisation (million TL) |   Realisation vs projection (%) |   Realisation vs budget law (%) |   Projection TE/GDP (%) |   Realisation TE/GDP (%) |
+|--------------:|:----------------------------|--------------------------------:|:-------------------------------|-----------------------------------:|-----------------------:|---------------------------:|--------------------------------:|--------------------------------:|------------------------:|-------------------------:|
+|          2016 | 2016                        |                         90660.0 |                                |                              nan   |                   2017 |                    99547.4 |                             9.8 |                           nan   |                     4.2 |                    nan   |
+|          2017 | 2017                        |                        119792.1 |                                |                              nan   |                   2018 |                   126650.0 |                             5.7 |                           nan   |                   nan   |                      4.1 |
+|          2019 | missing (2019 report)       |                           nan   | Budget law 2019 annex          |                           178695.9 |                   2020 |                   177601.0 |                           nan   |                            -0.6 |                   nan   |                      4.1 |
+|          2020 | 2020                        |                        198247.0 | Budget law 2020 annex          |                           195590.8 |                   2021 |                   237395.0 |                            19.7 |                            21.4 |                     4.1 |                      4.7 |
+|          2021 | 2021                        |                        312372.0 | Report 2020, budget-law table  |                           230770.0 |                   2022 |                   423817.0 |                            35.7 |                            83.7 |                     4.7 |                      5.8 |
+|          2022 | 2022                        |                        746885.0 | Report 2021, budget-law table  |                           335968.0 |                   2023 |                   880732.0 |                            17.9 |                           162.1 |                     5.0 |                      5.9 |
+|          2023 | 2023                        |                       1476664.0 | Report 2022, budget-law table  |                           994380.0 |                   2024 |                  1729457.0 |                            17.1 |                            73.9 |                     5.8 |                      6.5 |
+|          2024 | 2024                        |                       2454037.0 | Report 2023, budget-law table  |                          2210376.0 |                   2025 |                  2752854.0 |                            12.2 |                            24.5 |                     5.5 |                      6.2 |
 
-*Note:* Each row compares estimates for the same fiscal year published in different reports (same-year prices, so the nominal comparison is meaningful). Budget-law estimates are the first-year figures of the budget-law table printed in the report published two years before the realisation estimate. Differences reflect macro assumptions, legal changes and data/method updates together; they are not a measure of policy effects.
+*Note:* Each row compares estimates for the same fiscal year published in different documents (same-year prices, so the nominal comparison is meaningful). First projection = first projection year of the report whose realisation year is the preceding year. Budget-law estimate = the estimate attached to that year's central government budget law: taken from the budget-law annex for 2019 and 2020 (Official Gazette 30642 and 30995, Mükerrer) and otherwise from the budget-law table reprinted in the reports. The 2019 budget-law figure is identical to the 2018 report's projection (same vintage, one observation); the 2020 budget-law figure belongs to the vintage of the missing 2019 report. 'Realisation' is the later report's ex post revenue-forgone estimate, not an observed outcome. Differences reflect macro assumptions, legal changes and data/method updates together; they are not a measure of policy effects.
 
 ### Table 3b. Item-level projection versus later realisation estimate (strongly linked items)
 
@@ -182,3 +183,64 @@
 | ('2024', '2025') |                     231 |                       2 |         7 |
 
 *Note:* Counts by linked item id. Entries combine new provisions, newly listed existing provisions and linking failures; the 2017-2018 and 2018-2020 steps also reflect the missing 2019 report.
+
+### Table 11. Sensitivity of item-level codes to the section-to-item attribution
+
+|                |   n items |   Coded 2, upper bound (%) |   Coded 2, lower bound (%) |   Coded ≥1 (%) |   One-to-one items (n) |   One-to-one items coded 2 (%) |
+|:---------------|----------:|---------------------------:|---------------------------:|---------------:|-----------------------:|-------------------------------:|
+| ('2016', 'C1') |     193.0 |                       41.5 |                       12.4 |           61.1 |                   44.0 |                           54.5 |
+| ('2016', 'C2') |     193.0 |                       67.4 |                       21.8 |           68.4 |                   44.0 |                           95.5 |
+| ('2016', 'C5') |     193.0 |                        0.0 |                        0.0 |           34.7 |                   44.0 |                            0.0 |
+| ('2016', 'C9') |     193.0 |                        0.0 |                        0.0 |           40.9 |                   44.0 |                            0.0 |
+| ('2018', 'C1') |     233.0 |                       42.5 |                        9.4 |           58.8 |                   39.0 |                           56.4 |
+| ('2018', 'C2') |     233.0 |                       63.5 |                       16.7 |           63.5 |                   39.0 |                          100.0 |
+| ('2018', 'C5') |     233.0 |                        0.0 |                        0.0 |           38.2 |                   39.0 |                            0.0 |
+| ('2018', 'C9') |     233.0 |                        0.0 |                        0.0 |           44.6 |                   39.0 |                            0.0 |
+| ('2020', 'C1') |     252.0 |                       42.9 |                       10.3 |           66.7 |                   51.0 |                           51.0 |
+| ('2020', 'C2') |     252.0 |                       73.4 |                       19.4 |           74.2 |                   51.0 |                           96.1 |
+| ('2020', 'C5') |     252.0 |                        0.0 |                        0.0 |           37.7 |                   51.0 |                            0.0 |
+| ('2020', 'C9') |     252.0 |                        0.0 |                        0.0 |           55.6 |                   51.0 |                            0.0 |
+| ('2025', 'C1') |     231.0 |                       48.1 |                       10.0 |           76.6 |                   51.0 |                           45.1 |
+| ('2025', 'C2') |     231.0 |                       83.1 |                       20.8 |           84.4 |                   51.0 |                           94.1 |
+| ('2025', 'C5') |     231.0 |                        0.0 |                        0.0 |           42.0 |                   51.0 |                            0.0 |
+| ('2025', 'C9') |     231.0 |                        0.0 |                        0.0 |           56.7 |                   51.0 |                            0.0 |
+
+*Note:* Upper bound = every item inherits its section's code (main analysis). Lower bound = an explicit code (2) is credited only to items that are the only annex item mapped to their section; items sharing a section are capped at 1. Items without any narrative section are 0 in both bounds. One-to-one items = items that are the only item mapped to their section.
+
+### Table 11b. Amount-weighted sensitivity, 2025 report (2024 realisation)
+
+| Criterion   |   Upper bound: % of 2024 amount coded 2 |   Lower bound: % of 2024 amount coded 2 |
+|:------------|----------------------------------------:|----------------------------------------:|
+| C1          |                                    64.8 |                                     6.2 |
+| C5          |                                     0.0 |                                     0.0 |
+
+*Note:* Shares of the summed 2024 realisation amounts of estimated items.
+
+### Table 12. Changes within consistent reporting regimes, items present in both end reports
+
+|                                                  | Reports      |   Common items (strong link, non-NA) |   Coded 2 in first report (%) |   Coded 2 in last report (%) |   Items whose code changed |
+|:-------------------------------------------------|:-------------|-------------------------------------:|------------------------------:|-----------------------------:|---------------------------:|
+| ('2016-2018 (Ministry of Finance / MoTF)', 'C1') | 2016 vs 2018 |                                  167 |                          44.3 |                         41.9 |                          4 |
+| ('2016-2018 (Ministry of Finance / MoTF)', 'C3') | 2016 vs 2018 |                                  151 |                          78.1 |                         80.1 |                         15 |
+| ('2016-2018 (Ministry of Finance / MoTF)', 'C5') | 2016 vs 2018 |                                  167 |                           0.0 |                          0.0 |                          2 |
+| ('2020-2025 (Revenue Administration)', 'C1')     | 2020 vs 2025 |                                  174 |                          50.6 |                         48.9 |                          8 |
+| ('2020-2025 (Revenue Administration)', 'C3')     | 2020 vs 2025 |                                  156 |                          82.1 |                         87.2 |                          8 |
+| ('2020-2025 (Revenue Administration)', 'C5')     | 2020 vs 2025 |                                  174 |                           0.0 |                          0.0 |                          5 |
+
+*Note:* Only items linked by legal reference and description at every step between the two reports are compared, so changes are not driven by items entering or leaving the lists. The 2016-2018 chain passes through the 2017 report, which has no narrative for most items; C1 and C5 still compare the 2016 and 2018 narratives of the same items.
+
+### Table 13. Narrative coverage of annex items and use of the generic purpose formula
+
+|   Report |   Items |   Items mapped to a narrative section |   Items without narrative: BSMV/MTV/ÖİV |   Items without narrative: other |   Estimated amount in items without narrative (%) |   Narrative sections |   Sections using the generic 'social and economic purpose' formula |
+|---------:|--------:|--------------------------------------:|----------------------------------------:|---------------------------------:|--------------------------------------------------:|---------------------:|-------------------------------------------------------------------:|
+|     2016 |   193.0 |                                 132.0 |                                    23.0 |                             38.0 |                                              29.6 |                 74.0 |                                                               25.0 |
+|     2017 |   223.0 |                                  18.0 |                                    23.0 |                            182.0 |                                              94.9 |                 22.0 |                                                                0.0 |
+|     2018 |   233.0 |                                 148.0 |                                    23.0 |                             62.0 |                                              28.2 |                 76.0 |                                                               25.0 |
+|     2020 |   252.0 |                                 187.0 |                                    25.0 |                             40.0 |                                              11.0 |                 82.0 |                                                               25.0 |
+|     2021 |   252.0 |                                 191.0 |                                    24.0 |                             37.0 |                                               9.8 |                 87.0 |                                                               28.0 |
+|     2022 |   256.0 |                                 202.0 |                                    25.0 |                             29.0 |                                              23.5 |                 87.0 |                                                               27.0 |
+|     2023 |   236.0 |                                 196.0 |                                    24.0 |                             16.0 |                                               7.7 |                 85.0 |                                                               27.0 |
+|     2024 |   236.0 |                                 197.0 |                                    24.0 |                             15.0 |                                               7.1 |                 86.0 |                                                               27.0 |
+|     2025 |   231.0 |                                 195.0 |                                    24.0 |                             12.0 |                                               9.1 |                 84.0 |                                                               26.0 |
+
+*Note:* Mapping by legal reference (scripts/09_item_codes.py). The generic formula is counted in the report's own narrative, outside quoted statute text (pattern 'sosyal ve ekonomik amaç' and variants).

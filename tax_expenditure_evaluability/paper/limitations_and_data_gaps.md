@@ -1,50 +1,77 @@
 # Limitations and data gaps
 
+Updated 23 November 2026 (audit). Numbers refer to files in `outputs/tables/`.
+
 ## Data availability
-1. **Missing 2019 report.** No official copy of a 2019 Tax Expenditure Report was found (HMB archive lists 2007,
-   2016–2018; the Revenue Administration lists 2020–2025; the 2019 file name returns HTTP 400). The 2018 realisation
+1. **Missing 2019 report.** No official copy of a 2019 Tax Expenditure Report was found. Searched: HMB archive page
+   (lists 2007, 2016–2018), Revenue Administration report page (2020–2025), the Revenue Administration file server
+   (2019 object key: HTTP 400), a legacy gib.gov.tr file path (HTTP 404), the Official Gazette. The 2018 realisation
    year is therefore missing, and the 2018→2020 comparisons span two report vintages.
-2. **Budget-law annexes not retrieved separately.** Budget-law tax expenditure totals are taken from the tables the
-   reports reprint; they are recorded as a separate series and never added to report totals. The 2008–2015 budget-law
-   series rests on the 2007 methodology and is not comparable with the post-2016 series (the 2016 report prints both:
-   1.34% vs 4.08% of GDP for 2015).
+2. **Budget-law annexes.** The annexes of the 2019 budget law (Law 7156, Official Gazette 30642 Mükerrer, 31.12.2018,
+   p. 1973) and the 2020 budget law (Law 7197, Official Gazette 30995 Mükerrer, 31.12.2019, p. 1973) were retrieved.
+   They give totals by tax law only (no item amounts) and were published as scanned images; values were transcribed by
+   OCR with visual checking, and row sums match printed totals within 1 TL. The 2019 annex is identical to the 2018
+   report's tables (same vintage; counted once). The 2020 annex is the only published trace of the vintage of the
+   missing 2019 report. Budget-law figures for 2021–2024 are taken from tables reprinted in the reports; annexes of
+   other budget laws were not retrieved separately. The 2008–2015 budget-law series rests on the 2007 methodology and
+   is not comparable with the post-2016 series (the 2016 report prints both: 1.34% vs 4.08% of GDP for 2015).
 3. **Ministry of Industry and Technology statistics not used.** The ministry's website refused automated access; the
    restriction was not circumvented. These statistics report planned investment and employment on incentive
    certificates and would not measure tax expenditure costs or effects in any case.
-4. **Ratios.** TE/GDP and TE/tax-revenue ratios are those published by the reports. The 2017 report publishes none.
+4. **Other government sources not examined.** Ministry statistics, audit reports (e.g. of the Court of Accounts),
+   legislative preambles and administrative data were not examined. Findings concern the published tax expenditure
+   reporting only.
+5. **Ratios.** TE/GDP and TE/tax-revenue ratios are those published by the reports. The 2017 report publishes none.
    Nominal TL values are not compared across years.
 
+## Comparability over time
+6. The series has a methodological break in 2016, a missing report (2019), a change of issuing institution (2018→2020)
+   and a 2017 report that narrates only new provisions. Results are therefore presented by reporting regime
+   (2016–2018 and 2020–2025), and item comparisons over time use only items linked by legal reference and description
+   at every step (Table 12). Shares across all items in different reports also reflect items entering and leaving the
+   lists (Table 10b).
+
 ## Extraction
-5. Annex tables were extracted from PDFs with rotated pages (2020–2023), broken character encodings (2017) and fonts
-   without Unicode maps (2018, decoded by a learned glyph map). Item rows reconcile with the printed sub-table totals in
-   395 of 402 comparisons (±5 thousand TL) and with body totals within ±0.5 million TL; remaining differences are
-   traced to the documents themselves (outputs/tables/official_document_inconsistencies.csv).
-6. Five 2016 rows (MTV, ÖİV) were transcribed by hand; the 2016 MTV amount is printed on the first sub-item only.
-7. Annex descriptions on some rotated pages of the 2021–2022 reports are word-scrambled; they are not used for coding
-   (narratives are used), but they weaken cross-report item linking for BSMV/MTV rows.
-8. **Item linking across reports** (338 linked identities) is a research construct based on legal reference and
-   description similarity. Weak links were audited by sample; item-level time comparisons use only links based on
-   both legal reference and description.
+7. Annex tables were extracted from PDFs with rotated pages (2020–2023), broken character encodings (2017) and fonts
+   without Unicode maps (2018, decoded by a glyph map learned from the other reports; the pipeline extracts those
+   reports first). Item rows reconcile with printed sub-table totals in 395 of 402 comparisons (±5 thousand TL) and
+   with body totals within ±0.5 million TL except two report-years; remaining differences are traced to the documents
+   (official_document_inconsistencies.csv).
+8. Five 2016 rows (MTV, ÖİV) were transcribed by hand; the 2016 MTV amount is printed on the first sub-item only.
+9. Annex descriptions on some rotated pages of the 2021–2022 reports are word-scrambled; they are not used for coding
+   (narratives are used), but they weaken cross-report linking for BSMV/MTV rows.
+10. **Item linking across reports** (338 identities) is a research construct based on legal reference and description
+    similarity. Weak links were audited by sample only.
+11. The text files in `data/text/` (pdftotext output) are inputs to the narrative and summary-table extraction; they
+    are not regenerated by `run_all.sh`.
 
 ## Coding
-9. **Single coder; no inter-coder reliability.** Codes come from explicit rules with recorded evidence sentences, followed
-   by the author's review and logged overrides. This makes the coding reproducible and auditable but is not a
-   substitute for an independent second coder. No re-coding by the same person is presented as independent coding.
-10. **Section-to-item attribution.** Narrative codes are assigned at section level and attributed to every item mapped to
-    the section; for sections covering many sub-provisions (e.g. GVK 23, 89; KVK 5, 10; KDV 13, 17; ÖTV 7) the item-level
-    code is an upper bound. 16–26% of annex items (2020–2025; 92% in the 2017 report) map to no narrative section, including all BSMV, MTV
-    and ÖİV items; these are coded "not reported".
-11. **"Absent from the document" ≠ "absent from policy".** The coding concerns the official reports only. Objectives,
-    data or reviews may exist in legislative preambles, ministry statistics or audit reports not covered here.
-12. **C9 time limits** are mostly read from quoted statute; a time limit is not evidence that any review takes place.
-13. The cue rules may miss unusual wording; the review targeted all sections coded 0 on C1 in 2016 and 2025, all rule
-    hits on C6–C8 and B, and all changes between consecutive reports, but not every sentence of every report.
+12. **Single coder; no inter-coder reliability.** All codes were assigned by one person: explicit rules with recorded
+    evidence sentences, followed by the author's review and logged overrides. This makes the coding reproducible and
+    auditable but is not a substitute for an independent second coder. No agreement statistic is reported, and no
+    re-coding by the same person is presented as independent coding.
+13. **Section-to-item attribution.** Narrative codes are assigned to sections. Attributing a section's code to all mapped
+    items gives an upper bound; crediting explicit codes only to items that are alone in their section gives a lower
+    bound. The bounds are far apart for C1 (2025: 48.1% vs 10.0% of items; 64.8% vs 6.2% of estimated amount; Tables 11,
+    11b), so item-level statements about explicit purposes are uncertain. 16–26% of annex items (2020–2025; 92% in the
+    2017 report) map to no narrative section, including all BSMV, MTV and ÖİV items; these are coded "not reported".
+14. **"Absent from the document" ≠ "absent from policy".** Objectives, data or reviews may exist outside the reports.
+15. **C9 time limits** are mostly read from quoted statute; a time limit is not evidence that any review takes place.
+16. The cue rules may miss unusual wording. The review covered all C1/C5 evidence and all C1 = 0 sections in 2016 and
+    2025, all rule hits on C6–C8, B and C9 = 2, and all code changes between consecutive reports, but not every
+    sentence of every report.
+
+## Literature
+17. Only the IMF note and the official documents were read in full. Peer-reviewed works are cited for their central,
+    widely known arguments or on the basis of their abstracts; Turkish studies are characterised from their abstracts
+    (data/literature/literature_notes.md).
 
 ## Interpretation
-14. All amounts are static revenue-forgone estimates under a no-behavioural-response assumption. They are not the
-    revenue that repeal would raise and not measures of policy effects. Nothing in this study measures whether any tax
-    expenditure is effective or ineffective; "not evaluable from the report" does not mean "ineffective".
-15. Differences between projections, budget-law figures and later realisation estimates combine macro forecast errors,
+18. All amounts are static revenue-forgone estimates under a no-behavioural-response assumption ("gerçekleşme" =
+    ex post estimate from that year's data). They are not the revenue that repeal would raise and not measures of
+    policy effects. Nothing in this study measures whether any tax expenditure is effective or ineffective; "not
+    evaluable from the report" does not mean "ineffective".
+19. Differences between projections, budget-law figures and later realisation estimates combine macro forecast errors,
     legal changes, inflation and data/method updates; they are not decomposed.
-16. The IMF How-To Note is institutional guidance, not a peer-reviewed standard or a scored checklist; the nine criteria
+20. The IMF How-To Note is institutional guidance, not a peer-reviewed standard or a scored checklist; the nine criteria
     are the author's operationalisation of it.

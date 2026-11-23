@@ -100,7 +100,7 @@ ax.scatter(xs, ys, s=30, color="#184f95", zorder=4, edgecolor="white", linewidth
 for x, y in zip(xs, ys):
     ax.annotate(f"{y:.2f}", (x, y), textcoords="offset points", xytext=(-4, 7), ha="right", fontsize=7.5, color=INK,
                 bbox=dict(boxstyle="square,pad=0.1", fc="white", ec="none", alpha=0.85))
-ax.axvline(2018, color=GREY, lw=1, ls=":"); ax.text(2018, ax.get_ylim()[0] + 0.1, "no 2018\nrealisation;\n2016: no ratio", fontsize=7, color=MUTED, ha="center")
+ax.axvline(2018, color=GREY, lw=1, ls=":"); ax.text(2018, 5.0, "no 2018 realisation;\nissuer changes\n(MoF/MoTF → RA)", fontsize=7, color=MUTED, ha="center", va="center", bbox=dict(boxstyle="square,pad=0.2", fc="white", ec="none"))
 ax.set_ylabel("Tax expenditure, % of GDP"); ax.set_xlabel("Fiscal year")
 ax.set_xticks(range(2015, 2029, 1)); ax.tick_params(axis="x", labelsize=7.5)
 ax.grid(axis="y", color="#ecebe6", lw=0.8); ax.set_axisbelow(True)
@@ -115,34 +115,49 @@ BL = pd.read_csv(ROOT / "data" / "interim" / "report_summary_tables.csv")
 BL = BL[(BL.table_kind == "budget_law") & (BL.line == "TOTAL") & (BL.series == "report_basis")].set_index(["report_id", "fiscal_year"]).value
 GD = ST[ST.table_kind == "pct_gdp"].set_index(["report_id", "fiscal_year"]).value
 rv = []
-nxt = {ORDER[i]: ORDER[i + 1] for i in range(len(ORDER) - 1)}
-for r in ORDER:
-    y = REAL[r] + 1                       # first projection year of report r
-    later = [q for q in ORDER if REAL[q] == y]
-    if not later:
+BA = pd.read_csv(ROOT / "data" / "interim" / "budget_law_annexes.csv")
+BA = BA[BA.line == "TOTAL"]
+for y in range(2016, 2025):
+    # first projection for year y: report whose realisation year is y-1 (none for y = 2019: the 2019 report is missing)
+    rs = [r for r in ORDER if REAL[r] == y - 1]
+    qs = [q for q in ORDER if REAL[q] == y]
+    if not qs:
         continue
-    q = later[0]
-    proj = AM.get((r, y), np.nan); realv = AM.get((q, y), np.nan)
+    q = qs[0]
+    r = rs[0] if rs else None
+    proj = AM.get((r, y), np.nan) if r else np.nan
     if r == "VHR2017":                    # no body table: use the annex sub-table totals
         a = rec[(rec.report_id == r) & (rec.body_line == "TOTAL") & (rec.fiscal_year == y)].annex_million
         proj = float(a.iloc[0]) if len(a) else np.nan
-    if q == "VHR2017":
-        realv = t2.loc["2017", "TE (million TL)"]
-    prev = [p for p in ORDER if REAL[p] == y - 2]
-    budget = BL.get((prev[0], y), np.nan) if prev else np.nan
-    rv.append({"Fiscal year": y, "Projection (report)": LAB[r], "Projection (million TL)": proj,
-               "Budget-law estimate (report)": LAB[prev[0]] if prev else "", "Budget-law estimate (million TL)": budget,
+    realv = t2.loc["2017", "TE (million TL)"] if q == "VHR2017" else AM.get((q, y), np.nan)
+    # budget-law estimate for year y: the budget law for year y. Source = the budget-law annex itself where it was
+    # retrieved (2019, 2020); otherwise the budget-law table reprinted in the report published before that budget law.
+    ba = BA[(BA.budget_law_year == y) & (BA.fiscal_year == y)]
+    if len(ba):
+        budget, bsrc = float(ba.value_try.iloc[0]) / 1e6, f"Budget law {y} annex"
+    else:
+        prev = [p for p in ORDER if REAL[p] == y - 2]
+        budget = BL.get((prev[0], y), np.nan) if prev else np.nan
+        bsrc = f"Report {LAB[prev[0]]}, budget-law table" if prev and budget == budget else ""
+    rv.append({"Fiscal year": y, "First projection (report)": LAB[r] if r else "missing (2019 report)",
+               "First projection (million TL)": proj,
+               "Budget-law estimate (source)": bsrc, "Budget-law estimate (million TL)": budget,
                "Realisation (report)": LAB[q], "Realisation (million TL)": realv,
                "Realisation vs projection (%)": 100 * (realv / proj - 1) if proj == proj else np.nan,
                "Realisation vs budget law (%)": 100 * (realv / budget - 1) if budget == budget else np.nan,
-               "Projection TE/GDP (%)": GD.get((r, y), np.nan), "Realisation TE/GDP (%)": GD.get((q, y), np.nan)})
+               "Projection TE/GDP (%)": GD.get((r, y), np.nan) if r else np.nan, "Realisation TE/GDP (%)": GD.get((q, y), np.nan)})
 t3 = pd.DataFrame(rv).set_index("Fiscal year")
 save(t3, "table3_forecast_revisions.csv")
 md("Table 3. Same-year comparison of projections, budget-law estimates and later realisation estimates", t3,
-   "Each row compares estimates for the same fiscal year published in different reports (same-year prices, so the "
-   "nominal comparison is meaningful). Budget-law estimates are the first-year figures of the budget-law table printed "
-   "in the report published two years before the realisation estimate. Differences reflect macro assumptions, legal "
-   "changes and data/method updates together; they are not a measure of policy effects.", floatfmt=".1f")
+   "Each row compares estimates for the same fiscal year published in different documents (same-year prices, so the "
+   "nominal comparison is meaningful). First projection = first projection year of the report whose realisation year is "
+   "the preceding year. Budget-law estimate = the estimate attached to that year's central government budget law: taken "
+   "from the budget-law annex for 2019 and 2020 (Official Gazette 30642 and 30995, Mükerrer) and otherwise from the "
+   "budget-law table reprinted in the reports. The 2019 budget-law figure is identical to the 2018 report's projection "
+   "(same vintage, one observation); the 2020 budget-law figure belongs to the vintage of the missing 2019 report. "
+   "'Realisation' is the later report's ex post revenue-forgone estimate, not an observed outcome. Differences reflect "
+   "macro assumptions, legal changes and data/method updates together; they are not a measure of policy effects.",
+   floatfmt=".1f")
 
 # item-level revisions (strong links only)
 rows = []
@@ -266,7 +281,8 @@ ax.set_yticks(range(len(CRIT))); ax.set_yticklabels([f"{c} {CNAME[c]}" for c in 
 for s in ax.spines.values():
     s.set_visible(False)
 cb = fig.colorbar(im, ax=ax, fraction=0.03, pad=0.02); cb.set_label("% of items coded 1 or 2", fontsize=7.5); cb.ax.tick_params(labelsize=7)
-ax.set_title("Cell: % coded ≥1  (in brackets: % coded 2, explicit item-level)", fontsize=8, color=MUTED, loc="left")
+ax.set_title("Items: % coded ≥1 (in brackets: % coded 2); section codes attributed to all mapped items = upper bound",
+             fontsize=7.5, color=MUTED, loc="left")
 fig.tight_layout(); fig.savefig(FG / "fig4_criteria_heatmap.png", dpi=300); plt.close(fig)
 
 # ---------------------------------------------------------------- Table 7: section-level codes (2016, 2025)
@@ -332,6 +348,94 @@ md("Table 10. Persistence of missing cost estimates across reports", t10,
 md("Table 10b. Items entering and leaving the annex lists between consecutive reports", t10b,
    "Counts by linked item id. Entries combine new provisions, newly listed existing provisions and linking failures; "
    "the 2017-2018 and 2018-2020 steps also reflect the missing 2019 report.", floatfmt=".0f")
+
+# ---------------------------------------------------------------- Table 11: sensitivity of section-to-item attribution
+# Upper bound (main analysis): every item mapped to a section inherits the section's code.
+# Lower bound: items in sections to which more than one annex item is mapped cannot be credited with an explicit (2)
+# code, because the explicit statement may concern only one sub-provision; their 2 is downgraded to 1.
+# Restricted: only items that are the sole item mapped to their section (one-to-one).
+R["n_items_in_section"] = R.groupby(["report_id", "sec_no"]).item_id.transform("size").where(R.sec_no.notna())
+rows = []
+for r in ["VHR2016", "VHR2018", "VHR2020", "VHR2025"]:
+    d = R[R.report_id == r]
+    for c in ["C1", "C2", "C5", "C9"]:
+        app = d[d[c] != "NA"]
+        lb = app[c].where(~((app.n_items_in_section > 1) & (app[c] == "2")), "1")
+        one = app[app.n_items_in_section == 1]
+        rows.append({"Report": LAB[r], "Criterion": c, "n items": len(app),
+                     "Coded 2, upper bound (%)": 100 * (app[c] == "2").mean(),
+                     "Coded 2, lower bound (%)": 100 * (lb == "2").mean(),
+                     "Coded ≥1 (%)": 100 * (app[c].isin(["1", "2"])).mean(),
+                     "One-to-one items (n)": len(one),
+                     "One-to-one items coded 2 (%)": 100 * (one[c] == "2").mean() if len(one) else np.nan})
+t11 = pd.DataFrame(rows).set_index(["Report", "Criterion"])
+save(t11, "table11_attribution_sensitivity.csv")
+# amount-weighted, latest report
+L2 = R[(R.report_id == "VHR2025") & (R.C3 == "2")].copy()
+L2["a"] = L2.amount_thousand_try.astype(float)
+w = []
+for c in ["C1", "C5"]:
+    up = L2[L2[c] == "2"].a.sum() / L2.a.sum()
+    lo = L2[(L2[c] == "2") & (L2.n_items_in_section == 1)].a.sum() / L2.a.sum()
+    w.append({"Criterion": c, "Upper bound: % of 2024 amount coded 2": 100 * up, "Lower bound: % of 2024 amount coded 2": 100 * lo})
+t11b = pd.DataFrame(w).set_index("Criterion")
+save(t11b, "table11b_attribution_sensitivity_amount_2025.csv")
+md("Table 11. Sensitivity of item-level codes to the section-to-item attribution", t11,
+   "Upper bound = every item inherits its section's code (main analysis). Lower bound = an explicit code (2) is credited "
+   "only to items that are the only annex item mapped to their section; items sharing a section are capped at 1. "
+   "Items without any narrative section are 0 in both bounds. One-to-one items = items that are the only item mapped to "
+   "their section.")
+md("Table 11b. Amount-weighted sensitivity, 2025 report (2024 realisation)", t11b,
+   "Shares of the summed 2024 realisation amounts of estimated items.")
+
+# ---------------------------------------------------------------- Table 12: comparisons within consistent subperiods
+# (a) by reporting regime; (b) items present, with strong links, in both end reports of each regime
+reg = {"2016-2018 (Ministry of Finance / MoTF)": ["VHR2016", "VHR2017", "VHR2018"],
+       "2020-2025 (Revenue Administration)": ["VHR2020", "VHR2021", "VHR2022", "VHR2023", "VHR2024", "VHR2025"]}
+rows = []
+for name, reps in reg.items():
+    a, b = reps[0], reps[-1]
+    A = R[R.report_id == a].set_index("item_id"); B = R[R.report_id == b].set_index("item_id")
+    # strong chain: the item is linked by legal reference + description at every step from report a to report b
+    steps = reps[1:]
+    strong = None
+    for rr in steps:
+        ids = set(R[(R.report_id == rr) & (R.link_method == "legal_ref+description")].item_id)
+        strong = ids if strong is None else strong & ids
+    common = [i for i in A.index.intersection(B.index) if i in strong]
+    for c in ["C1", "C3", "C5"]:
+        ca = A.loc[common, c]; cb = B.loc[common, c]
+        ok = (ca != "NA") & (cb != "NA")
+        rows.append({"Regime": name, "Reports": f"{LAB[a]} vs {LAB[b]}", "Criterion": c, "Common items (strong link, non-NA)": int(ok.sum()),
+                     f"Coded 2 in first report (%)": 100 * (ca[ok] == "2").mean(), f"Coded 2 in last report (%)": 100 * (cb[ok] == "2").mean(),
+                     "Items whose code changed": int((ca[ok] != cb[ok]).sum())})
+t12 = pd.DataFrame(rows).set_index(["Regime", "Criterion"])
+save(t12, "table12_within_regime_common_items.csv")
+md("Table 12. Changes within consistent reporting regimes, items present in both end reports", t12,
+   "Only items linked by legal reference and description at every step between the two reports are compared, so changes "
+   "are not driven by items entering or leaving the lists. The 2016-2018 chain passes through the 2017 report, which has "
+   "no narrative for most items; C1 and C5 still compare the 2016 and 2018 narratives of the same items.")
+
+# ---------------------------------------------------------------- Table 13: narrative coverage and generic purpose formula
+import re as _re
+GEN = _re.compile(r"(sosyal|ekonomik)(\s*(ve|,|ile)\s*(sosyal|ekonomik|kültürel))*\s*(amaç|amaçlı|amacı)", _re.I)
+CAND = [json.loads(l) for l in open(ROOT / "data" / "interim" / "coding_candidates.jsonl", encoding="utf-8")]
+rows = []
+for r in ORDER:
+    d = R[R.report_id == r]
+    e = d[d.C3 == "2"].copy(); e["a"] = e.amount_thousand_try.astype(float)
+    sec = [o for o in CAND if o["report_id"] == r]
+    ngen = sum(any(GEN.search(_re.sub(r"“[^”]*”", " ", x)) for x in o["sentences"]) for o in sec)
+    rows.append({"Report": LAB[r], "Items": len(d), "Items mapped to a narrative section": int(d.sec_no.notna().sum()),
+                 "Items without narrative: BSMV/MTV/ÖİV": int((d.narrative_note == "no_narrative_tax_not_covered").sum()),
+                 "Items without narrative: other": int((d.narrative_note == "no_narrative").sum()),
+                 "Estimated amount in items without narrative (%)": 100 * e[e.sec_no.isna()].a.sum() / e.a.sum(),
+                 "Narrative sections": len(sec), "Sections using the generic 'social and economic purpose' formula": ngen})
+t13 = pd.DataFrame(rows).set_index("Report")
+save(t13, "table13_narrative_coverage.csv")
+md("Table 13. Narrative coverage of annex items and use of the generic purpose formula", t13,
+   "Mapping by legal reference (scripts/09_item_codes.py). The generic formula is counted in the report's own narrative, "
+   "outside quoted statute text (pattern 'sosyal ve ekonomik amaç' and variants).", floatfmt=".1f")
 
 (TB / "tables.md").write_text("# Tables (generated by scripts/10_analysis.py)\n\n" + "\n".join(MD), encoding="utf-8")
 print("\n".join(MD)[:200000])

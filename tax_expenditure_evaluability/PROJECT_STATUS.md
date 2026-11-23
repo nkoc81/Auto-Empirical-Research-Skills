@@ -29,7 +29,7 @@ Notlar:
 - **2019 raporu bulunamadı.** HMB arşiv sayfası yalnızca 2007, 2016, 2017, 2018 raporlarını; GİB sayfası 2020–2025 raporlarını listeliyor. GİB dosya sunucusunda 2019 ve 2026 adları HTTP 400 döndürüyor. İkincil bir kaynakta 2019 raporundan söz edilmesi, resmî bir kopyaya ulaşılamadığı için kullanılmadı. Sonuç: **2018 gerçekleşme yılı serisi eksiktir.**
 - **En güncel rapor 2025 raporudur** (Şubat 2026). 2026 raporu henüz yayımlanmamış görünüyor (dosya adı sunucuda yok, listeleme sayfasında yok).
 - Kullanıcının verdiği `teknoloji.gib.gov.tr` adresi 404 döndürdü; aynı belge `cdn.gib.gov.tr` üzerinden alındı (envanterde kalıcı URL olarak bu adres kayıtlı).
-- **Bütçe kanunu ekleri** ayrı belge türü olarak envantere girildi ancak ayrıca indirilmedi. Raporlar bütçe kanununa eklenen vergi türü toplamlarını kendi tablolarında yeniden basıyor (2016 Tablo 4.4; 2017 Tablo 2; 2018 Tablo 2; 2020–2025 Tablo 1). Analizde bu rakamlar `budget_law` serisi olarak ayrı tutulacak; rapor tutarlarıyla toplanmayacak (çift sayım yok). 2025 raporundaki bütçe kanunu tutarları raporun kendi tahmin sütunlarıyla birebir aynıdır (2026: 3.597.140 milyon TL).
+- **Bütçe kanunu ekleri** ayrı belge türü olarak envantere girildi ancak ayrıca indirilmedi. Raporlar bütçe kanununa eklenen vergi türü toplamlarını kendi tablolarında yeniden basıyor (2016 Tablo 4.4; 2017 Tablo 2; 2018 Tablo 2; 2020–2025 Tablo 1). Analizde bu rakamlar `budget_law` serisi olarak ayrı tutulacak; rapor tutarlarıyla toplanmayacak (çift sayım yok). 2025 raporundaki bütçe kanunu tutarları raporun kendi tahmin sütunlarıyla birebir aynıdır (2026: 3.597.140 milyon TL). *[23 Kasım 2026 güncellemesi: 2019 ve 2020 bütçe kanunu ekleri Resmî Gazete'den indirildi; bkz. §10.]*
 - **Sanayi ve Teknoloji Bakanlığı** sitesi otomatik erişime “The requested URL was rejected” yanıtı veriyor; erişim kısıtı aşılmaya çalışılmadı. Bu kaynak elle indirilip `data/raw/sanayi/` klasörüne konursa eklenebilir. Ancak teşvik belgesi istatistikleri **öngörülen (planlanan)** yatırım ve istihdamı gösterir; ne vergi harcaması maliyeti ne de nedensel etki ölçüsüdür. Bu nedenle çalışmanın ana sorusu için zorunlu değildir; yalnızca “raporlarda çıktı/gösterge bilgisi yok, ama başka kurumlarda kısmi bilgi var” tespitini desteklemek için kullanılabilir.
 - **GTED, OECD, TÜİK:** Oranlar için raporların kendi resmî tabloları (GSYH’ye ve vergi gelirlerine oranlar) yeterli olduğundan ayrıca payda verisi gerekmiyor. GTED yalnızca uluslararası bağlam için (Türkiye’nin GTED’deki kaydı) isteğe bağlıdır.
 
@@ -121,12 +121,64 @@ Yukarıdaki fizibilite bölümleri analiz öncesinde yazıldı ve değiştirilme
 - Makale (İngilizce): `paper/manuscript.md` (özet 189 sözcük, toplam yaklaşık 5.700 sözcük); sınırlılıklar: `paper/limitations_and_data_gaps.md`.
 
 **Başlıca bulgular (yalnızca raporlardaki bilgiye ilişkin)**
-- Kalem düzeyinde maliyet tahmini olan kalemlerin payı (uygulanabilir kalemler içinde) %75,5'ten (2016) %88,1'e (2025) yükseldi. Üç ya da daha fazla raporda görünen 284 kalemden 25'i hiçbir raporda tahmin edilmemiş.
+- *[§10'da düzeltildi: iki raporlama dönemi ayrı verilmeli.]* Kalem düzeyinde maliyet tahmini olan kalemlerin payı (uygulanabilir kalemler içinde) %75,5'ten (2016) %88,1'e (2025) yükseldi. Üç ya da daha fazla raporda görünen 284 kalemden 25'i hiçbir raporda tahmin edilmemiş.
 - Tahmin kalitesi etiketleri tanımsız. "Çok iyi" etiketli kalemlerin tutar payı %58–62'den (2016–2020) %14'e (2025) düştü; 2025'te tutarın %42,5'i "yaklaşık" etiketli.
-- Aynı yıl için sonraki raporun gerçekleşme tahmini, ilk tahminden her karşılaştırmada %5,7–35,7, bütçe kanunu tahmininden ise %24,5–162,1 yüksek.
+- Aynı yıl için sonraki raporun gerçekleşme tahmini, ilk tahminden her karşılaştırmada %5,7–35,7, bütçe kanunu tahmininden ise %24,5–162,1 yüksek. *[§10'da düzeltildi: 2019 ve 2020 eklenince aralık −%0,6 ile +%162,1.]*
 - Amaç: 2025'te bölümlerin %51'inde kaleme özgü, %23'ünde genel bir amaç ifadesi var. Beklenen çıktı hiçbir bölümde ölçülebilir biçimde tanımlanmamış. Yararlanıcı sayısı, gösterge verisi, ek katkı (karşı-olgusal) analizi, maliyet-etkinlik değerlendirmesi ve gözden geçirme sonucu hiçbir raporda yok. Hükümlerin yaklaşık yarısında yalnızca yasal süre sınırı görülüyor.
 
 **Açık kalanlar**
-- 2019 raporu bulunamadı. Bütçe kanunu ekleri ayrıca indirilmedi. Sanayi ve Teknoloji Bakanlığı verilerine erişilemedi.
+- 2019 raporu bulunamadı. *[§10: 2019 ve 2020 bütçe kanunu ekleri bulundu.]* Sanayi ve Teknoloji Bakanlığı verilerine erişilemedi.
 - Bağımsız ikinci kodlayıcı yok. Dergiye göndermeden önce bağımsız bir kodlayıcıyla örneklem üzerinde güvenilirlik denetimi önerilir.
 - Bazı Türkçe kaynaklar yalnızca özetten değerlendirildi. Gönderim öncesinde tam metinleri okunmalı.
+
+
+---
+
+## 10. Denetim (23 Kasım 2026)
+
+### 10.1 2019 araması (erişim tarihi: 22–23 Kasım 2026)
+
+| Aranan | Kaynak / bağlantı | Sonuç |
+|---|---|---|
+| 2019 Vergi Harcamaları Raporu | HMB arşivi https://www.hmb.gov.tr/gelir-duzenlemeleri-genel-mudurlugu-vergi-harcama-raporlari | Yalnızca 2007, 2016, 2017, 2018 raporları listeleniyor |
+| | GİB rapor sayfası https://gib.gov.tr/kurumsal/planlar-ve-raporlar/vergi-harcamalari-raporlari | Yalnızca 2020–2025 |
+| | GİB dosya sunucusu `.../objectKey=arsiv/kurumsal/Vergi_Harcamalari_Raporu_2019.pdf` | HTTP 400 |
+| | Eski GİB yolu https://gib.gov.tr/sites/default/files/fileadmin/2019_Ver_har_rapor.pdf | HTTP 404 |
+| 2019 bütçe kanunu eki | Resmî Gazete 31.12.2018, sayı 30642 (Mükerrer): 7156 sayılı 2019 Yılı Merkezi Yönetim Bütçe Kanunu, https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-1.htm; cetvel dosyası https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-B221.pdf | **Bulundu.** PDF s. 13–44: "Vergi Harcamaları Listesi – Vergi harcamalarının kanuni dayanaklarına ilişkin liste" (tutarsız). PDF s. 45 (RG s. 1973): "Vergi Türleri İtibarıyla Toplam Vergi Harcaması Tahminleri (TL)", 2019–2021 |
+| 2020 bütçe kanunu eki (kayıp 2019 raporu vintajı) | Resmî Gazete 31.12.2019, sayı 30995 (Mükerrer): 7197 sayılı Kanun, https://www.resmigazete.gov.tr/eskiler/2019/12/20191231-B226.pdf | **Bulundu.** PDF s. 44 (RG s. 1973), 2020–2022 toplamları |
+| SBB | https://www.sbb.gov.tr/wp-content/uploads/2019/01/1-2019ButceKanunu.doc | Yalnız kanun metni; vergi harcaması tablosu yok |
+
+Arama terimleri: "2019 Vergi Harcamaları Raporu", "7156 sayılı 2019 Yılı Merkezi Yönetim Bütçe Kanunu", "vergi harcamaları cetveli", "Vergi Türleri İtibarıyla Toplam Vergi Harcaması Tahminleri", "Bütçe Gerekçesi 2019 vergi harcaması". Arama motoru sonuçları yalnızca adres bulmak için kullanıldı; tüm değerler Resmî Gazete PDF'lerinden okundu.
+
+**2019 bütçe eki ve 2018 raporu.** Ek taranmış görüntü olduğundan değerler OCR (Tesseract, Türkçe) ve 200 dpi görüntünün gözle okunmasıyla aktarıldı (`data/interim/budget_law_annexes.csv`). 2019 için toplam 178.695.912.831 TL (GV 68.267.364.779; KV 28.030.970.717; KDV 49.796.734.881; ÖTV 24.903.208.169; Diğer Kanunlar 7.697.634.285). Satır toplamları basılı toplamla 0–1 TL farkla uyuşuyor. 2018 raporu da 2019 tahminini içeriyor: Tablo 2 (bütçe kanununa eklenen tahminler, PDF s. 296) ve Tablo 3 (PDF s. 298), toplam 178.696 milyon TL; ekteki kalem tutarlarının 2019 sütun toplamı 178.695,9 milyon TL. **Üç yılın (2019–2021) tüm satırları 2018 raporuyla aynıdır**: aynı vintajın iki belgede yayımlanmasıdır ve tek gözlem sayılmıştır (`outputs/tables/budget_law_annex_comparison.csv`). Bu rakam bir **tahmindir**: ne 2019 gerçekleşmesidir ne de bağımsız bir bütçe tahmini. 2019 için raporlardaki gerçekleşme tahmini 2020 raporundadır (177.601 milyon TL).
+
+**2020 bütçe eki.** 2020: 195.590.812.732 TL; 2021: 222.661.650.447 TL; 2022: 251.397.082.494 TL. Bu değerler hiçbir mevcut raporda yok; kayıp 2019 raporunun vintajının yayımlanmış tek izi. Ek yalnızca vergi türü toplamları verdiği için kalem panel şemasına uymuyor; panele eklenmedi, ayrı seri olarak tutuluyor.
+
+**Analize etkisi.** Tablo 3'e 2019 satırı ve 2020 bütçe kanunu tahmini eklendi. Gerçekleşme tahmini bütçe kanunu tahmininin 2019'da %0,6 altında, 2020'de %21,4 üstünde (2021–2024: %24,5–162,1 üstünde). Önceki metindeki "gerçekleşme her yıl bütçe tahminini aşıyor" ifadesi düzeltildi.
+
+### 10.2 Yeniden üretilebilirlik
+
+- Depo geçici bir klasöre kopyalandı, türetilmiş tüm dosyalar silindi ve `run_all.sh` sıfırdan çalıştırıldı. **Hata bulundu:** 2018 glif eşlemesi diğer raporların ek satırlarından öğreniliyor, ama iş akışı bu adımı onlardan önce çalıştırıyordu; temiz çalıştırmada 2018 eki boş çıkıyordu. Sıra düzeltildi. Düzeltmeden sonra temiz çalıştırma panel, kodlar, tablolar ve kaynakçayı bayt düzeyinde aynen üretti.
+- Yeni betikler: `scripts/03b_budget_law_annexes.py` (bütçe eki kontrolleri), `scripts/12_number_trace.py`. İkincisi metindeki 70 sayıyı tablo hücrelerinden yeniden hesaplıyor; 70/70 PASS (`outputs/tables/manuscript_number_trace.csv`).
+- Sayıların kaynağı: 2.112 = `data/interim/items_by_report.csv` satırı (her raporun her Ek I satırı; 2016'da 5 elle aktarılmış satır dahil); 10.560 = `data/tax_expenditure_panel.csv` satırı (satır başına 5 yıl); 683 = `data/coding/section_codes.csv` satırı (2016: 74, 2017: 22, 2018: 76, 2020–2025: 82–87).
+
+### 10.3 Yöntem ve çıkarım düzeltmeleri
+
+- **Bölüm→kalem aktarımı:** Alt ve üst sınır eklendi (Tablo 11, 11b). 2025'te açık amaçlı kalem payı %48,1 (üst) ile %10,0 (alt) arasında; tutar ağırlıklı %64,8 ile %6,2 arasında. Bölüm düzeyi kodlar ayrıca raporlanıyor (Tablo 7).
+- **Zaman karşılaştırması:** İki raporlama dönemi (2016–2018; 2020–2025) ayrıldı. Güçlü bağlı ortak kalemlerde maliyet tahmini payı 2020'de %82,1, 2025'te %87,2; açık amaç payı her iki dönemde de yaklaşık sabit (Tablo 12). "İyileşme" ifadesi yalnızca bu ölçülere bağlandı.
+- **"Gerçekleşme":** Raporun kendi tanımıyla (VHR2025 PDF s. 14, 23, 303) aynı yılın verileriyle yapılan statik vazgeçilen gelir tahmini olarak açıklandı.
+- **Raporda yok ≠ devlette yok:** Sonuç ve tartışma "the published reporting does not provide / does not allow us to assess" diline çekildi; başka kaynakların incelenmediği açıkça belirtildi.
+- **Tek kodlayıcı:** Açıkça belirtildi; uyuşma istatistiği yok.
+- **IMF:** Not kurumsal rehber olarak tanıtıldı (BibTeX @techreport, How To Note 22/05). Dokuz ölçüt yazarın operasyonelleştirmesi olarak sunuldu ve IMF unsurları sayfa numaralarıyla Tablo A1'de eşleştirildi.
+- **Politika önerileri:** Doğrulanmamış bir veri kaynağını varsayan ifade ("beyannamelerden kolayca") kaldırıldı; yararlanıcı sayıları için önce kaynakların incelenmesi önerildi.
+- **Alıntılar:** Tüm doğrudan alıntılar özgün PDF'lerle karşılaştırıldı. Türkçe kaynaklardan yapılanlar özgün Türkçe metin ve çeviri olarak verildi.
+- **Kaynakça:** 26 kayıt, hepsi metinde kullanılıyor; kullanılmayan oecd2026 çıkarıldı. Yoruldu (2021) kaydındaki CrossRef "volume 0" hatası kaldırıldı. Tam metni okunmayan kaynaklar yalnızca genel tezleri veya özetleri düzeyinde kullanılıyor.
+- **Özet:** 197 sözcük. Metin (kaynakçaya kadar): 6.756 sözcük.
+
+### 10.4 Açık kalanlar
+
+- 2018 gerçekleşme yılı ve kayıp 2019 raporunun kalem düzeyi verisi hâlâ yok.
+- 2021–2024 bütçe kanunu ekleri ayrıca indirilmedi (değerler raporların yeniden bastığı tablolardan alınıyor). Gönderim öncesinde Resmî Gazete'den aynı yöntemle doğrulanabilir.
+- Bağımsız ikinci kodlayıcı yok. Gönderim öncesinde bir örneklem üzerinde bağımsız kodlama ve uyuşma ölçümü önerilir.
+- Uluslararası kaynakların tam metinleri ve Türkçe makalelerin tam metinleri okunmalı.
+- Sanayi ve Teknoloji Bakanlığı verileri ile Sayıştay raporları incelenmedi.

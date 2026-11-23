@@ -17,7 +17,7 @@ DOIS = {
  "heald2003": "10.1111/j.0033-3298.2003.00369.x", "redonda2019": "10.5018/economics-ejournal.ja.2019-12",
  "haldenwang2021": "10.4337/9781788979429.00018", "barsimantov2018": "10.1093/ajcl/avy011",
  "dziemianowicz2017": "10.17951/h.2017.51.5.79", "vanparys2010": "10.1007/s10797-010-9140-1",
- "oecd2026": "10.1787/545f8b43-en", "ericok2019": "10.26650/istjecon2019-0012", "yoruldu2021": "10.26650/mcd2021-887798",
+ "ericok2019": "10.26650/istjecon2019-0012", "yoruldu2021": "10.26650/mcd2021-887798",
  "doganalp2020": "10.31590/ejosat.679111", "isikman2024": "10.70101/ussmad.1538832",}
 TYPE = {"journal-article": "article", "book": "book", "monograph": "book", "edited-book": "book", "book-chapter": "incollection", "report": "techreport"}
 
@@ -46,7 +46,7 @@ def bib(key, m):
          "publisher": m.get("publisher")}
     ct = (m.get("container-title") or [None])[0]
     if t == "article":
-        f.update(journal=ct, volume=m.get("volume"), number=m.get("issue"), pages=m.get("page"))
+        f.update(journal=ct, volume=m.get("volume") if m.get("volume") not in ("0", 0) else None, number=m.get("issue"), pages=m.get("page"))
     elif t == "incollection":
         f.update(booktitle=ct, pages=m.get("page"))
     elif t == "techreport":
@@ -55,6 +55,13 @@ def bib(key, m):
         f["author"] = "{OECD}"
     if key == "brixi2003" and not au:
         f["editor"] = ed
+    if key == "beer2022":
+        # CrossRef files the IMF How-To Note series as a journal; it is institutional guidance, not a journal article.
+        # Series and number as printed on the cover of the PDF ('HOW TO NOTES', 'NOTE 22/05', November 2022).
+        t = "techreport"
+        f = {"author": au, "title": f["title"], "institution": "International Monetary Fund, Fiscal Affairs Department",
+             "type": "How To Note", "number": "22/05", "address": "Washington, DC", "year": yr, "month": "November",
+             "doi": m.get("DOI")}
     body = ",\n".join(f"  {k} = {{{v}}}" for k, v in f.items() if v)
     return f"@{t}{{{key},\n{body}\n}}\n"
 

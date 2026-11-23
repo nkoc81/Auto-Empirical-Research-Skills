@@ -1,0 +1,71 @@
+printed,source,locator,recomputed,status
+"2,112",data/interim/items_by_report.csv,number of rows,"2,112",PASS
+"10,560",data/tax_expenditure_panel.csv,number of rows,"10,560",PASS
+683,data/coding/section_codes.csv,number of rows,683,PASS
+338,data/interim/items_by_report.csv,distinct item_id,338,PASS
+395,reconciliation_rows_vs_subtable_totals.csv,status == ok_within_5,395,PASS
+402,reconciliation_rows_vs_subtable_totals.csv,rows with a printed total,402,PASS
+6.17,table2_official_aggregates.csv,"2025, TE/GDP (%)",6.17,PASS
+37.68,table2_official_aggregates.csv,"2025, TE/tax revenue (%)",37.68,PASS
+4.70,table2_official_aggregates.csv,"2021 report (2020), TE/GDP",4.70,PASS
+5.85,table2_official_aggregates.csv,"2022 report (2021), TE/GDP",5.85,PASS
+6.52,table2_official_aggregates.csv,"2024 report (2023), TE/GDP",6.52,PASS
+19.51,table2_official_aggregates.csv,"2016 report (2015), TE/tax revenue",19.51,PASS
+36.40–38.40,table2_official_aggregates.csv,min-max TE/tax revenue 2021-2024,36.40–38.40,PASS
+4.08% of GDP for 2015,data/interim/report_summary_tables.csv,VHR2016 Tablo 4.11 TOTAL 2015,4.08% of GDP for 2015,PASS
+5.7% to 35.7%,table3_forecast_revisions.csv,"Realisation vs projection (%), min-max",5.7% to 35.7%,PASS
+0.6%,table3_forecast_revisions.csv,"2019, Realisation vs budget law (%) (negative)",0.6%,PASS
+21.4%,table3_forecast_revisions.csv,"2020, Realisation vs budget law (%)",21.4%,PASS
+24.5% to 162.1%,table3_forecast_revisions.csv,"2021-2024, Realisation vs budget law (%)",24.5% to 162.1%,PASS
+10–24%,table3b_item_revisions.csv,"Share within ±10%, min-max",10–24%,PASS
+30–46%,table3b_item_revisions.csv,"Share off by >50%, min-max",30–46%,PASS
+79.5%,table4_cost_information.csv,"2020, Estimated % of applicable",79.5%,PASS
+88.1%,table4_cost_information.csv,"2025, Estimated % of applicable",88.1%,PASS
+72.1–75.5%,table4_cost_information.csv,"2016-2018, Estimated % of applicable",72.1–75.5%,PASS
+79–88%,table4_cost_information.csv,"2020-2025, Estimated % of applicable (abstract, rounded)",79–88%,PASS
+22–35,table4_cost_information.csv,"data not available, min-max",22–35,PASS
+10–16,table4_cost_information.csv,"new measure 2016-2018, min-max",10–16,PASS
+284,table10_missing_persistence.csv,Items appearing in ≥3 reports,284,PASS
+25 are never estimated,table10_missing_persistence.csv,never estimated,25 are never estimated,PASS
+85 lack,table10_missing_persistence.csv,C3=0 in at least one report,85 lack,PASS
+57.8–61.5%,table5_estimate_quality.csv,"Very good % of amount, 2016-2020",57.8–61.5%,PASS
+14.2%,table5_estimate_quality.csv,"2025, Very good % of amount",14.2%,PASS
+42.5%,table5_estimate_quality.csv,"2025, Approximate % of amount",42.5%,PASS
+98% and 100%,table6_criteria_items_long.csv,"C4 coded 1, min-max across reports",98% and 100%,PASS
+23.5%,table9_top10_2025.csv,"row 1, Share of estimated total (%)",23.5%,PASS
+62.8%,table9_top10_2025.csv,sum of Share of estimated total (%),62.8%,PASS
+51%,table7_criteria_sections.csv,"2025, C1, '2'",51%,PASS
+23%,table7_criteria_sections.csv,"2025, C1, '1'",23%,PASS
+27%,table7_criteria_sections.csv,"2025, C1, '0'",27%,PASS
+26 of the 84,table13_narrative_coverage.csv,"2025, generic formula / sections",26 of the 84,PASS
+25 of the 74,table13_narrative_coverage.csv,"2016, generic formula / sections",25 of the 74,PASS
+96–97%,table7_criteria_sections.csv,C2 '2' 2016/2018/2025,96–97%,PASS
+48.1%,table11_attribution_sensitivity.csv,2025 C1 upper bound,48.1%,PASS
+10.0%,table11_attribution_sensitivity.csv,2025 C1 lower bound,10.0%,PASS
+51 one-to-one,table11_attribution_sensitivity.csv,2025 C1 one-to-one n,51 one-to-one,PASS
+45.1%,table11_attribution_sensitivity.csv,2025 C1 one-to-one coded 2,45.1%,PASS
+64.8%,table11b_attribution_sensitivity_amount_2025.csv,C1 upper,64.8%,PASS
+6.2%,table11b_attribution_sensitivity_amount_2025.csv,C1 lower,6.2%,PASS
+82.1%,table12_within_regime_common_items.csv,"2020-2025, C3, first",82.1%,PASS
+87.2%,table12_within_regime_common_items.csv,"2020-2025, C3, last",87.2%,PASS
+44.3%,table12_within_regime_common_items.csv,"2016-2018, C1, first",44.3%,PASS
+41.9%,table12_within_regime_common_items.csv,"2016-2018, C1, last",41.9%,PASS
+50.6%,table12_within_regime_common_items.csv,"2020-2025, C1, first",50.6%,PASS
+48.9%,table12_within_regime_common_items.csv,"2020-2025, C1, last",48.9%,PASS
+37%,table7_criteria_sections.csv,"2025, C5, '1'",37%,PASS
+43–48%,table7_criteria_sections.csv,C5 '1' 2016/2018,43–48%,PASS
+49–54%,table7_criteria_sections.csv,C9 '1' 2016/2018/2025,49–54%,PASS
+41%,table7_criteria_sections.csv,"2025, M, '1'",41%,PASS
+9.1%,table13_narrative_coverage.csv,"2025, estimated amount without narrative (%)",9.1%,PASS
+74–84%,table1_documents.csv,"Items linked to a narrative, 2020-2025",74–84%,PASS
+24–25 items,table13_narrative_coverage.csv,BSMV/MTV/ÖİV without narrative 2020-2025,24–25 items,PASS
+12–40 items,table13_narrative_coverage.csv,other without narrative 2020-2025,12–40 items,PASS
+62.8%,table9_top10_2025.csv,ten largest (repeat in Section 7),62.8%,PASS
+"178,696",data/interim/report_summary_tables.csv,VHR2018 Tablo 2/3 TOTAL 2019 (million TL),"178,696",PASS
+"195,591",data/interim/budget_law_annexes.csv,BL2020 TOTAL 2020 (TL / 1e6),"195,591",PASS
+1.34% of GDP for 2015,data/interim/report_summary_tables.csv,VHR2016 Tablo 4.5 TOTAL 2015 (old series),1.34% of GDP for 2015,PASS
+231 provisions,data/interim/uncosted_listed_items_VHR2016.csv,sum of n_items_listed excl. MTV,231 provisions,PASS
+5.1% of GDP for 2025,data/interim/report_summary_tables.csv,VHR2025 Tablo 3 TOTAL 2025 (rounded as in report text),5.1% of GDP for 2025,PASS
+"74 sections in 2016, 22 in 2017, 76 in 2018 and 82–87",data/coding/section_codes.csv,sections per report,"74 sections in 2016, 22 in 2017, 76 in 2018 and 82–87",PASS
+28%,data/coding/item_codes.csv,2025: share of sections with >1 mapped item,28%,PASS
+25 items,data/coding/item_codes.csv,2025: max items mapped to one section (2.3.4 KDV Art. 17),25 items,PASS
