@@ -1,0 +1,579 @@
+[
+ {
+  "title": "Do Investors Care about Carbon Risk?",
+  "year": 2019,
+  "doi": "10.1016/j.jfineco.2021.05.008",
+  "venue": "Journal of Financial Economics",
+  "cited": 4199,
+  "authors": [
+   "Patrick Bolton",
+   "Marcin T. Kacperczyk"
+  ],
+  "abstract": "This paper explores whether carbon emissions affect the cross-section of U.S. stock returns.We find that stocks of firms with higher total CO2 emissions (and changes in emissions) earn higher returns, after controlling for size, book-to-market, momentum, and other factors that predict returns.We cannot explain this carbon premium through differences in unexpected profitability or other known risk factors.We also find that institutional investors implement exclusionary screening based on direct emission intensity in a few salient industries.Overall, our results are consistent with an interpretation that investors are already demanding compensation for their exposure to carbon emission risk."
+ },
+ {
+  "title": "Adoption of CSR and Sustainability Reporting Standards: Economic Analysis and Review",
+  "year": 2019,
+  "doi": "10.1007/s11142-021-09609-5",
+  "venue": "Review of Accounting Studies",
+  "cited": 2752,
+  "authors": [
+   "Hans Bonde Christensen",
+   "Luzi Hail",
+   "Christian Leuz"
+  ],
+  "abstract": "This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research."
+ },
+ {
+  "title": "Tackling Climate Change with Machine Learning",
+  "year": 2022,
+  "doi": "10.1145/3485128",
+  "venue": "ACM Computing Surveys",
+  "cited": 2360,
+  "authors": [
+   "David Rolnick",
+   "Priya L. Donti",
+   "Lynn H. Kaack",
+   "Kelly Kochanski",
+   "Alexandre Lacoste",
+   "Kris Sankaran"
+  ],
+  "abstract": "Climate change is one of the greatest challenges facing humanity, and we, as machine learning (ML) experts, may wonder how we can help. Here we describe how ML can be a powerful tool in reducing greenhouse gas emissions and helping society adapt to a changing climate. From smart grids to disaster management, we identify high impact problems where existing gaps can be filled by ML, in collaboration with other fields. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the ML community to join the global effort against climate change."
+ },
+ {
+  "title": "Evaluating scenarios toward zero plastic pollution",
+  "year": 2020,
+  "doi": "10.1126/science.aba9475",
+  "venue": "Science",
+  "cited": 2031,
+  "authors": [
+   "Winnie W. Y. Lau",
+   "Yonathan Shiran",
+   "Richard M. Bailey",
+   "Ed Cook",
+   "Martin Stuchtey",
+   "Julia Koskella"
+  ],
+  "abstract": "Plastic pollution is a pervasive and growing problem. To estimate the effectiveness of interventions to reduce plastic pollution, we modeled stocks and flows of municipal solid waste and four sources of microplastics through the global plastic system for five scenarios between 2016 and 2040. Implementing all feasible interventions reduced plastic pollution by 40% from 2016 rates and 78% relative to \"business as usual\" in 2040. Even with immediate and concerted action, 710 million metric tons of plastic waste cumulatively entered aquatic and terrestrial ecosystems. To avoid a massive build-up of plastic in the environment, coordinated global action is urgently needed to reduce plastic consumption; increase rates of reuse, waste collection, and recycling; expand safe disposal systems; and accelerate innovation in the plastic value chain."
+ },
+ {
+  "title": "Microgrids: A review of technologies, key drivers, and outstanding issues",
+  "year": 2018,
+  "doi": "10.1016/j.rser.2018.03.040",
+  "venue": "Renewable and Sustainable Energy Reviews",
+  "cited": 1811,
+  "authors": [
+   "Adam I. Hirsch",
+   "Yael Parag",
+   "Josep Maria Guerrero"
+  ],
+  "abstract": "Microgrids are now emerging from lab benches and pilot demonstration sites into commercial markets, driven by technological improvements, falling costs, a proven track record, and growing recognition of their benefits. They are being used to improve reliability and resilience of electrical grids, to manage the addition of distributed clean energy resources like wind and solar photovoltaic (PV) generation to reduce fossil fuel emissions, and to provide electricity in areas not served by centralized electrical infrastructure. This review article (1) explains what a microgrid is, and (2) provides a multi-disciplinary portrait of today's microgrid drivers, real-world applications, challenges, and future prospects."
+ },
+ {
+  "title": "A literature review of the history and evolution of corporate social responsibility",
+  "year": 2019,
+  "doi": "10.1186/s40991-018-0039-y",
+  "venue": "International Journal of Corporate Social Responsibility",
+  "cited": 1545,
+  "authors": [
+   "Mauricio Latapí",
+   "Lára Jóhannsdóttir",
+   "Brynhildur Davíðsdóttir"
+  ],
+  "abstract": "There is a long and varied history associated with the evolution of the concept of Corporate Social Responsibility (CSR). However, a historical review is missing in the academic literature that portrays the evolution of the academic understanding of the concept alongside with the public and international events that influenced the social expectations with regards to corporate behavior. The aim of this paper is to provide a distinctive historical perspective on the evolution of CSR as a conceptual paradigm by reviewing the most relevant factors that have shaped its understanding and definition, such as academic contributions, international policies and significant social and political events. To do so, the method used is a comprehensive literature review that explores the most relevant academic contributions and public events that have influenced the evolutionary process of CSR and how they have done so. The findings show that the understanding of corporate responsibility has evolved from being limited to the generation of profit to include a broader set of responsibilities to the latest belief that the main responsibility of companies should be the generation of shared value. The findings also indicate that as social expectations of corporate behavior changed, so did the concept of Corporate Social Responsibility. The findings suggest that CSR continues to be relevant within the academic literature and can be expected to remain part of the business vocabulary at least in the short term and as a result, the authors present a plausible future for CSR that takes into consideration its historical evolution. Finally, this paper gives way for future academic research to explore how CSR can help address the latest social expectations of generating shared value as a main business objective, which in turn may have practical implications if CSR is implemented with this in mind."
+ },
+ {
+  "title": "Bending the Curve of Global Freshwater Biodiversity Loss: An Emergency Recovery Plan",
+  "year": 2020,
+  "doi": "10.1093/biosci/biaa002",
+  "venue": "BioScience",
+  "cited": 1478,
+  "authors": [
+   "David Tickner",
+   "Jeffrey J. Opperman",
+   "Robin Abell",
+   "Mike Acreman",
+   "Angela H. Arthington",
+   "Stuart Edward Bunn"
+  ],
+  "abstract": "Despite their limited spatial extent, freshwater ecosystems host remarkable biodiversity, including one-third of all vertebrate species. This biodiversity is declining dramatically: Globally, wetlands are vanishing three times faster than forests, and freshwater vertebrate populations have fallen more than twice as steeply as terrestrial or marine populations. Threats to freshwater biodiversity are well documented but coordinated action to reverse the decline is lacking. We present an Emergency Recovery Plan to bend the curve of freshwater biodiversity loss. Priority actions include accelerating implementation of environmental flows; improving water quality; protecting and restoring critical habitats; managing the exploitation of freshwater ecosystem resources, especially species and riverine aggregates; preventing and controlling nonnative species invasions; and safeguarding and restoring river connectivity. We recommend adjustments to targets and indicators for the Convention on Biological Diversity and the Sustainable Development Goals and roles for national and international state and nonstate actors."
+ },
+ {
+  "title": "Critiques of the circular economy",
+  "year": 2021,
+  "doi": "10.1111/jiec.13187",
+  "venue": "Journal of Industrial Ecology",
+  "cited": 1430,
+  "authors": [
+   "Hervé Corvellec",
+   "Alison F. Stowell",
+   "Nils Johansson"
+  ],
+  "abstract": "This paper presents a reasoned account of the critiques addressed to the circular economy and circular business models. These critiques claim that the circular economy has diffused limits, unclear theoretical grounds, and that its implementation faces structural obstacles. Circular economy is based on an ideological agenda dominated by technical and economic accounts, which brings uncertain contributions to sustainability and depoliticizes sustainable growth. Bringing together these critiques demonstrates that the circular economy is far from being as promising as its advocates claim it to be. Circularity emerges instead as a theoretically, practically, and ideologically questionable notion. The paper concludes by proposing critical issues that need to be addressed if the circular economy and its business models are to open routes for more sustainable economic development."
+ },
+ {
+  "title": "Hydrogen as an energy vector",
+  "year": 2019,
+  "doi": "10.1016/j.rser.2019.109620",
+  "venue": "Renewable and Sustainable Energy Reviews",
+  "cited": 1355,
+  "authors": [
+   "Zainul Abdin",
+   "Ali Zafaranloo",
+   "Ahmad Rafiee",
+   "Walter Mérida",
+   "Wojciech Lipiński",
+   "Kaveh Rajab Khalilpour"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Cost, environmental impact, and resilience of renewable energy under a changing climate: a review",
+  "year": 2022,
+  "doi": "10.1007/s10311-022-01532-8",
+  "venue": "Environmental Chemistry Letters",
+  "cited": 1331,
+  "authors": [
+   "Ahmed Ibrahim Osman",
+   "Lin Chen",
+   "Mingyu Yang",
+   "Goodluck Msigwa",
+   "Mohamed R. F. Farghali",
+   "Samer Fawzy"
+  ],
+  "abstract": "Energy derived from fossil fuels contributes significantly to global climate change, accounting for more than 75% of global greenhouse gas emissions and approximately 90% of all carbon dioxide emissions. Alternative energy from renewable sources must be utilized to decarbonize the energy sector. However, the adverse effects of climate change, such as increasing temperatures, extreme winds, rising sea levels, and decreased precipitation, may impact renewable energies. Here we review renewable energies with a focus on costs, the impact of climate on renewable energies, the impact of renewable energies on the environment, economy, and on decarbonization in different countries. We focus on solar, wind, biomass, hydropower, and geothermal energy. We observe that the price of solar photovoltaic energy has declined from $0.417 in 2010 to $0.048/kilowatt-hour in 2021. Similarly, prices have declined by 68% for onshore wind, 60% for offshore wind, 68% for concentrated solar power, and 14% for biomass energy. Wind energy and hydropower production could decrease by as much as 40% in some regions due to climate change, whereas solar energy appears the least impacted energy source. Climate change can also modify biomass productivity, growth, chemical composition, and soil microbial communities. Hydroelectric power plants are the most damaging to the environment; and solar photovoltaics must be carefully installed to reduce their impact. Wind turbines and biomass power plants have a minimal environmental impact; therefore, they should be implemented extensively. Renewable energy sources could decarbonize 90% of the electricity industry by 2050, drastically reducing carbon emissions, and contributing to climate change mitigation. By establishing the zero carbon emission decarbonization concept, the future of renewable energy is promising, with the potential to replace fossil fuel-derived energy and limit global temperature rise to 1.5 °C by 2050."
+ },
+ {
+  "title": "Sustainalism: An Integrated Socio-Economic-Environmental Model to Address Sustainable Development and Sustainability",
+  "year": 2023,
+  "doi": "10.3390/su151310682",
+  "venue": "Sustainability",
+  "cited": 1311,
+  "authors": [
+   "N. P. Hariram",
+   "K B Mekha",
+   "Vipinraj Suganthan",
+   "Kumarasamy Sudhakar"
+  ],
+  "abstract": "This paper delves into the multifaceted concept of sustainability, covering its evolution, laws, principles, as well as the different domains and challenges related to achieving it in the modern world. Although capitalism, socialism, and communism have been utilized throughout history, their strengths and drawbacks have failed to address sustainable development comprehensively. Therefore, a holistic approach is necessary, which forms the basis for a new development model called sustainalism. This study proposes a new socio-economic theory of sustainalism that prioritizes quality of life, social equity, culture, world peace, social justice, and well-being. This paper outlines the six principles of sustainalism and identifies sustainalists as individuals who embrace these new concepts. This study also explores how to attain sustainalism in the modern world through a sustainable revolution, representing a step toward a sustainable era. In conclusion, this paper summarizes the key points and emphasizes the need for a new approach to sustainalism in the broader sense. The insights provided are valuable for further research on sustainalism and sustainability."
+ },
+ {
+  "title": "Adaptation interventions and their effect on vulnerability in developing countries: Help, hindrance or irrelevance?",
+  "year": 2021,
+  "doi": "10.1016/j.worlddev.2020.105383",
+  "venue": "World Development",
+  "cited": 1223,
+  "authors": [
+   "Siri Eriksen",
+   "E. Lisa F. Schipper",
+   "Morgan Scoville-Simonds",
+   "Katharine Vincent",
+   "Hans Nicolai Adam",
+   "Nick Brooks"
+  ],
+  "abstract": "This paper critically reviews the outcomes of internationally-funded interventions aimed at climate change adaptation and vulnerability reduction. It highlights how some interventions inadvertently reinforce, redistribute or create new sources of vulnerability. Four mechanisms drive these maladaptive outcomes: (i) shallow understanding of the vulnerability context; (ii) inequitable stakeholder participation in both design and implementation; (iii) a retrofitting of adaptation into existing development agendas; and (iv) a lack of critical engagement with how ‘adaptation success’ is defined. Emerging literature shows potential avenues for overcoming the current failure of adaptation interventions to reduce vulnerability: first, shifting the terms of engagement between adaptation practitioners and the local populations participating in adaptation interventions; and second, expanding the understanding of ‘local’ vulnerability to encompass global contexts and drivers of vulnerability. An important lesson from past adaptation interventions is that within current adaptation cum development paradigms, inequitable terms of engagement with ‘vulnerable’ populations are reproduced and the multi-scalar processes driving vulnerability remain largely ignored. In particular, instead of designing projects to change the practices of marginalised populations, learning processes within organisations and with marginalised populations must be placed at the centre of adaptation objectives. We pose the question of whether scholarship and practice need to take a post-adaptation turn akin to post-development, by seeking a pluralism of ideas about adaptation while critically interrogating how these ideas form part of the politics of adaptation and potentially the processes (re)producing vulnerability. We caution that unless the politics of framing and of scale are explicitly tackled, transformational interventions risk having even more adverse effects on marginalised populations than current adaptation."
+ },
+ {
+  "title": "Social tipping dynamics for stabilizing Earth’s climate by 2050",
+  "year": 2020,
+  "doi": "10.1073/pnas.1900577117",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "cited": 1215,
+  "authors": [
+   "Ilona M. Otto",
+   "Jonathan F. Donges",
+   "Roger Cremades",
+   "Avit Kumar Bhowmik",
+   "Richard J. Hewitt",
+   "Wolfgang Lucht"
+  ],
+  "abstract": "Safely achieving the goals of the Paris Climate Agreement requires a worldwide transformation to carbon-neutral societies within the next 30 y. Accelerated technological progress and policy implementations are required to deliver emissions reductions at rates sufficiently fast to avoid crossing dangerous tipping points in the Earth's climate system. Here, we discuss and evaluate the potential of social tipping interventions (STIs) that can activate contagious processes of rapidly spreading technologies, behaviors, social norms, and structural reorganization within their functional domains that we refer to as social tipping elements (STEs). STEs are subdomains of the planetary socioeconomic system where the required disruptive change may take place and lead to a sufficiently fast reduction in anthropogenic greenhouse gas emissions. The results are based on online expert elicitation, a subsequent expert workshop, and a literature review. The STIs that could trigger the tipping of STE subsystems include 1) removing fossil-fuel subsidies and incentivizing decentralized energy generation (STE1, energy production and storage systems), 2) building carbon-neutral cities (STE2, human settlements), 3) divesting from assets linked to fossil fuels (STE3, financial markets), 4) revealing the moral implications of fossil fuels (STE4, norms and value systems), 5) strengthening climate education and engagement (STE5, education system), and 6) disclosing information on greenhouse gas emissions (STE6, information feedbacks). Our research reveals important areas of focus for larger-scale empirical and modeling efforts to better understand the potentials of harnessing social tipping dynamics for climate change mitigation."
+ },
+ {
+  "title": "A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies",
+  "year": 2020,
+  "doi": "10.1016/j.resconrec.2020.105169",
+  "venue": "Resources Conservation and Recycling",
+  "cited": 1135,
+  "authors": [
+   "T. Ibn-Mohammed",
+   "Khameel Bayo Mustapha",
+   "Janet Godsell",
+   "Zulfikar Aliyu Adamu",
+   "Kazeem Alasinrin Babatunde",
+   "Damilare D. Akintade"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services",
+  "year": 2019,
+  "doi": "10.1111/padr.12283",
+  "venue": "Population and Development Review",
+  "cited": 982,
+  "authors": [
+   "John Bongaarts"
+  ],
+  "abstract": "The debate about global environmental decline has been dominated by the wide-ranging harm expected from future climate change. Far less discussed, but equally dangerous, is the accelerating decline of the natural world. The over-exploitation of soils and seas, the cutting of forests and the pollution of air and water are together devastating the living world, according to a massive new UN-sponsored report from the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). The full, 1,500-page report will be published later in 2019 but this summary for policy makers has just been released. The four sections of the summary cover the decline in biodiversity and ecosystem services, the accelerating drivers of this change, the failure to meet many of the goals set for conservation and the very challenging actions needed to restore sustainability. The report's most alarming findings have been widely reported. Of an estimated 8 million animal and plant species (75 percent of which are insects), around 1 million are threatened with extinction—more than ever before in human history. Over 40 percent of amphibian species, almost 33 percent of corals, and more than a third of all marine mammals are threatened. At least 680 vertebrate species have been driven to extinction. All this is largely the result of human actions. Three-quarters of the land-based environment and about 66 percent of the marine environment have been significantly altered by man. More than a third of the world's land surface and nearly 75 percent of freshwater resources are now devoted to crop or livestock production. A third of marine fish stocks are being harvested at unsustainable levels. In sum, the biosphere is being altered at an unprecedented scale and pace. The dominant driver of these adverse trends is humanity's rapidly growing need for food, energy, water, and materials. The value of agricultural crops has increased by 300 percent since 1970, raw timber harvest has risen by 45 percent and approximately 60 billion tons of renewable and nonrenewable resources are now extracted globally every year—twice the level estimated for 1980. Land degradation has reduced the productivity of 23 percent of the global land surface. Climate change will accelerate many of these adverse effects over coming decades. The summary concludes with an enumeration of dozens of actions that can be taken by governments, researchers, and individuals, such as practicing informed government, improving documentation of nature, promoting sustainable agricultural practices, and reducing food waste. The report is authoritative and rich in scientific content based on meticulous research conducted by hundreds of scientists. But the text is also densely written, and its major sections consist largely of dozens of separate numbered paragraphs with only a weak overall story line. Readers of PDR may well be disappointed that the role population growth (which is clearly one of the most important indirect drivers of the loss of nature) is barely mentioned and the long list of proposed remedial actions does not mention population policies at all."
+ },
+ {
+  "title": "Cyber security in the age of COVID-19: A timeline and analysis of cyber-crime and cyber-attacks during the pandemic",
+  "year": 2021,
+  "doi": "10.1016/j.cose.2021.102248",
+  "venue": "Computers & Security",
+  "cited": 938,
+  "authors": [
+   "Harjinder Singh Lallie",
+   "Lynsay A. Shepherd",
+   "Jason R. C. Nurse",
+   "Arnau Erola",
+   "Gregory Epiphaniou",
+   "Carsten R. Maple"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "The role of wastewater treatment in achieving sustainable development goals (SDGs) and sustainability guideline",
+  "year": 2022,
+  "doi": "10.1016/j.nexus.2022.100112",
+  "venue": "Energy Nexus",
+  "cited": 935,
+  "authors": [
+   "Khaled Obaideen",
+   "Nabila Shehata",
+   "Enas Taha Sayed",
+   "Mohammad Ali Abdelkareem",
+   "Mohamed Salah Mahmoud",
+   "Abdul Ghani Olabi"
+  ],
+  "abstract": "The world is currently striving to achieve the globally adopted sustainable development goals (SDGs). Exploring the role of technology in achieving the SDGs is critical for the decision-makers and will allow them to overcome any possible trade-off. In this work, the role of wastewater management in achieving the SDGs has been indicated. The analysis shows that wastewater treatment could contribute to achieving 11 out of 17 SDGs. The major contribution came from its ability to increase water availability (SDG 2: zero hunger and SDG 6: clean water and sanitation), enhance human health worldwide (SDG 3: Good health and wellbeing), providing a new source of income for smallholder (SDG 1: no poverty and SDG 8: decent work and economic growth), converting waste to energy (SDG 7: affordable and clean energy, and SDG 9: industry, innovation and infrastructure) and reducing the environmental impact of wastewater (SDG 11: sustainable cities and communities, SDG 12: responsible consumption and production, SDG 13: climate action, and SDG 14: life below water). The challenges related to implementing and assessing these targets were discussed as well. A set of indicators (guideline) were proposed to improve the contribution of the wastewater treatment facility to the SDGs. This study emphasizes on the significant influence of wastewater treatment on the United Nations' SDGs and targets worldwide."
+ },
+ {
+  "title": "Powering the Future with Liquid Sunshine",
+  "year": 2018,
+  "doi": "10.1016/j.joule.2018.08.016",
+  "venue": "Joule",
+  "cited": 909,
+  "authors": [
+   "Choon Fong Shih",
+   "Tao Zhang",
+   "Jinghai Li",
+   "Chunli Bai"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Raising Awareness on Solid Waste Management through Formal Education for Sustainability: A Developing Countries Evidence Review",
+  "year": 2021,
+  "doi": "10.3390/recycling6010006",
+  "venue": "Recycling",
+  "cited": 904,
+  "authors": [
+   "Justice Kofi Debrah",
+   "Diogo Guedes Vidal",
+   "Maria Alzira Pimenta Dinis"
+  ],
+  "abstract": "Solid Waste Management (SWM) is a multifaceted problem comprising political, socioeconomic, institutional, and environmental aspects. Due to exponential urban growth, it has become one of the most significant issues faced by urban spaces in developing countries. The gap in environmental knowledge among the youth and the old within developing countries contribute to ecological issues or waste management problems, resulting in unsustainable development, with important consequences in low-income countries. For that matter, a systematic review was conducted aiming to identify and analyse environmental knowledge, awareness, attitudes, and practice studies on SWM from 2010 to 2019 in developing countries. The evidence suggests that students at both secondary and tertiary levels have positive environmental attitudes, and high awareness of environmental issues, but there is a lack of practical education of teachers to guide students to put SWM into practice. Student’s low environmental knowledge is related to a deficiency in teachers’ practical experience in SWM for environmental sustainability. A relationship between teachers’ and students’ knowledge and attitudes towards SWM, as well as differences in awareness, attitude, and practices of SWM linked with education and age, were also found. This review also revealed that the lack of environmental education in most developing countries is caused by fragilities in practical environmental curricula of teachers to respond to modern-day environmental issues for sustainable development and cleaner production (CP). To bridge the knowledge gap between the youth and older people in SWM, environmental sustainability education should be integrated into schools at all levels within developing countries."
+ },
+ {
+  "title": "Challenges in the decarbonization of the energy sector",
+  "year": 2020,
+  "doi": "10.1016/j.energy.2020.118025",
+  "venue": "Energy",
+  "cited": 896,
+  "authors": [
+   "Elisa Papadis",
+   "George Tsatsaronis"
+  ],
+  "abstract": "In order to limit the effects of climate change, the carbon dioxide emissions associated with the energy sector need to be reduced. Significant reductions can be achieved by using appropriate technologies and policies. In the context of recent discussions about climate change and energy transition, this article critically reviews some technologies, policies and frequently discussed solutions. The options for carbon emission reductions are grouped into (1) generation of secondary energy carriers, (2) end-use energy sectors and (3) sector interdependencies. The challenges on the way to a decarbonized energy sector are identified with respect to environmental sustainability, security of energy supply, economic stability and social aspects. A global carbon tax is the most promising instrument to accelerate the process of decarbonization. Nevertheless, this process will be very challenging for humanity due to high capital requirements, the competition among energy sectors for decarbonization options, inconsistent environmental policies and public acceptance of changes in energy use."
+ },
+ {
+  "title": "The global flood protection savings provided by coral reefs",
+  "year": 2018,
+  "doi": "10.1038/s41467-018-04568-z",
+  "venue": "Nature Communications",
+  "cited": 889,
+  "authors": [
+   "Michael W. Beck",
+   "Íñigo J. Losada",
+   "Pelayo Menéndez",
+   "Borja G. Reguero",
+   "Pedro Díaz-Simal",
+   "Felipe Fernández"
+  ],
+  "abstract": "Coral reefs can provide significant coastal protection benefits to people and property. Here we show that the annual expected damages from flooding would double, and costs from frequent storms would triple without reefs. For 100-year storm events, flood damages would increase by 91% to $US 272 billion without reefs. The countries with the most to gain from reef management are Indonesia, Philippines, Malaysia, Mexico, and Cuba; annual expected flood savings exceed $400 M for each of these nations. Sea-level rise will increase flood risk, but substantial impacts could happen from reef loss alone without better near-term management. We provide a global, process-based valuation of an ecosystem service across an entire marine biome at (sub)national levels. These spatially explicit benefits inform critical risk and environmental management decisions, and the expected benefits can be directly considered by governments (e.g., national accounts, recovery plans) and businesses (e.g., insurance)."
+ },
+ {
+  "title": "Connecting climate action with other Sustainable Development Goals",
+  "year": 2019,
+  "doi": "10.1038/s41893-019-0334-y",
+  "venue": "Nature Sustainability",
+  "cited": 888,
+  "authors": [
+   "Francesco Fuso Nerini",
+   "Benjamin Kenneth Sovacool",
+   "Nick Hughes",
+   "Laura Cozzi",
+   "Ellie Cosgrave",
+   "Mark Howells"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "A framework for complex climate change risk assessment",
+  "year": 2021,
+  "doi": "10.1016/j.oneear.2021.03.005",
+  "venue": "One Earth",
+  "cited": 880,
+  "authors": [
+   "Nicholas P. Simpson",
+   "Katharine J. Mach",
+   "Andrew John Constable",
+   "Jeremy Hess",
+   "Ryan Hogarth",
+   "Mark S. Howden"
+  ],
+  "abstract": "Real-world experience underscores the complexity of interactions among multiple drivers of climate change risk and of how multiple risks compound or cascade. However, a holistic framework for assessing such complex climate change risks has not yet been achieved. Clarity is needed regarding the interactions that generate risk, including the role of adaptation and mitigation responses. In this perspective, we present a framework for three categories of increasingly complex climate change risk that focus on interactions among the multiple drivers of risk, as well as among multiple risks. A significant innovation is recognizing that risks can arise both from potential impacts due to climate change and from responses to climate change. This approach encourages thinking that traverses sectoral and regional boundaries and links physical and socio-economic drivers of risk. Advancing climate change risk assessment in these ways is essential for more informed decision making that reduces negative climate change impacts."
+ },
+ {
+  "title": "The political economy of car dependence: A systems of provision approach",
+  "year": 2020,
+  "doi": "10.1016/j.erss.2020.101486",
+  "venue": "Energy Research & Social Science",
+  "cited": 852,
+  "authors": [
+   "Giulio Mattioli",
+   "Cameron Roberts",
+   "Julia  K. Steinberger",
+   "Andrew Brown"
+  ],
+  "abstract": "Research on car dependence exposes the difficulty of moving away from a car-dominated, high-carbon transport system, but neglects the political-economic factors underpinning car-dependent societies. Yet these factors are key constraints to attempts to ‘decouple' human well-being from energy use and climate change emissions. In this critical review paper, we identify some of the main political-economic factors behind car dependence, drawing together research from several fields. Five key constituent elements of what we call the ‘car-dependent transport system’ are identified: i) the automotive industry; ii) the provision of car infrastructure; iii) the political economy of urban sprawl; iv) the provision of public transport; v) cultures of car consumption. Using the ‘systems of provision’ approach within political economy, we locate the part played by each element within the key dynamic processes of the system as a whole. Such processes encompass industrial structure, political-economic relations, the built environment, and cultural feedback loops. We argue that linkages between these processes are crucial to maintaining car dependence and thus create carbon lock-in. In developing our argument we discuss several important characteristics of car-dependent transport systems: the role of integrated socio-technical aspects of provision, the opportunistic use of contradictory economic arguments serving industrial agendas, the creation of an apolitical façade around pro-car decision-making, and the ‘capture’ of the state within the car-dependent transport system. Through uncovering the constituents, processes and characteristics of car-dependent transport systems, we show that moving past the automobile age will require an overt and historically aware political program of research and action."
+ },
+ {
+  "title": "Shared autonomous vehicle services: A comprehensive review",
+  "year": 2020,
+  "doi": "10.1016/j.trc.2019.12.008",
+  "venue": "Transportation Research Part C Emerging Technologies",
+  "cited": 818,
+  "authors": [
+   "Santhanakrishnan Narayanan",
+   "Emmanouil Manos Chaniotakis",
+   "Constantinos Antoniou"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Sixty years of global progress in managed aquifer recharge",
+  "year": 2018,
+  "doi": "10.1007/s10040-018-1841-z",
+  "venue": "Hydrogeology Journal",
+  "cited": 793,
+  "authors": [
+   "Peter Dillon",
+   "Pieter J. Stuyfzand",
+   "Thomas Grischek",
+   "Mario R. Lluria",
+   "R. David G. Pyne",
+   "R. C. Jain"
+  ],
+  "abstract": "The last 60 years has seen unprecedented groundwater extraction and overdraft as well as development of new technologies for water treatment that together drive the advance in intentional groundwater replenishment known as managed aquifer recharge (MAR). This paper is the first known attempt to quantify the volume of MAR at global scale, and to illustrate the advancement of all the major types of MAR and relate these to research and regulatory advancements. Faced with changing climate and rising intensity of climate extremes, MAR is an increasingly important water management strategy, alongside demand management, to maintain, enhance and secure stressed groundwater systems and to protect and improve water quality. During this time, scientific research—on hydraulic design of facilities, tracer studies, managing clogging, recovery efficiency and water quality changes in aquifers—has underpinned practical improvements in MAR and has had broader benefits in hydrogeology. Recharge wells have greatly accelerated recharge, particularly in urban areas and for mine water management. In recent years, research into governance, operating practices, reliability, economics, risk assessment and public acceptance of MAR has been undertaken. Since the 1960s, implementation of MAR has accelerated at a rate of 5%/year, but is not keeping pace with increasing groundwater extraction. Currently, MAR has reached an estimated 10 km 3 /year, ~2.4% of groundwater extraction in countries reporting MAR (or ~1.0% of global groundwater extraction). MAR is likely to exceed 10% of global extraction, based on experience where MAR is more advanced, to sustain quantity, reliability and quality of water supplies."
+ },
+ {
+  "title": "The chemistry of chemical recycling of solid plastic waste via pyrolysis and gasification: State-of-the-art, challenges, and future directions",
+  "year": 2021,
+  "doi": "10.1016/j.pecs.2020.100901",
+  "venue": "Progress in Energy and Combustion Science",
+  "cited": 790,
+  "authors": [
+   "Onur Dogu",
+   "Matteo Pelucchi",
+   "Ruben Van de Vijver",
+   "Paul H. M. Van Steenberge",
+   "Dagmar D’hooge",
+   "Alberto Cuoci"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "A literature-based review on potentials and constraints in the implementation of the sustainable development goals",
+  "year": 2018,
+  "doi": "10.1016/j.jclepro.2018.07.102",
+  "venue": "Journal of Cleaner Production",
+  "cited": 789,
+  "authors": [
+   "Rodrigo Goyannes Gusm�ão Caiado",
+   "Walter Leal Filho",
+   "Osvaldo Luíz Gonçalves Quelhas",
+   "Daniel Luiz de Mattos Nascimento",
+   "Lucas Veiga Ávila"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Renewable energy communities under the 2019 European Clean Energy Package – Governance model for the energy clusters of the future?",
+  "year": 2020,
+  "doi": "10.1016/j.rser.2019.109489",
+  "venue": "Renewable and Sustainable Energy Reviews",
+  "cited": 785,
+  "authors": [
+   "Jens Lowitzsch",
+   "Christina E. Hoicka",
+   "F.J. van Tulder"
+  ],
+  "abstract": "The recast of the European Union Renewable Energy Directive (RED II) entered into force in December 2018, followed by the Internal Electricity Market Directive (IEMD) and Regulation (IEMR) as part of the Clean Energy for all Europeans Package. The RED II, that the 28 Member States have until June 2021 to transpose into national law, defines “Renewable Energy Communities” (RECs), introduces a governance model for them and the possibility of energy sharing within the REC. It also provides an “enabling framework” to put RECs on equal footing with other market players and to promote and facilitate their development. This article defines \"renewable energy clusters\" that are comprised of complementarity of different energy sources, flexibility, interconnectivity of different actors and bi-directionality of energy flows. We argue that RECs and RE clusters are socio-technical mirrors of the same concept, necessary in a renewable energy transition. To test how these new rules will fare in practice, drawing on a secondary dataset of 67 best-practice cases of consumer (co-)ownership from 18 countries, each project is assessed using the criteria of cluster potential, and for the extent that they meet the RED II governance requirements of heterogeneity of members and of ownership structure. Nine cases were identified as having cluster potential all of which were in rural areas. Of these, five projects were found to be both RECs and RE clusters. The absence of the governance and heterogeneity criteria is observed in projects that fall short of the cluster elements of flexibility, bi-directionality and interconnectivity, while cluster elements occur where the governance and heterogeneity criteria are met. When transposing the new rules into national law we recommend careful attention to encourage complementarity of renewables, RECs in urban contexts and “regulatory sandboxes” for experimentation to find the range of optimal preferential conditions of the “enabling framework”."
+ },
+ {
+  "title": "Sustainable Solutions for Green Financing and Investment in Renewable Energy Projects",
+  "year": 2020,
+  "doi": "10.3390/en13040788",
+  "venue": "Energies",
+  "cited": 783,
+  "authors": [
+   "Farhad Taghizadeh Hesary",
+   "Naoyuki Yoshino"
+  ],
+  "abstract": "The lack of long-term financing, the low rate of return, the existence of various risks, and the lack of capacity of market players are major challenges for the development of green energy projects. This paper aimed to highlight the challenges of green financing and investment in renewable energy projects and to provide practical solutions for filling the green financing gap. Practical solutions include increasing the role of public financial institutions and non-banking financial institutions (pension funds and insurance companies) in long-term green investments, utilizing the spillover tax to increase the rate of return of green projects, developing green credit guarantee schemes to reduce the credit risk, establishing community-based trust funds, and addressing green investment risks via financial and policy de-risking. The paper also provides a practical example of the implementation of the proposed tools."
+ },
+ {
+  "title": "The Vertical Farm: A Review of Developments and Implications for the Vertical City",
+  "year": 2018,
+  "doi": "10.3390/buildings8020024",
+  "venue": "Buildings",
+  "cited": 770,
+  "authors": [
+   "Kheir M Al-Kodmany"
+  ],
+  "abstract": "This paper discusses the emerging need for vertical farms by examining issues related to food security, urban population growth, farmland shortages, “food miles”, and associated greenhouse gas (GHG) emissions. Urban planners and agricultural leaders have argued that cities will need to produce food internally to respond to demand by increasing population and to avoid paralyzing congestion, harmful pollution, and unaffordable food prices. The paper examines urban agriculture as a solution to these problems by merging food production and consumption in one place, with the vertical farm being suitable for urban areas where available land is limited and expensive. Luckily, recent advances in greenhouse technologies such as hydroponics, aeroponics, and aquaponics have provided a promising future to the vertical farm concept. These high-tech systems represent a paradigm shift in farming and food production and offer suitable and efficient methods for city farming by minimizing maintenance and maximizing yield. Upon reviewing these technologies and examining project prototypes, we find that these efforts may plant the seeds for the realization of the vertical farm. The paper, however, closes by speculating about the consequences, advantages, and disadvantages of the vertical farm’s implementation. Economic feasibility, codes, regulations, and a lack of expertise remain major obstacles in the path to implementing the vertical farm."
+ },
+ {
+  "title": "Current status of carbon capture, utilization, and storage technologies in the global economy: A survey of technical assessment",
+  "year": 2023,
+  "doi": "10.1016/j.fuel.2023.127776",
+  "venue": "Fuel",
+  "cited": 768,
+  "authors": [
+   "Bartosz Dziejarski",
+   "Renata Krzyżyńska",
+   "Klas Andersson"
+  ],
+  "abstract": "The latest tremendously rapid expansion of the energy and industrial sector has led to a sharp increase in stationary sources of CO2. Consequently, a lot of concerns have been raised about the prevention of global warming and the achievement of climate mitigation strategies by 2050 with a low-carbon and sustainable future. In view of this, the current state of various aspects of carbon capture, utilization, and storage (CCUS) technologies in general technical assessment were concisely reviewed and discussed. We concentrated on precisely identifying the technology readiness level (TRL), which is beneficial to specifically defining the maturity for each key element of the CCUS system with a commercialization direction paths. In addition, we especially presented and emphasized the importance of CO2 capture types from flue gases and CO2 separation methods. Then, we determined valuable data from the largest R&D projects at various scales. This paper provides a critical review of the literature related to challenges of the CCUS system that must be overcome to raise many low TRL technologies and facilitate their implementation on a commercial scale. Finally, our work aims to guide the further scaling up and establishment of worldwide CO2 emission reduction projects."
+ },
+ {
+  "title": "15-Minute City: Decomposing the New Urban Planning Eutopia",
+  "year": 2021,
+  "doi": "10.3390/su13020928",
+  "venue": "Sustainability",
+  "cited": 756,
+  "authors": [
+   "Georgia Pozoukidou",
+   "Zoi Chatziyiannaki"
+  ],
+  "abstract": "As cities are struggling to cope with the second wave of the global COVID-19 pandemic, the idea of 15-min cities seem to have sparked planners’ imagination and politicians’ willingness for providing us with a new urban planning eutopia. This paper explores the “15-min city” concept as a structural and functional element for redesigning contemporary cities. Methodologically, a study of three case cities that have adopted this new model of city vision, is carried out. The analysis focus on understanding how the idea of 15-min cities fits the legacies of different cities as described by traditional planning principles in the context of three evaluation pillars: inclusion, safety and health. The paper argues that the 15-min city approach is not a radical new idea since it utilizes long established planning principles. Nevertheless, it uses these principles to achieve the bottom-up promotion of wellbeing while it proposes an alternative way to think about optimal resource allocation in a citywide scale. Hence, application of 15-min city implies a shift in the emphasis of planning from the accessibility of neighborhood to urban functions to the proximity of urban functions within neighborhoods, along with large systemic changes in resource allocation patterns and governance schemes citywide."
+ },
+ {
+  "title": "Environmental Justice: The Economics of Race, Place, and Pollution",
+  "year": 2019,
+  "doi": "10.1257/jep.33.1.185",
+  "venue": "The Journal of Economic Perspectives",
+  "cited": 749,
+  "authors": [
+   "H. Spencer Banzhaf",
+   "Lala Ma",
+   "Christopher D. Timmins"
+  ],
+  "abstract": "The grassroots movement that placed environmental justice issues on the national stage around 1980 was soon followed up by research documenting the correlation between pollution and race and poverty. This work has established inequitable exposure to nuisances as a stylized fact of social science. In this paper, we review the environmental justice literature, especially where it intersects with work by economists. First we consider the literature documenting evidence of disproportionate exposure. We particularly consider the implications of modeling choices about spatial relationships between polluters and residents, and about conditioning variables. Next, we evaluate the theory and evidence for four possible mechanisms that may lie behind the patterns seen: disproportionate siting on the firm side, “coming to the nuisance” on the household side, market-like coordination of the two, and discriminatory politics and/or enforcement. We argue that further research is needed to understand how much weight to give each mechanism. Finally, we discuss some policy options."
+ },
+ {
+  "title": "Global and regional potential of wastewater as a water, nutrient and energy source",
+  "year": 2020,
+  "doi": "10.1111/1477-8947.12187",
+  "venue": "Natural Resources Forum",
+  "cited": 745,
+  "authors": [
+   "Manzoor Qadir",
+   "Pay Drechsel",
+   "Blanca Elena Jiménez",
+   "Younggy Kim",
+   "Amit Kumar Pramanik",
+   "Praem Mehta"
+  ],
+  "abstract": "There is a proactive interest in recovering water, nutrients and energy from waste streams with the increase in municipal wastewater volumes and innovations in resource recovery. Based on the synthesis of wastewater data, this study provides insights into the global and regional “potential” of wastewater as water, nutrient and energy sources while acknowledging the limitations of current resource recovery opportunities and promoting efforts to fast‐track high‐efficiency returns. The study estimates suggest that, currently, 380 billion m 3 (m 3 = 1,000 L) of wastewater are produced annually across the world which is a volume five‐fold the volume of water passing through Niagara Falls annually. Wastewater production globally is expected to increase by 24% by 2030 and 51% by 2050 over the current level. Among major nutrients, 16.6 Tg (Tg = million metric ton) of nitrogen are embedded in wastewater produced worldwide annually; phosphorus stands at 3.0 Tg and potassium at 6.3 Tg. The full nutrient recovery from wastewater would offset 13.4% of the global demand for these nutrients in agriculture. Beyond nutrient recovery and economic gains, there are critical environmental benefits, such as minimizing eutrophication. At the energy front, the energy embedded in wastewater would be enough to provide electricity to 158 million households. These estimates and projections are based on the maximum theoretical amounts of water, nutrients and energy that exist in the reported municipal wastewater produced worldwide annually. Supporting resource recovery from wastewater will need a step‐wise approach to address a range of constraints to deliver a high rate of return in direct support of Sustainable Development Goals (SDG) 6, 7 and 12, but also other Goals, including adaptation to climate change and efforts in advancing “net‐zero” energy processes towards a green economy."
+ },
+ {
+  "title": "Radical transformation pathway towards sustainable electricity via evolutionary steps",
+  "year": 2019,
+  "doi": "10.1038/s41467-019-08855-1",
+  "venue": "Nature Communications",
+  "cited": 733,
+  "authors": [
+   "Dmitrii Bogdanov",
+   "Javier Farfan",
+   "Kristina Sadovskaia",
+   "Arman Aghahosseini",
+   "Michael Child",
+   "Ashish Gulagi"
+  ],
+  "abstract": "A transition towards long-term sustainability in global energy systems based on renewable energy resources can mitigate several growing threats to human society simultaneously: greenhouse gas emissions, human-induced climate deviations, and the exceeding of critical planetary boundaries. However, the optimal structure of future systems and potential transition pathways are still open questions. This research describes a global, 100% renewable electricity system, which can be achieved by 2050, and the steps required to enable a realistic transition that prevents societal disruption. Modelling results show that a carbon neutral electricity system can be built in all regions of the world in an economically feasible manner. This radical transformation will require steady but evolutionary changes for the next 35 years, and will lead to sustainable and affordable power supply globally."
+ },
+ {
+  "title": "A Comprehensive Review on Renewable Energy Development, Challenges, and Policies of Leading Indian States With an International Perspective",
+  "year": 2020,
+  "doi": "10.1109/access.2020.2988011",
+  "venue": "IEEE Access",
+  "cited": 721,
+  "authors": [
+   "Rajvikram Madurai Elavarasan",
+   "GM Shafiullah",
+   "Sanjeevikumar Padmanaban",
+   "Nallapaneni Manoj Kumar",
+   "Annapurna Annam",
+   "Ajayragavan Manavalanagar Vetrichelvan"
+  ],
+  "abstract": "Clean and environment-friendly energy harvesting are of prime interest today as it is one of the key enablers in achieving the Sustainable Development Goals (SDGs) as well as accelerates social progress and enhances living standards. India, the second-most populous nation with a population of 1.353 billion, is one of the largest consumers of fossil fuels in the world which is responsible for global warming. An ever-increasing population is projected until 2050, and consequently, the energy demand in the upcoming decades will be co-accelerated by the rapid industrial growth. The Ministry of New and Renewable Energy (MNRE) with the support of National Institution for Transforming India (NITI) Aayog is working to achieve the Indian Government's target of attaining 175 GW through renewable energy resources. Many Indian states are currently increasing their renewable energy capacity in an objective to meet future energy demand. The review paper discusses in-depth about the three Indian states, namely Karnataka, Gujarat, Tamil Nadu, which pioneers the renewable energy production in India. The global energy scenario was discussed in detail with Indian contrast. Further, the barriers to the development of renewable energy generation and policies of the Indian government are discussed in detail to promote renewable energy generation throughout India as well as globally since the challenges are similar for other nations. This study analyzed various prospects of the country in renewable energy which has been done in a purpose to help the scholars, researchers, and policymakers of the nation, as it gives an insight into the present renewable energy scenario of the country."
+ },
+ {
+  "title": "Middle-range theories of land system change",
+  "year": 2018,
+  "doi": "10.1016/j.gloenvcha.2018.08.006",
+  "venue": "Global Environmental Change",
+  "cited": 715,
+  "authors": [
+   "Patrick Meyfroidt",
+   "Rinku Roy Chowdhury",
+   "Ariane de Bremond",
+   "Erle C. Ellis",
+   "Karl‐Heinz Erb",
+   "Tatiana Filatova"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "War of the chatbots: Bard, Bing Chat, ChatGPT, Ernie and beyond. The new AI gold rush and its impact on higher education",
+  "year": 2023,
+  "doi": "10.37074/jalt.2023.6.1.23",
+  "venue": "Journal of Applied Learning & Teaching",
+  "cited": 713,
+  "authors": [
+   "Jürgen  Rudolph",
+   "Shannon Tan",
+   "Samson Tan"
+  ],
+  "abstract": "Developments in the chatbot space have been accelerating at breakneck speed since late November 2022. Every day, there appears to be a plethora of news. A war of competitor chatbots is raging amidst an AI arms race and gold rush. These rapid developments impact higher education, as millions of students and academics have started using bots like ChatGPT, Bing Chat, Bard, Ernie and others for a large variety of purposes. In this article, we select some of the most promising chatbots in the English and Chinese-language spaces and provide their corporate backgrounds and brief histories. Following an up-to-date review of the Chinese and English-language academic literature, we describe our comparative method and systematically compare selected chatbots across a multi-disciplinary test relevant to higher education. The results of our test show that there are currently no A-students and no B-students in this bot cohort, despite all publicised and sensationalist claims to the contrary. The much-vaunted AI is not yet that intelligent, it would appear. GPT-4 and its predecessor did best, whilst Bing Chat and Bard were akin to at-risk students with F-grade averages. We conclude our article with four types of recommendations for key stakeholders in higher education: (1) faculty in terms of assessment and (2) teaching & learning, (3) students and (4) higher education institutions."
+ },
+ {
+  "title": "Nature-Based Solutions for Urban Climate Change Adaptation: Linking Science, Policy, and Practice Communities for Evidence-Based Decision-Making",
+  "year": 2019,
+  "doi": "10.1093/biosci/biz042",
+  "venue": "BioScience",
+  "cited": 710,
+  "authors": [
+   "Niki Frantzeskaki",
+   "Timon McPhearson",
+   "Marcus John Collier",
+   "Dave Kendal",
+   "Harriet Bulkeley",
+   "Adina Dumitru"
+  ],
+  "abstract": "Nature-based solutions offer an exciting prospect for resilience building and advancing urban planning to address complex urban challenges simultaneously. In this article, we formulated through a coproduction process in workshops held during the first IPCC Cities and Climate Science Conference in Edmonton, Canada, in March 2018, a series of synthesis statements on the role, potential, and research gaps of nature-based solutions for climate adaptation and mitigation. We address interlocking questions about the evidence and knowledge needed for integrating nature-based solutions into urban agendas. We elaborate on the ways to advance the planning and knowledge agenda for nature-based solutions by focusing on knowledge coproduction, indicators and big data, and novel financing models. With this article, we intend to open a wider discussion on how cities can effectively mainstream nature-based solutions to mitigate and adapt to the negative effects of climate change and the future role of urban science in coproducing nature-based solutions."
+ }
+]

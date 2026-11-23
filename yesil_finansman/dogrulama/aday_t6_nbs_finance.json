@@ -1,0 +1,585 @@
+[
+ {
+  "title": "The role of renewable energy in the global energy transformation",
+  "year": 2019,
+  "doi": "10.1016/j.esr.2019.01.006",
+  "venue": "Energy Strategy Reviews",
+  "cited": 5824,
+  "authors": [
+   "Dolf J. Gielen",
+   "Francisco Boshell",
+   "Değer Saygin",
+   "Morgan Bazilian",
+   "Nicholas Wagner",
+   "Ricardo Gorini"
+  ],
+  "abstract": "This paper explores the technical and economic characteristics of an accelerated energy transition to 2050, using new datasets for renewable energy. The analysis indicates that energy efficiency and renewable energy technologies are the core elements of that transition, and their synergies are likewise important. Favourable economics, ubiquitous resources, scalable technology, and significant socio-economic benefits underpin such a transition. Renewable energy can supply two-thirds of the total global energy demand, and contribute to the bulk of the greenhouse gas emissions reduction that is needed between now and 2050 for limiting average global surface temperature increase below 2 °C. Enabling policy and regulatory frameworks will need to be adjusted to mobilise the six-fold acceleration of renewables growth that is needed, with the highest growth estimated for wind and solar PV technologies, complemented by a high level of energy efficiency. Still, to ensure the eventual elimination of carbon dioxide emissions will require new technology and innovation, notably for the transport and manufacturing sectors, which remain largely ignored in the international debate. More attention is needed for emerging infrastructure issues such as charging infrastructure and other sector coupling implications."
+ },
+ {
+  "title": "The role of hydrogen and fuel cells in the global energy system",
+  "year": 2019,
+  "doi": "10.1039/c8ee01157e",
+  "venue": "Energy & Environmental Science",
+  "cited": 4695,
+  "authors": [
+   "Iain Staffell",
+   "Daniel P. Scamman",
+   "Anthony Velazquez Abad",
+   "Paul Balcombe",
+   "Paul E. Dodds",
+   "Paul Ekins"
+  ],
+  "abstract": "Hydrogen has been ‘just around the corner’ for decades, but now offers serious alternatives for decarbonising global heat, power and transport."
+ },
+ {
+  "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+  "year": 2019,
+  "doi": "10.1257/jep.33.2.3",
+  "venue": "The Journal of Economic Perspectives",
+  "cited": 4205,
+  "authors": [
+   "Daron Acemoğlu",
+   "Pascual Restrepo"
+  ],
+  "abstract": "We present a framework for understanding the effects of automation and other types of technological changes on labor demand, and use it to interpret changes in US employment over the recent past. At the center of our framework is the allocation of tasks to capital and labor—the task content of production. Automation, which enables capital to replace labor in tasks it was previously engaged in, shifts the task content of production against labor because of a displacement effect. As a result, automation always reduces the labor share in value added and may reduce labor demand even as it raises productivity. The effects of automation are counterbalanced by the creation of new tasks in which labor has a comparative advantage. The introduction of new tasks changes the task content of production in favor of labor because of a reinstatement effect, and always raises the labor share and labor demand. We show how the role of changes in the task content of production—due to automation and new tasks—can be inferred from industry-level data. Our empirical decomposition suggests that the slower growth of employment over the last three decades is accounted for by an acceleration in the displacement effect, especially in manufacturing, a weaker reinstatement effect, and slower growth of productivity than in previous decades."
+ },
+ {
+  "title": "An agenda for sustainability transitions research: State of the art and future directions",
+  "year": 2019,
+  "doi": "10.1016/j.eist.2019.01.004",
+  "venue": "Environmental Innovation and Societal Transitions",
+  "cited": 3719,
+  "authors": [
+   "Jonathan Köhler",
+   "Frank Willem Geels",
+   "Florian Kern",
+   "Jochen Markard",
+   "Elsie Onsongo",
+   "Anna  J. Wieczorek"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+  "year": 2024,
+  "doi": "10.1016/s0140-6736(24)00367-2",
+  "venue": "The Lancet",
+  "cited": 3717,
+  "authors": [
+   "Mohsen Naghavi",
+   "Kanyin Liane Ong",
+   "Amirali Aali",
+   "Hazim Ababneh",
+   "Yohannes Habtegiorgis Abate",
+   "Cristiana Abbafati"
+  ],
+  "abstract": "BACKGROUND: Regular, detailed reporting on population health by underlying cause of death is fundamental for public health decision making. Cause-specific estimates of mortality and the subsequent effects on life expectancy worldwide are valuable metrics to gauge progress in reducing mortality rates. These estimates are particularly important following large-scale mortality spikes, such as the COVID-19 pandemic. When systematically analysed, mortality rates and life expectancy allow comparisons of the consequences of causes of death globally and over time, providing a nuanced understanding of the effect of these causes on global populations. METHODS: The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 cause-of-death analysis estimated mortality and years of life lost (YLLs) from 288 causes of death by age-sex-location-year in 204 countries and territories and 811 subnational locations for each year from 1990 until 2021. The analysis used 56 604 data sources, including data from vital registration and verbal autopsy as well as surveys, censuses, surveillance systems, and cancer registries, among others. As with previous GBD rounds, cause-specific death rates for most causes were estimated using the Cause of Death Ensemble model-a modelling tool developed for GBD to assess the out-of-sample predictive validity of different statistical models and covariate permutations and combine those results to produce cause-specific mortality estimates-with alternative strategies adapted to model causes with insufficient data, substantial changes in reporting over the study period, or unusual epidemiology. YLLs were computed as the product of the number of deaths for each cause-age-sex-location-year and the standard life expectancy at each age. As part of the modelling process, uncertainty intervals (UIs) were generated using the 2·5th and 97·5th percentiles from a 1000-draw distribution for each metric. We decomposed life expectancy by cause of death, location, and year to show cause-specific effects on life expectancy from 1990 to 2021. We also used the coefficient of variation and the fraction of population affected by 90% of deaths to highlight concentrations of mortality. Findings are reported in counts and age-standardised rates. Methodological improvements for cause-of-death estimates in GBD 2021 include the expansion of under-5-years age group to include four new age groups, enhanced methods to account for stochastic variation of sparse data, and the inclusion of COVID-19 and other pandemic-related mortality-which includes excess mortality associated with the pandemic, excluding COVID-19, lower respiratory infections, measles, malaria, and pertussis. For this analysis, 199 new country-years of vital registration cause-of-death data, 5 country-years of surveillance data, 21 country-years of verbal autopsy data, and 94 country-years of other data types were added to those used in previous GBD rounds. FINDINGS: The leading causes of age-standardised deaths globally were the same in 2019 as they were in 1990; in descending order, these were, ischaemic heart disease, stroke, chronic obstructive pulmonary disease, and lower respiratory infections. In 2021, however, COVID-19 replaced stroke as the second-leading age-standardised cause of death, with 94·0 deaths (95% UI 89·2-100·0) per 100 000 population. The COVID-19 pandemic shifted the rankings of the leading five causes, lowering stroke to the third-leading and chronic obstructive pulmonary disease to the fourth-leading position. In 2021, the highest age-standardised death rates from COVID-19 occurred in sub-Saharan Africa (271·0 deaths [250·1-290·7] per 100 000 population) and Latin America and the Caribbean (195·4 deaths [182·1-211·4] per 100 000 population). The lowest age-standardised death rates from COVID-19 were in the high-income super-region (48·1 deaths [47·4-48·8] per 100 000 population) and southeast Asia, east Asia, and Oceania (23·2 deaths [16·3-37·2] per 100 000 population). Globally, life expectancy steadily improved between 1990 and 2019 for 18 of the 22 investigated causes. Decomposition of global and regional life expectancy showed the positive effect that reductions in deaths from enteric infections, lower respiratory infections, stroke, and neonatal deaths, among others have contributed to improved survival over the study period. However, a net reduction of 1·6 years occurred in global life expectancy between 2019 and 2021, primarily due to increased death rates from COVID-19 and other pandemic-related mortality. Life expectancy was highly variable between super-regions over the study period, with southeast Asia, east Asia, and Oceania gaining 8·3 years (6·7-9·9) overall, while having the smallest reduction in life expectancy due to COVID-19 (0·4 years). The largest reduction in life expectancy due to COVID-19 occurred in Latin America and the Caribbean (3·6 years). Additionally, 53 of the 288 causes of death were highly concentrated in locations with less than 50% of the global population as of 2021, and these causes of death became progressively more concentrated since 1990, when only 44 causes showed this pattern. The concentration phenomenon is discussed heuristically with respect to enteric and lower respiratory infections, malaria, HIV/AIDS, neonatal disorders, tuberculosis, and measles. INTERPRETATION: Long-standing gains in life expectancy and reductions in many of the leading causes of death have been disrupted by the COVID-19 pandemic, the adverse effects of which were spread unevenly among populations. Despite the pandemic, there has been continued progress in combatting several notable causes of death, leading to improved global life expectancy over the study period. Each of the seven GBD super-regions showed an overall improvement from 1990 and 2021, obscuring the negative effect in the years of the pandemic. Additionally, our findings regarding regional variation in causes of death driving increases in life expectancy hold clear policy utility. Analyses of shifting mortality trends reveal that several causes, once widespread globally, are now increasingly concentrated geographically. These changes in mortality concentration, alongside further investigation of changing risks, interventions, and relevant policy, present an important opportunity to deepen our understanding of mortality-reduction strategies. Examining patterns in mortality concentration might reveal areas where successful public health interventions have been implemented. Translating these successes to locations where certain causes of death remain entrenched can inform policies that work to improve life expectancy for people everywhere. FUNDING: Bill & Melinda Gates Foundation."
+ },
+ {
+  "title": "The revenge of the places that don’t matter (and what to do about it)",
+  "year": 2018,
+  "doi": "10.1093/cjres/rsx024",
+  "venue": "Cambridge Journal of Regions Economy and Society",
+  "cited": 3214,
+  "authors": [
+   "Andrés Rodríguez‐Pose"
+  ],
+  "abstract": "Persistent poverty, economic decay and lack of opportunities are at the root of considerable discontent in declining and lagging-behind areas the world over. Poor development prospects and an increasing belief that these places have “no future”—as economic dynamism has been posited to be increasingly dependent on agglomeration economies—have led many of these so-called “places that don’t matter” to revolt against the status quo. The revolt has come via an unexpected source: the ballot-box, in a wave of political populism with strong territorial, rather than social foundations. I will argue that the populist wave is challenging the sources of existing well-being in both the less-dynamic and the more prosperous areas and that better, rather than more, place-sensitive territorial development policies are needed in order to find a solution to the problem. Place-sensitive development policies need, however, to stay clear of the welfare, income support and big investment projects of past development strategies if they are to be successful and focus on tapping into untapped potential and on providing opportunities to those people living in the places that “don’t matter”."
+ },
+ {
+  "title": "Three frames for innovation policy: R&D, systems of innovation and transformative change",
+  "year": 2018,
+  "doi": "10.1016/j.respol.2018.08.011",
+  "venue": "Research Policy",
+  "cited": 2631,
+  "authors": [
+   "Johan Schot",
+   "W. Edward Steinmueller"
+  ],
+  "abstract": "Science, technology and innovation (STI) policy is shaped by persistent framings that arise from historical context. Two established frames are identified as co-existing and dominant in contemporary innovation policy discussions. The first frame is identified as beginning with a Post-World War II institutionalisation of government support for science and R&D with the presumption that this would contribute to growth and address market failure in private provision of new knowledge. The second frame emerged in the 1980s globalising world and its emphasis on competitiveness which is shaped by the national systems of innovation for knowledge creation and commercialisation. STI policy focuses on building links, clusters and networks, and on stimulating learning between elements in the systems, and enabling entrepreneurship. A third frame linked to contemporary social and environmental challenges such as the Sustainable Development Goals and calling for transformative change is identified and distinguished from the two earlier frames. Transformation refers to socio-technical system change as conceptualised in the sustainability transitions literature. The nature of this third framing is examined with the aim of identifying its key features and its potential for provoking a re-examination of the earlier two frames. One key feature is its focus on experimentation, and the argument that the Global South does not need to play catch-up to follow the transformation model of the Global North. It is argued that all three frames are relevant for policymaking, but exploring options for transformative innovation policy should be a priority."
+ },
+ {
+  "title": "A review of social science on digital agriculture, smart farming and agriculture 4.0: New contributions and a future research agenda",
+  "year": 2019,
+  "doi": "10.1016/j.njas.2019.100315",
+  "venue": "NJAS - Wageningen Journal of Life Sciences",
+  "cited": 2511,
+  "authors": [
+   "Laurens Klerkx",
+   "Emma Jakku",
+   "Pierre Labarthe"
+  ],
+  "abstract": "While there is a lot of literature from a natural or technical sciences perspective on different forms of digitalization in agriculture (big data, internet of things, augmented reality, robotics, sensors, 3D printing, system integration, ubiquitous connectivity, artificial intelligence, digital twins, and blockchain among others), social science researchers have recently started investigating different aspects of digital agriculture in relation to farm production systems, value chains and food systems. This has led to a burgeoning but scattered social science body of literature. There is hence lack of overview of how this field of study is developing, and what are established, emerging, and new themes and topics. This is where this article aims to make a contribution, beyond introducing this special issue which presents seventeen articles dealing with social, economic and institutional dynamics of precision farming, digital agriculture, smart farming or agriculture 4.0. An exploratory literature review shows that five thematic clusters of extant social science literature on digitalization in agriculture can be identified: 1) Adoption, uses and adaptation of digital technologies on farm; 2) Effects of digitalization on farmer identity, farmer skills, and farm work; 3) Power, ownership, privacy and ethics in digitalizing agricultural production systems and value chains; 4) Digitalization and agricultural knowledge and innovation systems (AKIS); and 5) Economics and management of digitalized agricultural production systems and value chains. The main contributions of the special issue articles are mapped against these thematic clusters, revealing new insights on the link between digital agriculture and farm diversity, new economic, business and institutional arrangements both on-farm, in the value chain and food system, and in the innovation system, and emerging ways to ethically govern digital agriculture. Emerging lines of social science enquiry within these thematic clusters are identified and new lines are suggested to create a future research agenda on digital agriculture, smart farming and agriculture 4.0. Also, four potential new thematic social science clusters are also identified, which so far seem weakly developed: 1) Digital agriculture socio-cyber-physical-ecological systems conceptualizations; 2) Digital agriculture policy processes; 3) Digitally enabled agricultural transition pathways; and 4) Global geography of digital agriculture development. This future research agenda provides ample scope for future interdisciplinary and transdisciplinary science on precision farming, digital agriculture, smart farming and agriculture 4.0."
+ },
+ {
+  "title": "The 2020 report of The Lancet Countdown on health and climate change: responding to converging crises",
+  "year": 2020,
+  "doi": "10.1016/s0140-6736(20)32290-x",
+  "venue": "The Lancet",
+  "cited": 2363,
+  "authors": [
+   "Nick Watts",
+   "Markus Christian Amann",
+   "Nigel W. Arnell",
+   "Sonja Ayeb‐Karlsson",
+   "Jessica Beagley",
+   "Kristine Belesova"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Tackling Climate Change with Machine Learning",
+  "year": 2022,
+  "doi": "10.1145/3485128",
+  "venue": "ACM Computing Surveys",
+  "cited": 2360,
+  "authors": [
+   "David Rolnick",
+   "Priya L. Donti",
+   "Lynn H. Kaack",
+   "Kelly Kochanski",
+   "Alexandre Lacoste",
+   "Kris Sankaran"
+  ],
+  "abstract": "Climate change is one of the greatest challenges facing humanity, and we, as machine learning (ML) experts, may wonder how we can help. Here we describe how ML can be a powerful tool in reducing greenhouse gas emissions and helping society adapt to a changing climate. From smart grids to disaster management, we identify high impact problems where existing gaps can be filled by ML, in collaboration with other fields. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the ML community to join the global effort against climate change."
+ },
+ {
+  "title": "Evaluating scenarios toward zero plastic pollution",
+  "year": 2020,
+  "doi": "10.1126/science.aba9475",
+  "venue": "Science",
+  "cited": 2031,
+  "authors": [
+   "Winnie W. Y. Lau",
+   "Yonathan Shiran",
+   "Richard M. Bailey",
+   "Ed Cook",
+   "Martin Stuchtey",
+   "Julia Koskella"
+  ],
+  "abstract": "Plastic pollution is a pervasive and growing problem. To estimate the effectiveness of interventions to reduce plastic pollution, we modeled stocks and flows of municipal solid waste and four sources of microplastics through the global plastic system for five scenarios between 2016 and 2040. Implementing all feasible interventions reduced plastic pollution by 40% from 2016 rates and 78% relative to \"business as usual\" in 2040. Even with immediate and concerted action, 710 million metric tons of plastic waste cumulatively entered aquatic and terrestrial ecosystems. To avoid a massive build-up of plastic in the environment, coordinated global action is urgently needed to reduce plastic consumption; increase rates of reuse, waste collection, and recycling; expand safe disposal systems; and accelerate innovation in the plastic value chain."
+ },
+ {
+  "title": "International principles and standards for the practice of ecological restoration. Second edition",
+  "year": 2019,
+  "doi": "10.1111/rec.13035",
+  "venue": "Restoration Ecology",
+  "cited": 2029,
+  "authors": [
+   "George D. Gann",
+   "Tein McDonald",
+   "Bethanie Walder",
+   "James C. Aronson",
+   "Cara R. Nelson",
+   "Justin Jonson"
+  ],
+  "abstract": "International restoration standardsThe Society for Ecological Restoration (SER) is an international non-profit organization with members in 70 countries.SER advances the science, practice and policy of ecological restoration to sustain biodiversity, improve resilience in a changing climate, and re-establish an ecologically healthy relationship between nature and culture.SER is a dynamic global network, linking researchers, practitioners, land managers, community leaders and decision-makers to restore ecosystems and the human communities that depend on them.Via its members, publications, conferences, policy work, and outreach, SER defines and delivers excellence in the field of ecological restoration. Document development. International Principles and Standards for the Practice of Ecological Restoration (the Standards)was developed through consultation with professionals within the Society for Ecological Restoration and their peers in the global scientific and conservation communities.The first edition was launched in 2016 at the United Nations Biodiversity Conference in Cancún, Mexico.This event brought together key stakeholders from across the international policy arena, many of whom had been instrumental in driving the global initiatives to implement large-scale environmental restoration programs.Because the Standards were written as a living document to be modified and expanded through consultation and use by stakeholders, the launch included an open invitation for stakeholder input, to both improve the document and promote broad use.Subsequently, over a multi-year consultation period, SER invited input and review from a diverse spectrum of people and organizations contributing to ecological restoration.Key stakeholders contacted for comment included the secretariats of the Convention on Biological Diversity (CBD), United Nations Convention to Combat Desertification (UNCCD) including its Science-Policy Interface, Global Environment Facility, the World Bank, and members of the Global Partnership on Forest Landscape Restoration (GPFLR).In 2017, SER partnered with the IUCN Commission on Ecosystem Management to deliver an invited Forum on Biodiversity and Global Forest Restoration at which the SER Standards were reviewed (SER and IUCN-CEM 2018).SER also organized a symposium on the SER Standards and an open Knowledge Café at the 2017 SER World Conference on Ecological Restoration.Additional input was received at other events, including the 9 th Ecosystem Services Partnership World Conference in Shenzhen, China in 2017.To capture the perspectives of the SER community, SER invited online feedback via its website and sent an online survey to SER members, affiliates, and stakeholders.SER has also considered and responded to feedback from published critiques in its journal, Restoration Ecology.All comments received during the consultative review process were considered in the revision process.The second edition of the Standards was approved by the SER Science and Policy Committee, and the SER Board of Directors on 18 June 2019.As with the first edition, this version will be revised and improved as the discipline evolves through science, practice, and adaptive management.The Standards are compatible with and expand on the Open Standards for the Practice of Conservation (Conservation Measures Partnership 2013) and complement the REDD+ Social and Environmental Standards (REDD+ SES 2012), and other conservation standards and guidelines."
+ },
+ {
+  "title": "Blockchain technology in supply chain operations: Applications, challenges and research opportunities",
+  "year": 2020,
+  "doi": "10.1016/j.tre.2020.102067",
+  "venue": "Transportation Research Part E Logistics and Transportation Review",
+  "cited": 1948,
+  "authors": [
+   "Pankaj Dutta",
+   "Tsan‐Ming Choi",
+   "Surabhi Somani",
+   "Richa Butala"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Strategies for mitigation of climate change: a review",
+  "year": 2020,
+  "doi": "10.1007/s10311-020-01059-w",
+  "venue": "Environmental Chemistry Letters",
+  "cited": 1916,
+  "authors": [
+   "Samer Fawzy",
+   "Ahmed Ibrahim Osman",
+   "John Doran",
+   "David W. Rooney"
+  ],
+  "abstract": "Climate change is defined as the shift in climate patterns mainly caused by greenhouse gas emissions from natural systems and human activities. So far, anthropogenic activities have caused about 1.0 °C of global warming above the pre-industrial level and this is likely to reach 1.5 °C between 2030 and 2052 if the current emission rates persist. In 2018, the world encountered 315 cases of natural disasters which are mainly related to the climate. Approximately 68.5 million people were affected, and economic losses amounted to $131.7 billion, of which storms, floods, wildfires and droughts accounted for approximately 93%. Economic losses attributed to wildfires in 2018 alone are almost equal to the collective losses from wildfires incurred over the past decade, which is quite alarming. Furthermore, food, water, health, ecosystem, human habitat and infrastructure have been identified as the most vulnerable sectors under climate attack. In 2015, the Paris agreement was introduced with the main objective of limiting global temperature increase to 2 °C by 2100 and pursuing efforts to limit the increase to 1.5 °C. This article reviews the main strategies for climate change abatement, namely conventional mitigation, negative emissions and radiative forcing geoengineering. Conventional mitigation technologies focus on reducing fossil-based CO 2 emissions. Negative emissions technologies are aiming to capture and sequester atmospheric carbon to reduce carbon dioxide levels. Finally, geoengineering techniques of radiative forcing alter the earth’s radiative energy budget to stabilize or reduce global temperatures. It is evident that conventional mitigation efforts alone are not sufficient to meet the targets stipulated by the Paris agreement; therefore, the utilization of alternative routes appears inevitable. While various technologies presented may still be at an early stage of development, biogenic-based sequestration techniques are to a certain extent mature and can be deployed immediately."
+ },
+ {
+  "title": "Principles for a sustainable circular economy",
+  "year": 2021,
+  "doi": "10.1016/j.spc.2021.02.018",
+  "venue": "Sustainable Production and Consumption",
+  "cited": 1899,
+  "authors": [
+   "Anne P.M. Velenturf",
+   "Phil Purnell"
+  ],
+  "abstract": "The pressure that the human species exerts on the natural environment through the extraction of materials and generation of wastes is widely recognised. Circular economy has emerged as a potential solution to make better use of resources. Positioned as a technology-focused concept that can generate economic gains while alleviating pressure on the environment, circular economy enjoys a positive reception by organisations in public, private and civic sectors and, increasingly, academia alike. However, concerns have been raised regarding some purported circular economy practices being promoted as ‘sustainable’ yet resulting in detrimental impacts on environment and society. We briefly revisit the systems ecology literature that construed the context for both circular economy and sustainable development. Values and principles in core sustainable development literature are analysed to offer a foundation against which circular economy can be discussed. We then analyse and critically reflect upon the strengths, shortcomings and theoretical flaws within the values and principles that emerged from the evolving circular economy literature. We propose a value framework and set of ten principles for the design, implementation and evaluation of a sustainable circular economy. We finish with a call for action for both practitioners and a research agenda for academia."
+ },
+ {
+  "title": "Negative emissions—Part 2: Costs, potentials and side effects",
+  "year": 2018,
+  "doi": "10.1088/1748-9326/aabf9f",
+  "venue": "Environmental Research Letters",
+  "cited": 1853,
+  "authors": [
+   "Sabine Fuss",
+   "William F. Lamb",
+   "Max Callaghan",
+   "Jérôme Hilaire",
+   "Felix Creutzig",
+   "Thorben Amann"
+  ],
+  "abstract": "The most recent IPCC assessment has shown an important role for negative emissions technologies (NETs) in limiting global warming to 2 °C cost-effectively. However, a bottom-up, systematic, reproducible, and transparent literature assessment of the different options to remove CO 2 from the atmosphere is currently missing. In part 1 of this three-part review on NETs, we assemble a comprehensive set of the relevant literature so far published, focusing on seven technologies: bioenergy with carbon capture and storage (BECCS), afforestation and reforestation, direct air carbon capture and storage (DACCS), enhanced weathering, ocean fertilisation, biochar, and soil carbon sequestration. In this part, part 2 of the review, we present estimates of costs, potentials, and side-effects for these technologies, and qualify them with the authors' assessment. Part 3 reviews the innovation and scaling challenges that must be addressed to realise NETs deployment as a viable climate mitigation strategy. Based on a systematic review of the literature, our best estimates for sustainable global NET potentials in 2050 are 0.5–3.6 GtCO 2 yr −1 for afforestation and reforestation, 0.5–5 GtCO 2 yr −1 for BECCS, 0.5–2 GtCO 2 yr −1 for biochar, 2–4 GtCO 2 yr −1 for enhanced weathering, 0.5–5 GtCO 2 yr −1 for DACCS, and up to 5 GtCO 2 yr −1 for soil carbon sequestration. Costs vary widely across the technologies, as do their permanency and cumulative potentials beyond 2050. It is unlikely that a single NET will be able to sustainably meet the rates of carbon uptake described in integrated assessment pathways consistent with 1.5 °C of global warming."
+ },
+ {
+  "title": "All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda",
+  "year": 2024,
+  "doi": "10.1561/1100000095",
+  "venue": "Foundations and Trends® in Human–Computer Interaction",
+  "cited": 1811,
+  "authors": [
+   "Lik‐Hang Lee",
+   "Tristan Braud",
+   "Pengyuan Zhou",
+   "Lin Wang",
+   "Dianlei Xu",
+   "Zijun Lin"
+  ],
+  "abstract": "Since the popularisation of the Internet in the 1990s, the cyberspace has kept evolving. We have created various computer-mediated virtual environments, including social networks, video conferencing, virtual 3D worlds (e.g., VR Chat), augmented reality applications (e.g., Pokémon Go), and Non-Fungible Token Games (e.g., Upland). Such virtual environments, albeit non-perpetual and unconnected, have brought us various degrees of digital transformation. The term “metaverse” has been coined to facilitate further digital transformation in every aspect of our physical lives. At the core of the metaverse stands the vision of an immersive Internet as a gigantic, unified, persistent, and shared realm. While the metaverse may seem futuristic, catalyzed by emerging technologies such as Extended Reality, 5G, and Artificial Intelligence, the digital “big bang” of our cyberspace is not far away. This survey presents the first effort to offer a comprehensive framework that examines the latest metaverse development under the dimensions of state-of-the-art technologies and metaverse ecosystems and illustrates the possibility of the digital “big bang”. It is essential to highlight that the metaverse encompasses diverse technologies and ecosystems, calling it an interdisciplinary and emerging field. Its primary objective is to provide users with satisfactory and interactive experiences. First, technologies are the enablers that drive the transition from the current Internet to the metaverse. We thus examine eight enabling technologies rigorously – Extended Reality, User Interactivity (Human-Computer Interaction), Artificial Intelligence, Blockchain, Computer Vision, IoT and Robotics, Edge and Cloud computing, and Future Mobile Networks. In terms of applications, the metaverse ecosystem allows human users to live and play within a self-sustaining, persistent, and shared realm. Therefore, we discuss six user-centric factors – Avatar, Content Creation, Virtual Economy, Social Acceptability, Security and Privacy, and Trust and Accountability. Finally, we propose a concrete research agenda for developing the metaverse."
+ },
+ {
+  "title": "Just transition: Integrating climate, energy and environmental justice",
+  "year": 2018,
+  "doi": "10.1016/j.enpol.2018.04.014",
+  "venue": "Energy Policy",
+  "cited": 1628,
+  "authors": [
+   "Darren McCauley",
+   "Raphael James Heffron"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Self-driving cars: A survey",
+  "year": 2020,
+  "doi": "10.1016/j.eswa.2020.113816",
+  "venue": "Expert Systems with Applications",
+  "cited": 1604,
+  "authors": [
+   "Claudine  Santos Badue",
+   "Rânik Guidolini",
+   "Raphael  Vivacqua Carneiro",
+   "Pedro Azevedo",
+   "Vinicius B. Cardoso",
+   "Avelino Forechi"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "A Transdisciplinary Review of Deep Learning Research and Its Relevance for Water Resources Scientists",
+  "year": 2018,
+  "doi": "10.1029/2018wr022643",
+  "venue": "Water Resources Research",
+  "cited": 1592,
+  "authors": [
+   "Chaopeng Shen"
+  ],
+  "abstract": "Deep learning (DL), a new generation of artificial neural network research, has transformed industries, daily lives, and various scientific disciplines in recent years. DL represents significant progress in the ability of neural networks to automatically engineer problem‐relevant features and capture highly complex data distributions. I argue that DL can help address several major new and old challenges facing research in water sciences such as interdisciplinarity, data discoverability, hydrologic scaling, equifinality, and needs for parameter regionalization. This review paper is intended to provide water resources scientists and hydrologists in particular with a simple technical overview, transdisciplinary progress update, and a source of inspiration about the relevance of DL to water. The review reveals that various physical and geoscientific disciplines have utilized DL to address data challenges, improve efficiency, and gain scientific insights. DL is especially suited for information extraction from image‐like data and sequential data. Techniques and experiences presented in other disciplines are of high relevance to water research. Meanwhile, less noticed is that DL may also serve as a scientific exploratory tool. A new area termed AI neuroscience , where scientists interpret the decision process of deep networks and derive insights, has been born. This budding subdiscipline has demonstrated methods including correlation‐based analysis, inversion of network‐extracted features, reduced‐order approximations by interpretable models, and attribution of network decisions to inputs. Moreover, DL can also use data to condition neurons that mimic problem‐specific fundamental organizing units, thus revealing emergent behaviors of these units. Vast opportunities exist for DL to propel advances in water sciences."
+ },
+ {
+  "title": "Sustainable Energy Transition for Renewable and Low Carbon Grid Electricity Generation and Supply",
+  "year": 2022,
+  "doi": "10.3389/fenrg.2021.743114",
+  "venue": "Frontiers in Energy Research",
+  "cited": 1576,
+  "authors": [
+   "Moses Jeremiah Barasa Kabeyi",
+   "Oludolapo Akanni Olanrewaju"
+  ],
+  "abstract": "The greatest sustainability challenge facing humanity today is the greenhouse gas emissions and the global climate change with fossil fuels led by coal, natural gas and oil contributing 61.3% of global electricity generation in the year 2020. The cumulative effect of the Stockholm, Rio, and Johannesburg conferences identified sustainable energy development (SED) as a very important factor in the sustainable global development. This study reviews energy transition strategies and proposes a roadmap for sustainable energy transition for sustainable electricity generation and supply in line with commitments of the Paris Agreement aimed at reducing greenhouse gas emissions and limiting the rise in global average temperature to 1.5°C above the preindustrial level. The sustainable transition strategies typically consist of three major technological changes namely, energy savings on the demand side, generation efficiency at production level and fossil fuel substitution by various renewable energy sources and low carbon nuclear. For the transition remain technically and economically feasible and beneficial, policy initiatives are necessary to steer the global electricity transition towards a sustainable energy and electricity system. Large-scale renewable energy adoption should include measures to improve efficiency of existing nonrenewable sources which still have an important cost reduction and stabilization role. A resilient grid with advanced energy storage for storage and absorption of variable renewables should also be part of the transition strategies. From this study, it was noted that whereas sustainable development has social, economic, and environmental pillars, energy sustainability is best analysed by five-dimensional approach consisting of environmental, economic, social, technical, and institutional/political sustainability to determine resource sustainability. The energy transition requires new technology for maximum use of the abundant but intermittent renewable sources a sustainable mix with limited nonrenewable sources optimized to minimize cost and environmental impact but maintained quality, stability, and flexibility of an electricity supply system. Technologies needed for the transition are those that use conventional mitigation, negative emissions technologies which capture and sequester carbon emissions and finally technologies which alter the global atmospheric radiative energy budget to stabilize and reduce global average temperature. A sustainable electricity system needs facilitating technology, policy, strategies and infrastructure like smart grids, and models with an appropriate mix of both renewable and low carbon energy sources."
+ },
+ {
+  "title": "A low energy demand scenario for meeting the 1.5 °C target and sustainable development goals without negative emission technologies",
+  "year": 2018,
+  "doi": "10.1038/s41560-018-0172-6",
+  "venue": "Nature Energy",
+  "cited": 1479,
+  "authors": [
+   "Arnulf Grübler",
+   "Charlie Wilson",
+   "Nuno Bento",
+   "Benigna Boza‐Kiss",
+   "Volker Krey",
+   "David L. McCollum"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Bending the Curve of Global Freshwater Biodiversity Loss: An Emergency Recovery Plan",
+  "year": 2020,
+  "doi": "10.1093/biosci/biaa002",
+  "venue": "BioScience",
+  "cited": 1478,
+  "authors": [
+   "David Tickner",
+   "Jeffrey J. Opperman",
+   "Robin Abell",
+   "Mike Acreman",
+   "Angela H. Arthington",
+   "Stuart Edward Bunn"
+  ],
+  "abstract": "Despite their limited spatial extent, freshwater ecosystems host remarkable biodiversity, including one-third of all vertebrate species. This biodiversity is declining dramatically: Globally, wetlands are vanishing three times faster than forests, and freshwater vertebrate populations have fallen more than twice as steeply as terrestrial or marine populations. Threats to freshwater biodiversity are well documented but coordinated action to reverse the decline is lacking. We present an Emergency Recovery Plan to bend the curve of freshwater biodiversity loss. Priority actions include accelerating implementation of environmental flows; improving water quality; protecting and restoring critical habitats; managing the exploitation of freshwater ecosystem resources, especially species and riverine aggregates; preventing and controlling nonnative species invasions; and safeguarding and restoring river connectivity. We recommend adjustments to targets and indicators for the Convention on Biological Diversity and the Sustainable Development Goals and roles for national and international state and nonstate actors."
+ },
+ {
+  "title": "Critiques of the circular economy",
+  "year": 2021,
+  "doi": "10.1111/jiec.13187",
+  "venue": "Journal of Industrial Ecology",
+  "cited": 1430,
+  "authors": [
+   "Hervé Corvellec",
+   "Alison F. Stowell",
+   "Nils Johansson"
+  ],
+  "abstract": "This paper presents a reasoned account of the critiques addressed to the circular economy and circular business models. These critiques claim that the circular economy has diffused limits, unclear theoretical grounds, and that its implementation faces structural obstacles. Circular economy is based on an ideological agenda dominated by technical and economic accounts, which brings uncertain contributions to sustainability and depoliticizes sustainable growth. Bringing together these critiques demonstrates that the circular economy is far from being as promising as its advocates claim it to be. Circularity emerges instead as a theoretically, practically, and ideologically questionable notion. The paper concludes by proposing critical issues that need to be addressed if the circular economy and its business models are to open routes for more sustainable economic development."
+ },
+ {
+  "title": "A critical review of comparative global historical energy consumption and future demand: The story told so far",
+  "year": 2020,
+  "doi": "10.1016/j.egyr.2020.07.020",
+  "venue": "Energy Reports",
+  "cited": 1316,
+  "authors": [
+   "Tanveer Ahmad",
+   "Dongdong Zhang"
+  ],
+  "abstract": "This review presents a critical combined energy analysis of demand in developed/developing countries, including the load requirements of the various business sectors. It summarizes on-demand time-series, energy supply, overall trade in gas, oil, electricity, coal, and renewable energy (e.g., wind, solar, geothermal, tidal, etc.) as well as global carbon dioxide (CO2) emissions. The duration of the review is selected between the energy supply and demand forecast from 1990 to 2040. Multi-energy approaches include primary energy generation, consumption, gross domestic product (GDP) energy intensity, the total trade balance of crude oil production, production of natural gas, trade balance and use of natural gas, production of lignite and coal, demand for trade in lignite and coal, generation and use of electricity, the share of renewables in power generation, total percentage of solar energy. Geographic coverage covered the global energy demand of the Organization for Economic Co-operation and Development (OECD), the group of seven (G7), Brazil, Russia, India, China, and South Africa (BRICS), European Union, Europe, North America, Commonwealth of Independent States (CIS), Asia, Latin America, Pacific, Middle-East and Africa. Market individuals and cooperative policymakers communicate in a variety of ways: our review and its impact on energy trade, social development, economic and climate change, which is then presented in a deeper way, in the future energy outlook. The findings of the review make it clear that there is a great deal of future global energy demand until 2040 in different situations: new aspects of policymaking, the requirement is about 15% lower in the 450-scenario, and 10% higher in the current energy policy scenario."
+ },
+ {
+  "title": "Sustainalism: An Integrated Socio-Economic-Environmental Model to Address Sustainable Development and Sustainability",
+  "year": 2023,
+  "doi": "10.3390/su151310682",
+  "venue": "Sustainability",
+  "cited": 1311,
+  "authors": [
+   "N. P. Hariram",
+   "K B Mekha",
+   "Vipinraj Suganthan",
+   "Kumarasamy Sudhakar"
+  ],
+  "abstract": "This paper delves into the multifaceted concept of sustainability, covering its evolution, laws, principles, as well as the different domains and challenges related to achieving it in the modern world. Although capitalism, socialism, and communism have been utilized throughout history, their strengths and drawbacks have failed to address sustainable development comprehensively. Therefore, a holistic approach is necessary, which forms the basis for a new development model called sustainalism. This study proposes a new socio-economic theory of sustainalism that prioritizes quality of life, social equity, culture, world peace, social justice, and well-being. This paper outlines the six principles of sustainalism and identifies sustainalists as individuals who embrace these new concepts. This study also explores how to attain sustainalism in the modern world through a sustainable revolution, representing a step toward a sustainable era. In conclusion, this paper summarizes the key points and emphasizes the need for a new approach to sustainalism in the broader sense. The insights provided are valuable for further research on sustainalism and sustainability."
+ },
+ {
+  "title": "Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation",
+  "year": 2023,
+  "doi": "10.1016/j.inffus.2023.101896",
+  "venue": "Information Fusion",
+  "cited": 1278,
+  "authors": [
+   "Natalia Díaz-Rodríguez",
+   "Javier Del Ser",
+   "Mark Coeckelbergh",
+   "Marcos López de Prado",
+   "Enrique Herrera‐Viedma",
+   "Francisco Herrera"
+  ],
+  "abstract": "Trustworthy Artificial Intelligence (AI) is based on seven technical requirements sustained over three main pillars that should be met throughout the system’s entire life cycle: it should be (1) lawful, (2) ethical, and (3) robust, both from a technical and a social perspective. However, attaining truly trustworthy AI concerns a wider vision that comprises the trustworthiness of all processes and actors that are part of the system’s life cycle, and considers previous aspects from different lenses. A more holistic vision contemplates four essential axes: the global principles for ethical use and development of AI-based systems, a philosophical take on AI ethics, a risk-based approach to AI regulation, and the mentioned pillars and requirements. The seven requirements (human agency and oversight; robustness and safety; privacy and data governance; transparency; diversity, non-discrimination and fairness; societal and environmental wellbeing; and accountability) are analyzed from a triple perspective: What each requirement for trustworthy AI is, Why it is needed, and How each requirement can be implemented in practice. On the other hand, a practical approach to implement trustworthy AI systems allows defining the concept of responsibility of AI-based systems facing the law, through a given auditing process. Therefore, a responsible AI system is the resulting notion we introduce in this work, and a concept of utmost necessity that can be realized through auditing processes, subject to the challenges posed by the use of regulatory sandboxes. Our multidisciplinary vision of trustworthy AI culminates in a debate on the diverging views published lately about the future of AI. Our reflections in this matter conclude that regulation is a key for reaching a consensus among these views, and that trustworthy and responsible AI systems will be crucial for the present and future of our society."
+ },
+ {
+  "title": "Hydrogen production, storage, utilisation and environmental impacts: a review",
+  "year": 2021,
+  "doi": "10.1007/s10311-021-01322-8",
+  "venue": "Environmental Chemistry Letters",
+  "cited": 1276,
+  "authors": [
+   "Ahmed Ibrahim Osman",
+   "Neha Mehta",
+   "Ahmed M. Elgarahy",
+   "Mahmoud Hefny",
+   "Amer Al‐Hinai",
+   "Ala'a Hamed Al-Muhtaseb"
+  ],
+  "abstract": "Dihydrogen (H 2 ), commonly named ‘hydrogen’, is increasingly recognised as a clean and reliable energy vector for decarbonisation and defossilisation by various sectors. The global hydrogen demand is projected to increase from 70 million tonnes in 2019 to 120 million tonnes by 2024. Hydrogen development should also meet the seventh goal of ‘affordable and clean energy’ of the United Nations. Here we review hydrogen production and life cycle analysis, hydrogen geological storage and hydrogen utilisation. Hydrogen is produced by water electrolysis, steam methane reforming, methane pyrolysis and coal gasification. We compare the environmental impact of hydrogen production routes by life cycle analysis. Hydrogen is used in power systems, transportation, hydrocarbon and ammonia production, and metallugical industries. Overall, combining electrolysis-generated hydrogen with hydrogen storage in underground porous media such as geological reservoirs and salt caverns is well suited for shifting excess off-peak energy to meet dispatchable on-peak demand."
+ },
+ {
+  "title": "Impact of tourism development upon environmental sustainability: a suggested framework for sustainable ecotourism",
+  "year": 2022,
+  "doi": "10.1007/s11356-022-22496-w",
+  "venue": "Environmental Science and Pollution Research",
+  "cited": 1248,
+  "authors": [
+   "Qadar Bakhsh Baloch",
+   "Syed Naseeb Shah",
+   "Nadeem Iqbal",
+   "Muhammad Sheeraz",
+   "Muhammad Asadullah",
+   "Sourath Mahar"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Governing artificial intelligence: ethical, legal and technical opportunities and challenges",
+  "year": 2018,
+  "doi": "10.1098/rsta.2018.0080",
+  "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+  "cited": 1240,
+  "authors": [
+   "Corinne Cath"
+  ],
+  "abstract": "This paper is the introduction to the special issue entitled: 'Governing artificial intelligence: ethical, legal and technical opportunities and challenges'. Artificial intelligence (AI) increasingly permeates every aspect of our society, from the critical, like urban infrastructure, law enforcement, banking, healthcare and humanitarian aid, to the mundane like dating. AI, including embodied AI in robotics and techniques like machine learning, can improve economic, social welfare and the exercise of human rights. Owing to the proliferation of AI in high-risk areas, the pressure is mounting to design and govern AI to be accountable, fair and transparent. How can this be achieved and through which frameworks? This is one of the central questions addressed in this special issue, in which eight authors present in-depth analyses of the ethical, legal-regulatory and technical challenges posed by developing governance regimes for AI systems. It also gives a brief overview of recent developments in AI governance, how much of the agenda for defining AI regulation, ethical frameworks and technical approaches is set, as well as providing some concrete suggestions to further the debate on AI governance.This article is part of the theme issue 'Governing artificial intelligence: ethical, legal, and technical opportunities and challenges'."
+ },
+ {
+  "title": "Adaptation interventions and their effect on vulnerability in developing countries: Help, hindrance or irrelevance?",
+  "year": 2021,
+  "doi": "10.1016/j.worlddev.2020.105383",
+  "venue": "World Development",
+  "cited": 1223,
+  "authors": [
+   "Siri Eriksen",
+   "E. Lisa F. Schipper",
+   "Morgan Scoville-Simonds",
+   "Katharine Vincent",
+   "Hans Nicolai Adam",
+   "Nick Brooks"
+  ],
+  "abstract": "This paper critically reviews the outcomes of internationally-funded interventions aimed at climate change adaptation and vulnerability reduction. It highlights how some interventions inadvertently reinforce, redistribute or create new sources of vulnerability. Four mechanisms drive these maladaptive outcomes: (i) shallow understanding of the vulnerability context; (ii) inequitable stakeholder participation in both design and implementation; (iii) a retrofitting of adaptation into existing development agendas; and (iv) a lack of critical engagement with how ‘adaptation success’ is defined. Emerging literature shows potential avenues for overcoming the current failure of adaptation interventions to reduce vulnerability: first, shifting the terms of engagement between adaptation practitioners and the local populations participating in adaptation interventions; and second, expanding the understanding of ‘local’ vulnerability to encompass global contexts and drivers of vulnerability. An important lesson from past adaptation interventions is that within current adaptation cum development paradigms, inequitable terms of engagement with ‘vulnerable’ populations are reproduced and the multi-scalar processes driving vulnerability remain largely ignored. In particular, instead of designing projects to change the practices of marginalised populations, learning processes within organisations and with marginalised populations must be placed at the centre of adaptation objectives. We pose the question of whether scholarship and practice need to take a post-adaptation turn akin to post-development, by seeking a pluralism of ideas about adaptation while critically interrogating how these ideas form part of the politics of adaptation and potentially the processes (re)producing vulnerability. We caution that unless the politics of framing and of scale are explicitly tackled, transformational interventions risk having even more adverse effects on marginalised populations than current adaptation."
+ },
+ {
+  "title": "Social tipping dynamics for stabilizing Earth’s climate by 2050",
+  "year": 2020,
+  "doi": "10.1073/pnas.1900577117",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "cited": 1215,
+  "authors": [
+   "Ilona M. Otto",
+   "Jonathan F. Donges",
+   "Roger Cremades",
+   "Avit Kumar Bhowmik",
+   "Richard J. Hewitt",
+   "Wolfgang Lucht"
+  ],
+  "abstract": "Safely achieving the goals of the Paris Climate Agreement requires a worldwide transformation to carbon-neutral societies within the next 30 y. Accelerated technological progress and policy implementations are required to deliver emissions reductions at rates sufficiently fast to avoid crossing dangerous tipping points in the Earth's climate system. Here, we discuss and evaluate the potential of social tipping interventions (STIs) that can activate contagious processes of rapidly spreading technologies, behaviors, social norms, and structural reorganization within their functional domains that we refer to as social tipping elements (STEs). STEs are subdomains of the planetary socioeconomic system where the required disruptive change may take place and lead to a sufficiently fast reduction in anthropogenic greenhouse gas emissions. The results are based on online expert elicitation, a subsequent expert workshop, and a literature review. The STIs that could trigger the tipping of STE subsystems include 1) removing fossil-fuel subsidies and incentivizing decentralized energy generation (STE1, energy production and storage systems), 2) building carbon-neutral cities (STE2, human settlements), 3) divesting from assets linked to fossil fuels (STE3, financial markets), 4) revealing the moral implications of fossil fuels (STE4, norms and value systems), 5) strengthening climate education and engagement (STE5, education system), and 6) disclosing information on greenhouse gas emissions (STE6, information feedbacks). Our research reveals important areas of focus for larger-scale empirical and modeling efforts to better understand the potentials of harnessing social tipping dynamics for climate change mitigation."
+ },
+ {
+  "title": "Sustainable Development Goals and sustainability teaching at universities: Falling behind or getting ahead of the pack?",
+  "year": 2019,
+  "doi": "10.1016/j.jclepro.2019.05.309",
+  "venue": "Journal of Cleaner Production",
+  "cited": 1206,
+  "authors": [
+   "Walter Leal Filho",
+   "Chris Shiel",
+   "Arminda Paço",
+   "Mark Mifsud",
+   "Lucas Veiga Ávila",
+   "Luciana Brandli"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Understanding the potential applications of Artificial Intelligence in Agriculture Sector",
+  "year": 2022,
+  "doi": "10.1016/j.aac.2022.10.001",
+  "venue": "Advanced Agrochem",
+  "cited": 1183,
+  "authors": [
+   "Mohd Javaid",
+   "Abid Haleem",
+   "Ibrahim Haleem Khan",
+   "Rajiv Suman"
+  ],
+  "abstract": "Artificial Intelligence (AI) has been extensively applied in farming recently. To cultivate healthier crops, manage pests, monitor soil and growing conditions, analyse data for farmers, and enhance other management activities of the food supply chain, the agriculture sector is turning to AI technology. It makes it challenging for farmers to choose the ideal time to plant seeds. AI helps farmers choose the optimum seed for a particular weather scenario. It also offers data on weather forecasts. AI-powered solutions will help farmers produce more with fewer resources, increase crop quality, and hasten product time to reach the market. AI aids in understanding soil qualities. AI helps farmers by suggesting the nutrients they should apply to increase the quality of the soil. AI can help farmers choose the optimal time to plant their seeds. Intelligent equipment can calculate the spacing between seeds and the maximum planting depth. An AI-powered system known as a health monitoring system provides farmers with information on the health of their crops and the nutrients that need to be given to enhance yield quality and quantity. This study identifies and analyses relevant articles on AI for Agriculture. Using AI, farmers can now access advanced data and analytics tools that will foster better farming, improve efficiencies, and reduce waste in biofuel and food production while minimising the negative environmental impacts. AI and Machine Learning (ML) have transformed various industries, and the AI wave has now reached the agriculture sector. Companies are developing several technologies to make monitoring farmers' crop and soil health easier. Hyperspectral imaging and 3D laser scanning are the leading AI-based technologies that can help ensure crop health. These AI-powered technologies collect precise data on the health of the crops in greater volume for analysis. This paper studied AI and its need in Agriculture. The process of AI in Agriculture and some Agriculture parameters monitored by AI are briefed. Finally, we identified and discussed the significant applications of AI in agriculture."
+ },
+ {
+  "title": "The role of Indigenous peoples and local communities in effective and equitable conservation",
+  "year": 2021,
+  "doi": "10.5751/es-12625-260319",
+  "venue": "Ecology and Society",
+  "cited": 1182,
+  "authors": [
+   "Neil M. Dawson",
+   "Brendan Coolsaet",
+   "Eleanor Jane Sterling",
+   "Robin Loveridge",
+   "Nicole D. Gross‐Camp",
+   "Supin Wongbusarakum"
+  ],
+  "abstract": "Dawson, N. M., B. Coolsaet, E. J. Sterling, R. Loveridge, N. D. Gross-Camp, S. Wongbusarakum, K. K. Sangha, L. M. Scherl, H. Phuong Phan, N. Zafra-Calvo, W. G. Lavey, P. Byakagaba, C. J. Idrobo, A. Chenet, N. J. Bennett, S. Mansourian, and F. J. Rosado-May. 2021. The role of Indigenous peoples and local communities in effective and equitable conservation. Ecology and Society 26(3):19. https://doi.org/10.5751/ES-12625-260319"
+ },
+ {
+  "title": "Renewable energy for sustainable development in India: current status, future prospects, challenges, employment, and investment opportunities",
+  "year": 2020,
+  "doi": "10.1186/s13705-019-0232-1",
+  "venue": "Energy Sustainability and Society",
+  "cited": 1176,
+  "authors": [
+   "Charles Rajesh Kumar. J",
+   "M. A. Majid"
+  ],
+  "abstract": "The primary objective for deploying renewable energy in India is to advance economic development, improve energy security, improve access to energy, and mitigate climate change. Sustainable development is possible by use of sustainable energy and by ensuring access to affordable, reliable, sustainable, and modern energy for citizens. Strong government support and the increasingly opportune economic situation have pushed India to be one of the top leaders in the world’s most attractive renewable energy markets. The government has designed policies, programs, and a liberal environment to attract foreign investments to ramp up the country in the renewable energy market at a rapid rate. It is anticipated that the renewable energy sector can create a large number of domestic jobs over the following years. This paper aims to present significant achievements, prospects, projections, generation of electricity, as well as challenges and investment and employment opportunities due to the development of renewable energy in India. In this review, we have identified the various obstacles faced by the renewable sector. The recommendations based on the review outcomes will provide useful information for policymakers, innovators, project developers, investors, industries, associated stakeholders and departments, researchers, and scientists."
+ },
+ {
+  "title": "Peer-to-peer and community-based markets: A comprehensive review",
+  "year": 2019,
+  "doi": "10.1016/j.rser.2019.01.036",
+  "venue": "Renewable and Sustainable Energy Reviews",
+  "cited": 1159,
+  "authors": [
+   "Tiago M. Sousa",
+   "Tiago André Soares",
+   "Pierre Pinson",
+   "Fabio Moret",
+   "Thomas Baroche",
+   "Etienne Sorin"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Low-cost renewable electricity as the key driver of the global energy transition towards sustainability",
+  "year": 2021,
+  "doi": "10.1016/j.energy.2021.120467",
+  "venue": "Energy",
+  "cited": 1138,
+  "authors": [
+   "Dmitrii Bogdanov",
+   "Manish Ram",
+   "Arman Aghahosseini",
+   "Ashish Gulagi",
+   "Ayobami Solomon Oyewo",
+   "Michael Child"
+  ],
+  "abstract": "Climate change threats and the necessity to achieve global Sustainable Development Goals demand unprecedented economic and social shifts around the world, including a fundamental transformation of the global energy system. An energy transition is underway in most regions, predominantly in the power sector. This research highlights the technical feasibility and economic viability of 100% renewable energy systems including the power, heat, transport and desalination sectors. It presents a technology-rich, multi-sectoral, multi-regional and cost-optimal global energy transition pathway for 145 regional energy systems sectionalised into nine major regions of the world. This 1.5 °C target compatible scenario with rapid direct and indirect electrification via Power-to-X processes and massive defossilisation indicates substantial benefits: 50% energy savings, universal access to fresh water and low-cost energy supply. It also provides an energy transition pathway that could lead from the current fossil-based system to an affordable, efficient, sustainable and secure energy future for the world."
+ },
+ {
+  "title": "The 2018 report of the Lancet Countdown on health and climate change: shaping the health of nations for centuries to come",
+  "year": 2018,
+  "doi": "10.1016/s0140-6736(18)32594-7",
+  "venue": "The Lancet",
+  "cited": 1138,
+  "authors": [
+   "Nick Watts",
+   "Markus Christian Amann",
+   "Nigel W. Arnell",
+   "Sonja Ayeb‐Karlsson",
+   "Kristine Belesova",
+   "Helen Louise Berry"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies",
+  "year": 2020,
+  "doi": "10.1016/j.resconrec.2020.105169",
+  "venue": "Resources Conservation and Recycling",
+  "cited": 1135,
+  "authors": [
+   "T. Ibn-Mohammed",
+   "Khameel Bayo Mustapha",
+   "Janet Godsell",
+   "Zulfikar Aliyu Adamu",
+   "Kazeem Alasinrin Babatunde",
+   "Damilare D. Akintade"
+  ],
+  "abstract": ""
+ }
+]

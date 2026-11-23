@@ -1,0 +1,513 @@
+[
+ {
+  "title": "Where's the Greenium?",
+  "year": 2019,
+  "doi": "10.1016/j.jacceco.2020.101312",
+  "venue": "Journal of Accounting and Economics",
+  "cited": 789,
+  "authors": [
+   "David F. Larcker",
+   "Edward M. Watts"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Presidential Address: Sustainable Finance and ESG Issues— Value versus Values",
+  "year": 2023,
+  "doi": "10.1111/jofi.13255",
+  "venue": "The Journal of Finance",
+  "cited": 623,
+  "authors": [
+   "Laura T. Starks"
+  ],
+  "abstract": "In this address, I discuss differences across investor and manager motivations for considering sustainable finance— value versus values motivations—and how these differences contribute to misunderstandings about environmental, social, and governance investment approaches. The finance research community has the ability and responsibility to help clear up these misunderstandings through additional research, which I suggest."
+ },
+ {
+  "title": "The pricing of green bonds: Are financial institutions special?",
+  "year": 2021,
+  "doi": "10.1016/j.jfs.2021.100873",
+  "venue": "Journal of Financial Stability",
+  "cited": 578,
+  "authors": [
+   "Serena Fatica",
+   "Roberto Panzica",
+   "Michela Rancan"
+  ],
+  "abstract": "The financial system plays a major role in the transition to a low-carbon economy. We shed light on this analyzing recent developments in the bond and debt markets. First, we study the pricing of green bonds at issuance. We find a premium for green bonds issued by supranational institutions and corporates but no yield differences in case of issuances by financial institutions. We also document an effect for external review and repeated access to the green bond market. Second, we show that banks that issue green bonds reduce lending towards carbon-intensive sectors, but limited to the loan amounts granted in the role of lead bank in the deal. This mixed evidence about lending suggests that, at the time of issuance, investors may not be able to identify a clear link between the green bond issued by a financial institution and a specific green investment project, which would explain the absence of a green premium for financial issuers."
+ },
+ {
+  "title": "Blind to carbon risk? An analysis of stock market reaction to the Paris Agreement",
+  "year": 2020,
+  "doi": "10.1016/j.ecolecon.2019.106571",
+  "venue": "Ecological Economics",
+  "cited": 438,
+  "authors": [
+   "Irene Monasterolo",
+   "Luca De Angelis"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "What Future for the Green Bond Market? How Can Policymakers, Companies, and Investors Unlock the Potential of the Green Bond Market?",
+  "year": 2020,
+  "doi": "10.3390/jrfm13030061",
+  "venue": "Journal of risk and financial management",
+  "cited": 402,
+  "authors": [
+   "Pauline Deschryver",
+   "Frédéric de Mariz"
+  ],
+  "abstract": "The green bond market is attracting new issuers and a more diversified base of investors. However, the size of the green bond market remains small compared to the challenges it is meant to address and to the overall traditional bond market. This paper is based on a unique methodology combining an extensive literature review, market data analysis, and interviews with a large spectrum of green bond market participants. We identify the current barriers explaining the lack of scalability of the green bond market: a deficit of harmonized global standards; risks of greenwashing; the perception of higher costs for issuers; the lack of supply of green bonds for investors; and the overall infancy of the market. This paper makes several recommendations to overcome these obstacles and unlock the full potential of green bonds to finance sustainability goals."
+ },
+ {
+  "title": "Climate‐related risks in financial assets",
+  "year": 2022,
+  "doi": "10.1111/joes.12525",
+  "venue": "Journal of Economic Surveys",
+  "cited": 400,
+  "authors": [
+   "Emanuele Campiglio",
+   "Louis Daumas",
+   "Pierre Monnin",
+   "Adrian von Jagow"
+  ],
+  "abstract": "The financial risks and potential systemic impacts induced by climate change and the transition to a low‐carbon economy have become a central issue for both financial investors and their regulators. In this article, we develop a critical review of the empirical and theoretical literature concerning the impact of climate‐related risks on the price of financial assets. We first present the theoretical links between asset pricing and climate‐related risks and develop a theory of how climate risk drivers transmit costs to firms and lead to asset price changes. We then discuss studies looking at past climate‐related events, which show that both climate physical impacts and transition dynamics can trigger a revaluation of financial assets through multiple direct and indirect channels. Finally, we review the emerging literature that uses forward‐looking methodologies to estimate future climate‐related asset price changes, which suggests that climate financial risks can indeed have significant implications on financial stability."
+ },
+ {
+  "title": "What Do We Mean by Sustainable Finance? Assessing Existing Frameworks and Policy Risks",
+  "year": 2021,
+  "doi": "10.3390/su13020975",
+  "venue": "Sustainability",
+  "cited": 349,
+  "authors": [
+   "Marco Migliorelli"
+  ],
+  "abstract": "I observe that the sustainable finance landscape as it stands today is featured by an overabundance of heterogeneous concepts, definitions, industry and policy standards. I argue that such heterogeneity may hinder the smooth development of the conceptual thinking underpinning sustainable finance and originates specific risks that may harm the credibility of the nascent market. These risks include green and sustainable washing, the rebranding of financial flows without additionality, the disordered adjustment in the cost of capital spreads between industries. I argue that to reflect the actual industry and policy context as wells as to steer conceptual and applied practice sustainable finance should be today referred to as “finance for sustainability”. To this extent, both its definition and implementing standards should make clear reference to the relevant sustainability dimensions (in particular in line with the Sustainable Development Goals and the Paris Agreement) and to the sectors or activities that positively contribute to these dimensions."
+ },
+ {
+  "title": "Why do institutional investors buy green bonds: Evidence from a survey of European asset managers",
+  "year": 2021,
+  "doi": "10.1016/j.irfa.2021.101738",
+  "venue": "International Review of Financial Analysis",
+  "cited": 339,
+  "authors": [
+   "Ivan Sangiorgi",
+   "Lisa Schopohl"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "A review on ESG investing: Investors’ expectations, beliefs and perceptions",
+  "year": 2023,
+  "doi": "10.1111/joes.12599",
+  "venue": "Journal of Economic Surveys",
+  "cited": 280,
+  "authors": [
+   "Roman Kräussl",
+   "Tobi Oladiran",
+   "Denitsa Stefanova"
+  ],
+  "abstract": "This study examines the recent literature on the expectations, beliefs and perceptions of investors who incorporate Environmental, Social, Governance (ESG) considerations in investment decisions with the aim to generate superior performance or make a societal impact. Through the lens of equilibrium models of agents with heterogeneous tastes for ESG investments, green assets are expected to generate lower returns in the long run compared to their non‐ESG counterparts. However, in the short run, ESG investments can outperform non‐ESG investments through various channels. Empirically, results for the relative performance to ESG investment are mixed. We find strong empirical evidence in the literature that investors have a preference for ESG and that their actions can generate positive social impact through engagement. The shift towards more sustainable policies in firms is motivated by the increased market values and the lower cost of capital of green firms driven by investors’ choices."
+ },
+ {
+  "title": "Drivers of green bond issuance and new evidence on the “greenium”",
+  "year": 2021,
+  "doi": "10.1007/s40822-020-00165-y",
+  "venue": "Eurasian economic review :",
+  "cited": 234,
+  "authors": [
+   "Kristin Ulrike Löffler",
+   "Aleksandar Petreski",
+   "Andreas Stephan"
+  ],
+  "abstract": "This paper examines whether a premium for green bonds, called “greenium”, found in previous studies, exists in primary and secondary bond markets. Using a universe of about 2000 green and 180,000 non-green bonds from 650 international issuers, we apply both propensity score matching and coarsened exact matching to determine a sample of conventional bonds that is most similar to the sample of green bonds. We find that green bonds have larger issue sizes and lower rated issuers, on average, compared to conventional bonds. The estimates show that the yield for green bonds is, on average, 15–20 basis points lower than that of conventional bonds, both on primary and secondary markets, thus a “greenium” exists."
+ },
+ {
+  "title": "Is Carbon Risk Priced in the Cross Section of Corporate Bond Returns?",
+  "year": 2020,
+  "doi": "10.1017/s0022109023000832",
+  "venue": "Journal of Financial and Quantitative Analysis",
+  "cited": 226,
+  "authors": [
+   "Tinghua Duan",
+   "Frank Weikai Li",
+   "Quan Wen"
+  ],
+  "abstract": "This article examines the pricing of a firm’s carbon risk in the corporate bond market. Contrary to the “carbon risk premium” hypothesis, bonds of more carbon-intensive firms earn significantly lower returns. This effect cannot be explained by a comprehensive list of bond characteristics and exposure to known risk factors. Investigating sources of the low carbon alpha, we find the underperformance of bonds issued by carbon-intensive firms cannot be fully explained by divestment from institutional investors. Instead, our evidence is most consistent with investor underreaction to the predictability of carbon intensity for firm cash-flow news, creditworthiness, and environmental incidents."
+ },
+ {
+  "title": "The pricing of green bonds: external reviews and the shades of green",
+  "year": 2021,
+  "doi": "10.1007/s11846-021-00458-9",
+  "venue": "Review of Managerial Science",
+  "cited": 217,
+  "authors": [
+   "Gregor Dorfleitner",
+   "Sebastian Utz",
+   "Rongxin Zhang"
+  ],
+  "abstract": "We investigate the asset pricing implications of the greenness of bonds. To estimate a green-pricing effect, we determine the ‘green bond premium’ as the difference between the yields of matched conventional and green-labeled bonds. On a cross-sectional average, green bonds experience a statistically significant positive premium. This premium increases with external greenness evaluations, i.e., investors accept premiums of up to 5 basis points for bonds with a substantial environmental agenda. This external validation effect, which is strongest for bonds that are rated dark-green, may offset not incurring information costs, as this effect decreases with increasing age of bonds."
+ },
+ {
+  "title": "The Role of Disclosure in Green Finance",
+  "year": 2021,
+  "doi": "10.1093/jfr/fjac001",
+  "venue": "Journal of Financial Regulation",
+  "cited": 215,
+  "authors": [
+   "Sebastian Steuer",
+   "Tobias Hans Tröger"
+  ],
+  "abstract": "In this article, we study the design features of disclosure regulations that seek to trigger the green transition of the global economy and ask whether such interventions are likely to bring about sufficient market discipline to achieve socially optimal climate targets. Transparency obligations stipulated in green finance regulation can be categorized as either compelling the standardized disclosure of raw data, or providing quality labels that signal desirable green characteristics of investment products based on a uniform methodology. Both categories of transparency requirements can be imposed at activity, issuer, and portfolio level. Finance theory and empirical evidence suggest that investors may prefer ‘green’ over ‘dirty’ assets for both financial and non-financial reasons and may thus demand higher returns from environmentally harmful investment opportunities. Investor-led market discipline can benefit from mandatory transparency requirements and their rigid (public) enforcement, because these requirements prevent an underproduction of standardized high-quality information. However, many forces and frictions may also steer market outcomes away from socially optimal equilibria aligned with climate targets. Disclosure-centred green finance legislation is a second best to more direct forms of regulatory intervention (eg global emissions trading), but can play a supporting role in the sustainable transition, especially while first-best solutions remain politically unavailable."
+ },
+ {
+  "title": "Climate transition risk, profitability and stock prices",
+  "year": 2022,
+  "doi": "10.1016/j.irfa.2022.102271",
+  "venue": "International Review of Financial Analysis",
+  "cited": 196,
+  "authors": [
+   "Juan C. Reboredo",
+   "Andrea Ugolini"
+  ],
+  "abstract": "We investigate whether climate transition risk is reflected in the financial performance and cross-section pricing of publicly-traded European and US firms. Using a firm-level carbon risk score (CRS) that assesses the vulnerability of a firm's value to transition to a low-carbon economy, we find that firms with the lowest transition risk exposures perform better financially, and that European firms are more sensitive to transition risks than US firms. We also find that stocks with low exposure to transition risk offer greater returns to investors, consistent with the fact that stock prices of firms do not adequately reflect underlying climate transition risk. Relative financial performance of less vulnerable firms and underreaction effects to transition risk decreased after COP21."
+ },
+ {
+  "title": "Corporate Green Bond Issuances: An International Evidence",
+  "year": 2020,
+  "doi": "10.3390/jrfm13020025",
+  "venue": "Journal of risk and financial management",
+  "cited": 188,
+  "authors": [
+   "Martin Lebelle",
+   "Souad Lajili Jarjir",
+   "Syrine Sassi"
+  ],
+  "abstract": "Using an international sample of corporate Green bond issuances over the recent period, this paper highlights the potential consequences of the issuance of a Green bond on the issuer’s financial performance. Starting with a first sample of 2079 Green bond issuances of 190 unique issuers from 2009 to 2018, we investigate only corporate green bond issuances. Our final sample contains 475 green bonds issued by 145 unique firms. We find that the market reacts negatively to the announcement of green bond issuances. In particular, results show that the stock market reacts on the day of the green bond announcement date and the day after, and that the cumulative abnormal return is between −0.5% and −0.2%, depending on the asset pricing model (CAPM, the 3-factor Fama and French models, and the 4-factor Carhart models). This effect is mainly noticeable at the first Green Bond issuance and in developed markets. Our results provide evidence that the investors react in the same manner for Green bonds as for conventional or convertible bonds. This evidence suggests that green debt offerings convey unfavorable information about the issuing firms."
+ },
+ {
+  "title": "Getting soaked? Climate crisis, adaptation finance, and racialized austerity",
+  "year": 2019,
+  "doi": "10.1177/2514848619876539",
+  "venue": "Environment and Planning E Nature and Space",
+  "cited": 179,
+  "authors": [
+   "Patrick Bigger",
+   "Nate Millington"
+  ],
+  "abstract": "As the effects of austerity continue to ravage cities and the impacts of climate change become more pronounced, municipal officials around the world are struggling to pay for climate adaptation. Some cities have already begun to anticipate the new infrastructures that climate change will require, while others have been forced to adapt in real time as climate crises have arrived in spectacular ways. Two of the most emblematic events are Superstorm Sandy, which drenched New York City in October 2012, and the drought-induced crisis of water scarcity in Cape Town, South Africa, which was most visible between 2016 and 2018. In both cases, the cities turned to green bonds, a form of municipal finance that foregrounds environmental ambitions. In this paper, we track the forms of adaptation projects that green borrowing are earmarked to fund. Drawing from scholarship on the financialization of nature alongside recent work on racial capitalism and austerity, we find that rather than transformative municipal change each city is largely carrying on with projects that reinscribe existing inequalities in the city. In addition to reflecting inequalities already present in the two cities, however, the use of municipal debt for adaptation intensifies risks, both financial and environmental, borne primary by the poor or working class people of color. Building on qualitative fieldwork in Cape Town, New York, and across the green bond investment chain, we argue that the risks posed by climate change in the city cannot be financialized away. Ultimately, we call for the end of municipal austerity driven by national and supranational budgeting choices in favor of increasing national funding of municipal adaptation by rescaling borrowing to higher political scales that can more progressively distribute risks."
+ },
+ {
+  "title": "Regulating Sustainable Finance in the Dark",
+  "year": 2022,
+  "doi": "10.1007/s40804-021-00237-9",
+  "venue": "European Business Organization Law Review",
+  "cited": 152,
+  "authors": [
+   "Dirk Andreas Zetzsche",
+   "Linn Anker-Sørensen"
+  ],
+  "abstract": "Analyzing the revised EU Sustainable Finance Strategy disclosed in two steps in April and July 2021, we identify as core issues of any sustainability-oriented financial regulation a lack of data on profitability of sustainable investments, a lack of broadly acknowledged theoretical insights (typically laid down in standard models) into the co-relation and causation of sustainability factors with financial data, and a lack of a consistent application of recently adopted rules and standards. The three factors together are now hindering a rational, calculated approach to allocating funds with a view to sustainability which we usually associate with ‘finance’. These deficiencies will be addressed once (1) the EU’s sustainability taxonomy is implemented by most issuers of financial products, (2) several years of taxonomy-based reporting by issuers and originators of financial products is made available, and (3) these data have been used for validating emerging new sustainable finance benchmarks and models for investment and risk management. Until that day (which we expect to be at least 5 years from now), relying on Roberta Romano’s famous adage, regulators seeking to further sustainability by legal means, effectively ‘regulate in the dark.’ In order to avoid undesirable and unforeseeable effects of regulation, we argue against any regulation addressing capital requirements, mandating sustainability risk modelling or the inclusion of sustainability factors in investment or remuneration policies. Adopting such rules in the current premature state risks that Europe will not be able to rely on the capital markets to finance the sustainability transformation as planned. Instead, regulators should focus on enhancing expertise on the side of intermediaries and supervisors alike. In particular, regulators should introduce smart regulation tools, such as sandboxes, innovation hubs, and waiver programmes benefiting early adopters of sustainable finance modelling/models, utilizing approaches developed in other fields of experimental financial regulation (in particular Fintech and RegTech)."
+ },
+ {
+  "title": "Exploring the determinants of corporate green bond issuance and its environmental implication: The role of corporate board",
+  "year": 2023,
+  "doi": "10.1016/j.techfore.2023.122379",
+  "venue": "Technological Forecasting and Social Change",
+  "cited": 147,
+  "authors": [
+   "C. José García",
+   "Begoña Herrero",
+   "José Luís Miralles Quirós",
+   "Maria del Mar Mirallles-Quirós"
+  ],
+  "abstract": "The exponential growth of the green bond market has generated an incipient debate in the literature about the causes and implications for companies employing this green financing. An unexplored issue is the role of the board. In this context, the aim of this research is two-fold. Firstly, we analyse whether companies that have issued green bonds during the 2013–2021 period are characterised over the previous two years by having certain corporate governance characteristics, such as having a sustainability committee or a board with a higher percentage of women. Secondly, we examine whether these companies improve their environmental performance post-issuance by considering these governance characteristics, as well as the certification of green bonds and the purpose of the funds. For this purpose, we employ up to five alternative environmental performance variables. Our overall results indicate that companies that issue green bonds have a higher environmental score, a lower volume of CO2 emissions, a board with a higher percentage of women and a sustainability committee. Moreover, such companies continue to perform certain environmentally friendly actions in the years after issuance. Furthermore, the results reflect that companies with poorer environmental scores may be using external certification of their emissions to improve their image."
+ },
+ {
+  "title": "Climate Sin Stocks: Stock Price Reactions to Global Climate Strikes",
+  "year": 2020,
+  "doi": "10.1016/j.jcorpfin.2021.102018",
+  "venue": "Journal of Corporate Finance",
+  "cited": 142,
+  "authors": [
+   "Stefano Ramelli",
+   "Elisa Ossola",
+   "Michela Rancan"
+  ],
+  "abstract": "The first Global Climate Strike on March 15, 2019, represented a historical turning point in climate activism. We investigate the cross-section of stock price reactions to this event for a large sample of European firms. The strike's unanticipated success caused a decrease in the stock prices of carbon-intensive firms. The effect appears to be driven by the increased public attention to climate activism. Furthermore, after the first Global Climate Strike financial analysts downgraded their longer-term earnings forecasts on carbon-intensive firms."
+ },
+ {
+  "title": "The evolution of pricing performance of green municipal bonds",
+  "year": 2019,
+  "doi": "10.1080/20430795.2019.1661187",
+  "venue": "Journal of Sustainable Finance & Investment",
+  "cited": 141,
+  "authors": [
+   "Candace Partridge",
+   "Francesca Medda"
+  ],
+  "abstract": "In this study, we investigated the performance of US green municipal bond compared with general municipal bonds. The performance of this bond sector was assessed with two different approaches: through the creation and benchmarking of a green municipal bond index; and by looking for differences in yields between green municipal bonds and their conventional counterparts. We found that an index comprised of green muni bonds outperforms the closest equivalent S&P index from 2014 to 2018, and there is a statistically significant green premium (‘greenium’) present in the secondary muni bond market of 5 basis points by 2018. There was no conclusive evidence for the presence of greenium at issue in the primary market, but there are some early signs that this could change. These results are key to encouraging growth in the green municipal bond market, which can help American cities to unlock more capital for more sustainable infrastructure projects."
+ },
+ {
+  "title": "Explaining green bond issuance using survey evidence: Beyond the greenium",
+  "year": 2021,
+  "doi": "10.1016/j.bar.2021.101071",
+  "venue": "The British Accounting Review",
+  "cited": 140,
+  "authors": [
+   "Ivan Sangiorgi",
+   "Lisa Schopohl"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Advancing green finance: a review of climate change and decarbonization",
+  "year": 2024,
+  "doi": "10.1007/s44265-023-00026-x",
+  "venue": "Digital Economy and Sustainable Development",
+  "cited": 134,
+  "authors": [
+   "Chengbo Fu",
+   "Lei Lü",
+   "Mansoor Pirabi"
+  ],
+  "abstract": "This paper comprehensively reviews the interconnections between climate change, decarbonization, and green finance. The urgency of addressing climate change and its catastrophic consequences needs to focus on green finance as a vital tool in the global struggle against environmental damage. Green finance involves supplying investments, loans, or capital to support environmentally friendly activities, facilitating the transition to a more sustainable future. This review explores the theoretical frame of reference for green finance, including its impacts on climate change, decarbonization of economies, carbon-stranded assets, risk management, renewable energy, and sustainable economic growth. Additionally, it examines regional focuses in Asia, such as the importance of green finance in China and the beliefs and challenges of green finance in Bangladesh. The review also discusses future directions and recommendations for advancing green finance. The review examines the current research in green finance and how it can address environmental challenges and promote sustainable development. More research needs to be conducted in mainstream economics and finance journals to bridge the knowledge gap and foster broader scholarly engagement in green finance. Researchers, policymakers, investors, and stakeholders will receive help from the study's reliable and robust insights into combating climate change and promoting sustainable development."
+ },
+ {
+  "title": "Can green credit policy reduce corporate carbon emission intensity: Evidence from China's listed firms",
+  "year": 2023,
+  "doi": "10.1002/csr.2506",
+  "venue": "Corporate Social Responsibility and Environmental Management",
+  "cited": 128,
+  "authors": [
+   "Pei Xu",
+   "Penghao Ye",
+   "Atif Jahanger",
+   "Siwei Huang",
+   "Fan Zhao"
+  ],
+  "abstract": "Green credit policy is designed to address the global climate risk. However, few studies have investigated empirically whether green credit policy indeed reduces corporate carbon emission intensity. Based on firm‐level data in China and a difference‐in‐differences model, this study explores how corporate carbon emission intensity evolves following the green credit policy. We find that, on the whole, the green credit can effectively reduce corporate carbon emission intensity, while the dynamic negative effect tends to alleviate after 2017. Specifically, green credit reduces corporate carbon emission intensity mainly through lowering investment carbon intensity and enhancing environmental supervision. However, the signaling mechanism of green credit does not significantly alleviate corporate carbon emission intensity. The green credit has a stronger reduction effect on corporate carbon emission intensity with third‐party certification, non‐state‐owned ownership, and high financing constraint. We thereby suggest that innovations should be made to the standards and processes of green credit to ensure sustainability and stability. Quantitative and standardized corporate environmental information disclosure is essential for the low‐carbon effect on green finance innovation."
+ },
+ {
+  "title": "Pricing climate-related risks in the bond market",
+  "year": 2021,
+  "doi": "10.1016/j.jfs.2021.100868",
+  "venue": "Journal of Financial Stability",
+  "cited": 123,
+  "authors": [
+   "Elettra Agliardi",
+   "Rossella Agliardi"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Green bonds: a survey",
+  "year": 2020,
+  "doi": "10.1108/jdqs-09-2020-0024",
+  "venue": "Journal of Derivatives and Quantitative Studies 선물연구",
+  "cited": 120,
+  "authors": [
+   "Chiyoung Cheong",
+   "Jaewon Choi"
+  ],
+  "abstract": "This paper is a survey of recent academic developments in the literature on green bonds, which have become an important financial instrument in socially responsible investment. This study provides a review of papers that study the market pricing of green bonds, the economic and environmental effects of green bond financing, as well as legal and institutional issues in the green bond market. The literature on market pricing focuses mainly on the existence of greenium, which represents the extent to which green bonds carry a price premium over otherwise identical non-green counterparts. The literature on the economic and environmental effects mainly concerns stock market reaction to green bond issuance and associated economic value implications to other stakeholders, as well as investment in green projects. This paper discusses current issues in the green-bond market and avenues for future research."
+ },
+ {
+  "title": "Corporate Green Bonds: Understanding the Greenium in a Two-Factor Structural Model",
+  "year": 2021,
+  "doi": "10.1007/s10640-021-00585-7",
+  "venue": "Environmental and Resource Economics",
+  "cited": 116,
+  "authors": [
+   "Elettra Agliardi",
+   "Rossella Agliardi"
+  ],
+  "abstract": "A novel structural model is developed to understand the determinants of green bond prices and the so-called 'greenium', that is, the premium that bondholders are willing to pay to invest in green securities rather than conventional ones. The presence of a greenium makes green bonds relatively cheap vehicles to fund environmentally sustainable projects and thus contributes to the shift to a green economy. Yet, evidence on the greenium is mixed and the determinants of green bond yields are not fully understood. In this model two sources of uncertainty are introduced, that is, of cash flows of the firm and of the effectiveness of the financed green projects. The adoption of two risk factors brings in some mathematical complexity but allows for a better modelling of the multi-facet nature of these financial instruments. Our model is rich enough to generate both a positive and a negative premium, as both have been detected in the empirical literature. Thus, we shed light on possible heterogeneity concerning the existence of a greenium in the green bond universe. Moreover, we show how green bonds affect the issuer's creditworthiness, depending on the correlation of the green project with the core business of the firm and study their impact on investors' portfolio allocation."
+ },
+ {
+  "title": "De-risking of green investments through a green bond market – Empirics and a dynamic model",
+  "year": 2021,
+  "doi": "10.1016/j.jedc.2021.104201",
+  "venue": "Journal of Economic Dynamics and Control",
+  "cited": 107,
+  "authors": [
+   "João Paulo Braga",
+   "Willi Semmler",
+   "Dieter Graß"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Survey of Green Bond Pricing and Investment Performance",
+  "year": 2020,
+  "doi": "10.3390/jrfm13090193",
+  "venue": "Journal of risk and financial management",
+  "cited": 101,
+  "authors": [
+   "K. Thomas Liaw"
+  ],
+  "abstract": "Green bonds are similar to conventional bonds but are specifically earmarked to raise money to finance climate or environmental projects. There have been anecdotes of green bonds being priced tighter than similar conventional bonds by the same issuers. Our survey of academic literature indicates that most papers show the yield of a green bond is lower than that of the equivalent conventional bond at issuance (also known as green premium or greenium). However, green bond pricing studies by Climate Bonds Initiative produce mixed results. The conflicting results are likely explained by differences in sample selections, time periods, methodologies, and the properties of the respective issuing entity and the bond. In addition, we examine investment returns from select green bond funds and green bond indexes. The assets under management of those funds are still small and they underperform their benchmark indexes."
+ },
+ {
+  "title": "Paying for nature‐based solutions: A review of funding and financing mechanisms for ecosystem services and their impacts on social equity",
+  "year": 2023,
+  "doi": "10.1002/sd.2510",
+  "venue": "Sustainable Development",
+  "cited": 94,
+  "authors": [
+   "Austin Thompson‐Spain",
+   "Kyle S. Bunds",
+   "Lincoln R. Larson",
+   "Bethany B. Cutts",
+   "James Aaron Hipp"
+  ],
+  "abstract": "Funding and financing challenges remain a persistent barrier to implementing nature‐based solutions that enhance ecosystem services, facilitate adaptation to climate change, and combat environmental stressors in cities. In the absence of adequate public financial resources, private funds are often expected to fill the gap. But market‐driven, nature‐based solutions can contribute to an inequitable distribution of urban ecosystem services by focusing on net benefits provided by nature. To help foster sustainable development and ensure that nature‐based solutions reach diverse and historically marginalized populations and communities, this scoping review explores the ecosystem services provided by nature‐based solutions and the payment mechanisms that produce and maintain them, focusing on literature on the United States. Findings suggest that the net benefits provided by nature‐based solutions and the available payment mechanisms vary based on the solution utilized (e.g., urban trees, parks, community gardens). Further, the distribution of benefits from nature‐based solutions is influenced by local historical, cultural, political, economic, and environmental contexts, the voices included in decision‐making, and the payment mechanisms used. Inspired by social equity principles, we present a framework for ecosystem service provision that is sensitive to market‐driven funding, financing, and partnerships. Practitioners can use this framework to assess whether payment schemes work in tandem with place (the local context) and process (governance and planning approaches) to ameliorate or exacerbate disparities in nature‐based solutions and the benefits they provide to people."
+ },
+ {
+  "title": "Asset Prices and Portfolios with Externalities",
+  "year": 2019,
+  "doi": "10.1093/rof/rfac065",
+  "venue": "European Finance Review",
+  "cited": 94,
+  "authors": [
+   "Steven D. Baker",
+   "Burton Hollifield",
+   "Emilio Osambela"
+  ],
+  "abstract": "Elementary portfolio theory implies that environmentalists optimally hold more shares of polluting firms than non-environmentalists, and that polluting firms attract more investment capital than otherwise identical non-polluting firms through a hedging channel. Pigouvian taxation can reverse the aggregate investment results, but environmentalists still overweight polluters. We introduce countervailing motives for environmentalists to underweight polluters, comparing the implications when environmentalists coordinate to internalize pollution, or have nonpecuniary disutility from holding polluter stock. With nonpecuniary disutility, introducing a green derivative may dramatically alter who invests most in polluters, but has no impact on aggregate pollution."
+ },
+ {
+  "title": "Are green bonds priced lower than their conventional peers?",
+  "year": 2022,
+  "doi": "10.1016/j.ememar.2022.100909",
+  "venue": "Emerging Markets Review",
+  "cited": 88,
+  "authors": [
+   "Yue Wu"
+  ],
+  "abstract": "The green bond market's rapid growth has alerted issuers and investors to this sustainable area of investment. This study ascertains whether green bonds are priced lower than conventional bonds—whether a negative green bond premium exists in both Chinese and global bond markets—and the driving forces behind any such green bond premium. First, an event study is set up to observe stock market's reaction upon issuance of green bonds to test whether green bonds are embedded with additional value by improving the issuer's equity market performance. Then, using the matching method and a two-layer regression process, the study estimates the green bond premium in the Chinese and global markets, respectively, and analyses factors affecting the green bond premium. The event study reveals that green bond issuance could reduce the issuer's equity return performance. The regression models found no significant negative green bond premium in either Chinese or global markets, indicating that green bonds are not priced significantly lower than conventional bonds. However, global market models show that issuing green bonds in CNY could reduce the green bond premium, unlike in USD or EUR."
+ },
+ {
+  "title": "Green bonds in Sweden and Norway: What are the success factors?",
+  "year": 2021,
+  "doi": "10.1016/j.jclepro.2021.129177",
+  "venue": "Journal of Cleaner Production",
+  "cited": 88,
+  "authors": [
+   "Asbjørn Torvanger",
+   "Aaron Maltais",
+   "Iulia Marginean"
+  ],
+  "abstract": "Transition to a low-carbon economy to achieve the Paris Agreement goal requires substantial investments. The green bond market shows good potential to help mobilize financial sources towards sustainable investments. In this paper, we compare the uptake of green bonds in Norway and Sweden from 2013 till 2019, with the aim to understand what drives the green bond market. Our study is one of the first comparative analyses specifically designed to explain differences in green bond uptake between two similar financial markets. The analysis can help us to identify factors that are transferable to other countries and that therefore can be important for facilitating the growth of green bonds in different markets. Data shows that there has been a faster growth in issuances in Sweden than Norway, and especially for the corporate sector and municipalities. When interviewing experienced green bond market participants in Norway and Sweden, we find that likely explanations are a business culture and financial institutions more focused on sustainability in Sweden, as well as a larger and more diversified corporate sector. In Norway, green bonds uptake may have been hampered by competition with high yield investments in oil & gas and shipping, a ‘green’ energy sector that considers green bonds to be superfluous, and many municipalities that are too small for green bond issuance. The experience from Sweden indicates that other countries wanting to facilitate uptake of green bonds should emphasize leadership on sustainability, collaboration between green bond issuers and investors, and active communication, high visibility, and thorough disclosure of sustainable finance activities."
+ },
+ {
+  "title": "Credit spreads in the European green bond market: A daily analysis of the COVID‐19 pandemic impact",
+  "year": 2022,
+  "doi": "10.1111/jifm.12150",
+  "venue": "Journal of International Financial Management and Accounting",
+  "cited": 86,
+  "authors": [
+   "Antonella Francesca Cicchiello",
+   "Matteo Cotugno",
+   "Stefano Monferrà",
+   "Salvatore Perdichizzi"
+  ],
+  "abstract": "Financial crises and economic downturns provide a unique opportunity to investigate the behavior of investors and financial instruments and shed light in the market's anticipation of future economic growth. In view of the current crisis, we examine how the COVID‐19 pandemic affected the European green bond market. Using daily data from Thomson Reuter's Refinitiv, we conducted event studies on corporate credit spread changes over the period from January 1 to December 31, 2020. Our results reveal that green bonds' credit spreads increased significantly after the start of the coronavirus outbreak. However, as the fear of the pandemic eased in response to positive news about the vaccines, green bonds' credit spreads fell below conventional bonds. Overall, green bonds showed a higher risk exposure and lower resilience to distress while profiting during an upside. Our paper provides the first evidence about the impact of the COVID‐19 pandemic and the announcement of vaccines' effectiveness on the European corporate green bond market. Our results suggest several key points that are relevant to both investors and issuers under the unprecedented conditions created by the pandemic."
+ },
+ {
+  "title": "The Determinants of Green Bond Issuance in the European Union",
+  "year": 2021,
+  "doi": "10.3390/jrfm14090446",
+  "venue": "Journal of risk and financial management",
+  "cited": 84,
+  "authors": [
+   "Anamaria Dan",
+   "Adriana Tiron‐Tudor"
+  ],
+  "abstract": "Green bonds are a new financial tool that has developed rapidly in the context of climate change risks. Their proceeds are used to finance only environmentally friendly projects. This paper aims to examine the determinant factors of the green bonds issue in the context of the European Union countries. Using linear regression, we explore the impact of environmental, social, governance, and macroeconomic indicators on the level of green bond issues in the period 2014–2019. The results reveal that rating, ESG index; fiscal balance, inflation rate, and population have a significant impact and lead to a higher volume of green bond issuances. Our findings provide valuable insights into the development of the green bond market."
+ },
+ {
+  "title": "Issuer Motivations for Corporate Green Bond Offerings",
+  "year": 2023,
+  "doi": "10.1111/1467-8551.12747",
+  "venue": "British Journal of Management",
+  "cited": 73,
+  "authors": [
+   "Marie Dutordoir",
+   "Shuyu Li",
+   "João Quariguasi Frota Neto"
+  ],
+  "abstract": "Despite the substantial increase in green bond issuance over the past decade, evidence on the drivers and costs of corporate green bond issuance is lacking. We develop four novel hypotheses on the determinants of firms’ choice between green and conventional bonds, by connecting the four distinct features of green bonds with relevant theories. We test these hypotheses on a sample of green and conventional bonds issued by US, Western European and Chinese firms between 2014 and 2021, using linear probability models and alternative approaches. Consistent with our hypotheses, we find that firms with higher reputational gains from being seen as green and a stronger focus on eco‐innovation are more likely to issue green instead of conventional bonds. Conversely, we obtain only limited evidence that green bond issuance is driven by the net benefits of additional disclosure and no evidence that green bond issuers cater to time‐varying investor preferences for corporate greenness. Our results, which survive several robustness tests, are relevant for corporate managers, investors and bond market regulators."
+ },
+ {
+  "title": "Green bonds issuance, innovation performance, and corporate value: Empirical evidence from China",
+  "year": 2023,
+  "doi": "10.1016/j.heliyon.2023.e14895",
+  "venue": "Heliyon",
+  "cited": 72,
+  "authors": [
+   "Muhammad Usman Khurram",
+   "Wenwu Xie",
+   "Sultan Sikandar Mirza",
+   "Hao Tong"
+  ],
+  "abstract": "This study investigates the impact of green bond issuance on corporate performance and further checks the intermediate effect of corporate innovation performance on the primary relationship. This study uses the quarterly panel data of Chinese non-financial listed companies in 11 subdivided industry categories from January 1, 2016, to September 30, 2020. Using the difference-in-difference (DID) model and the parallel trend test, it is found that companies' issuance of green bonds has a significant positive effect on improving corporate innovation performance and corporate value. Furthermore, the improvement of innovation performance assists in enhancing the promotion effect of green bond issuance on corporate value. Despite data limitations, this study's findings can be very helpful for all relevant stakeholders, especially regulators, to introduce conducive policies to support the issuance of green bonds in Chinese. Our findings can be useful for other emerging markets that are dealing with the same green bond-based growth-sustainability conundrum."
+ },
+ {
+  "title": "An empirical study of the effects of green Sukuk spur on economic growth, social development, and financial performance in Indonesia",
+  "year": 2023,
+  "doi": "10.1007/s10668-023-03520-6",
+  "venue": "Environment Development and Sustainability",
+  "cited": 65,
+  "authors": [
+   "Qaisar Ali",
+   "Sulistya Rusgianto",
+   "Shazia Parveen",
+   "Hakimah Binti Yaacob",
+   "Razali Mat Zin"
+  ],
+  "abstract": ""
+ },
+ {
+  "title": "Green Bonds as an Instrument for Financing Ecological Investments in the V4 Countries",
+  "year": 2022,
+  "doi": "10.3390/su141912188",
+  "venue": "Sustainability",
+  "cited": 65,
+  "authors": [
+   "Monika Hadaś-Dyduch",
+   "Blandyna Puszer",
+   "Maria Czech",
+   "Janusz Cichy"
+  ],
+  "abstract": "The aim of this paper is to characterise the green bond market in the Visegrad Group of countries (V4) and to identify the determinants and benefits of issuing green bonds. The specific objective is a spatial–temporal analysis of the green bond yield in V4 countries. The following research methods were used in the paper: a source literature analysis and report analysis, statistical data analysis (from international financial markets), and the Dynamic Time Warping method (DTW). DTW comprises a class of algorithms that are used to compare both equal and unequal time series. The DTW method allows the smallest distance between two time series of different lengths to be found while allowing for the transformation over time of both series. As the method is highly efficient, it is used to provide a thorough spatial–temporal analysis of green bonds. The research process confirmed that green bonds are an instrument with potential in the global debt market. Among the most important stimulants for the issuance of green government bonds are capital mobilisation, the development of the green financial market, investor demand, and reputational benefits."
+ },
+ {
+  "title": "Sovereign Climate Debt Instruments: An Overview of the Green and Catastrophe Bond Markets",
+  "year": 2022,
+  "doi": "10.5089/9798400210006.066",
+  "venue": "IMF Staff Climate Notes",
+  "cited": 65,
+  "authors": [
+   "Sakai Ando",
+   "Francisco Roch",
+   "Ursula Wiriadinata",
+   "Chenxu Fu"
+  ],
+  "abstract": "Financial markets will play a catalytic role in financing the adaptation and mitigation to climate change. Catastrophe and green bonds in the private sector have become the most prominent innovations in the field of sustainable finance in the last fifteen years. Yet, the issuances at the sovereign level have been relatively recent and not well documented in the literature. This Note discusses the benefits of issuing these instruments as well as practical implementation challenges impairing the scaling-up of these markets. The issuance of these instruments could provide an additional source of stable financing with more favorable market access conditions, mitigate the stress of climate risks on public finances and facilitate the transition to greener low-carbon economies. Emerging market and developing economies stand to benefit the most from these financial innovations."
+ },
+ {
+  "title": "Analysis of Yields and Their Determinants in the European Corporate Green Bond Market",
+  "year": 2023,
+  "doi": "10.3390/risks11010014",
+  "venue": "Risks",
+  "cited": 61,
+  "authors": [
+   "Sergei V. Grishunin",
+   "Alesya Bukreeva",
+   "Svetlana B. SULOEVA",
+   "Ekaterina Burova"
+  ],
+  "abstract": "The green bond market helps to mobilize financial sources toward sustainable investments. Green bonds are similar to conventional bonds but are specifically designed to raise money to finance environmental projects. The feature of green bonds is the existence of greenium, or the lower yield compared to “conventional” bonds of the same risk. The relevance of the paper is underpinned by the mixed evidence on the existence of ‘greenium’, especially in corporate green bond markets; there has been limited research on the topic and a narrow focus on global, US, or Chinese green bond markets. Instead, the greenium in European debt markets remains underexplored. The objective of this study is to investigate the existence of greenium and its key determinants in European corporate debt capital markets, including the local markets of the United Kingdom (UK), France, Netherlands, and Germany. The sample included 3851 corporate bonds, both green and conventional ones, between 2007 and 2021 from 33 European countries. Linear regression was applied for the analysis. The results show that the climate corporate bonds in Europe are priced at a discount to the same-risk conventional corporate bonds. The magnitude of greenium is around 3 bps. Determinants of greenium include the presence of an ESG rating and belonging to the utility and financial industry. The remaining drivers of bond yields in the European corporate debt market are the credit quality (expressed by the level of credit rating), the coupon size, the bond tenor, the market liquidity, and macroeconomic variables (growth of gross domestic product and consumer price index). For the local corporate debt markets, our results are controversial. In all markets under consideration except for the UK and the Netherlands, we did not find sustainable evidence of greenium. The results of the research lead to a better understanding of the green bond market for investors, researchers, regulators, and potential issuing companies."
+ }
+]

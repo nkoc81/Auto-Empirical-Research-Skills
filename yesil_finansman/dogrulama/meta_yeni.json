@@ -1,0 +1,1113 @@
+{
+ "Rahman2025irfa": {
+  "key": "Rahman2025irfa",
+  "doi": "10.1016/j.irfa.2025.104772",
+  "crossref_found": true,
+  "title": "Here's the Greenium eclipsed by market-wide illiquidity in the municipal bond market",
+  "authors": [
+   "Ayaydın Hacıömeroğlu, Hande",
+   "Danışoğlu, Seza",
+   "Güner, Z. Nuray",
+   "Şahin, Baki Cem"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   1
+  ],
+  "journal": "International Review of Financial Analysis",
+  "volume": "109",
+  "issue": null,
+  "page": "104772",
+  "article_number": "104772",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 1,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "greenspread2025": {
+  "key": "greenspread2025",
+  "doi": "10.1007/s10479-025-06479-x",
+  "crossref_found": true,
+  "title": "Green spread of US municipal bonds",
+  "authors": [
+   "Sojoudi, Mahdi",
+   "Bernard, Carole",
+   "Dupuy, Philippe",
+   "Peters, Gareth W."
+  ],
+  "year": 2026,
+  "issued": [
+   2025,
+   1,
+   23
+  ],
+  "journal": "Annals of Operations Research",
+  "volume": "357",
+  "issue": "1",
+  "page": "679-705",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 7,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "pfj2025": {
+  "key": "pfj2025",
+  "doi": "10.59469/pfj.2025.34",
+  "crossref_found": true,
+  "title": "Evolution of U.S. State and Local Government Green Bond Issuance",
+  "authors": [
+   "Bunch, Beverly",
+   "Strauss, Robert P."
+  ],
+  "year": 2025,
+  "issued": [
+   2025,
+   4,
+   1
+  ],
+  "journal": "Public Finance Journal",
+  "volume": "2",
+  "issue": "1",
+  "page": "56-72",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Government Finance Officers Association",
+  "cited_by_openalex": 3,
+  "abstract": "This paper aims to inquire empirically about an increasingly important phenomenon in the state and local government bond market -- the issuance of green bonds. Green bonds have the same security as traditional bonds but include a green label to signify that the bond proceeds will be used to finance projects that benefit the environment. We investigate U.S. state and local government green bond trends and characteristics using a database of all green and non-green bonds issued in 2013-2021. We also report findings from our interviews with early issuers and our analysis of more recent green bonds, focusing on external verification and disclosure. From a volume perspective, we find that the municipal green bond market has been dominated by large issuers in several states. However, the issuance of green bonds is more dispersed. The number of states with at least one green bond issuer within a year and the number of unique issuers per year have grown significantly. Water and wastewater projects remain the most common type of state and local government green bonds, but there has been growth in green bonds for housing and public power. One of the biggest changes has been the increase in the use of external parties to verify what constitutes green; however, the reporting of environmental metrics remains limited.",
+  "abstract_source": "openalex"
+ },
+ "shades2024": {
+  "key": "shades2024",
+  "doi": "10.1016/j.fraope.2024.100113",
+  "crossref_found": true,
+  "title": "Shades of green: Unveiling the impact of municipal green bonds on the environment",
+  "authors": [
+   "Campi, Marta",
+   "Peters, Gareth W.",
+   "Richards, Kylie-Anne"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   6
+  ],
+  "journal": "Franklin Open",
+  "volume": "7",
+  "issue": null,
+  "page": "100113",
+  "article_number": "100113",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 10,
+  "abstract": "Green bonds allocate proceeds towards environmentally beneficial projects and sustainable development goals, distinguishing themselves from traditional bonds primarily in the use of proceeds determination. However, investors often find it challenging to assess the carbon reduction potential of these bonds because of the lack of standardised environmental impact reporting. In response to this, our research constructs a unique set of indicators derived from financial and environmental datasets, using multivariate analysis techniques that can accommodate the detection of both linear and non-linear relationships. A novel method combining kernel Principal Component Analysis (kPCA) and Canonical Correlation Analysis (CCA) is applied to detect spatial–temporal cross-correlation in multivariate datasets. This approach handles variable comparability issues and the differential treatment of categorical and numerical variables. A significant finding of this study emerges when this methodology is applied to financial attributes obtained from green bonds issued by municipal agencies (muni bonds), pollution data and environmental (climate) data from nine California counties. The results of the detailed analysis indicate that there is measurable evidence to indicate relationships between green bond issuance and their use of proceeds for pollution reduction efforts. In particular, the results show a clear and interpretable correlation directly linked to the amount of green bond issuance and the effect this is having on pollution reduction, underscoring the tangible impact these financial instruments have on pollution reduction efforts in California. Conversely, when it comes to detecting spatial–temporal relationships between the use of proceeds from green bond issuance and positive climate change effects, this is inconclusive from the current studies’ analysis. It was found that there were weaker cross-correlation relationships observed between climate and green bond financial data set attributes which is perhaps indicative of the fact that climate change effects take a much longer time frame to occur. As such the findings of the analysis in this regard may not indicate that positive climate change effects are not occurring from green bond initiatives, but rather that the ability to measure detectable improvements to climate with regard to the issuance of green bonds is currently limited and will take longer for such effects to manifest in a statistically detectable fashion from the given data. This is particularly likely to be the case given green bonds are only in their infancy as a financial market, having had the earliest issuance only occurring in the last 15-20 years and only substantial growth in the market over the last 10 years. Therefore, this aspect of the research investigating longer-term climate effects with regard to green bond issuance will take longer to develop.",
+  "abstract_source": "openalex"
+ },
+ "race2023": {
+  "key": "race2023",
+  "doi": "10.1371/journal.pone.0288979",
+  "crossref_found": true,
+  "title": "Climate, race, and the cost of capital in the municipal bond market",
+  "authors": [
+   "Smull, Erika",
+   "Kodra, Evan",
+   "Stern, Adam",
+   "Teras, Andrew",
+   "Bonanno, Michael",
+   "Doyle, Martin"
+  ],
+  "year": 2023,
+  "issued": [
+   2023,
+   8,
+   9
+  ],
+  "journal": "PLOS ONE",
+  "volume": "18",
+  "issue": "8",
+  "page": "e0288979",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Public Library of Science (PLoS)",
+  "cited_by_openalex": 19,
+  "abstract": "Both climate risk and race are factors that may affect municipal bond yields, yet each has received relatively limited empirical research attention. We analyzed > 712,000 municipal bonds representing nearly 2 trillion USD in par outstanding, focusing on credit spread or the difference between a debt issuer's interest cost to borrow and a benchmark \"risk-free\" municipal rate. The relationship between credit spread and physical climate risk is significant and slightly positive, yet the coefficient indicates no meaningful spread penalty for increased physical climate risk. We also find that racial composition (the percent of a community that is Black) explains a statistically significant and meaningful portion of municipal credit spreads, even after controlling for a variety of variables in domains such as geographic location of issuer, bond structure (e.g., bond maturity), credit rating, and non-race economic variables (e.g., per capita income). Assuming 4 trillion USD in annual outstanding par across the entire municipal market, and weighting each issuer by its percent Black, an estimated 19 basis point (bp) penalty for Black Americans sums to approximately 900 million USD annually in aggregate. Our combined findings indicate a systemic mispricing of risk in the municipal bond market, where race impacts the cost of capital, and climate does not.",
+  "abstract_source": "openalex"
+ },
+ "wildfire2026": {
+  "key": "wildfire2026",
+  "doi": "10.1016/j.jpubeco.2026.105810",
+  "crossref_found": true,
+  "title": "Pricing climate risks: Evidence from wildfires and municipal bonds",
+  "authors": [
+   "Jeon, Woongchan",
+   "Barrage, Lint",
+   "Walsh, Kieran James"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   11
+  ],
+  "journal": "Journal of Public Economics",
+  "volume": "263",
+  "issue": null,
+  "page": "105810",
+  "article_number": "105810",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 5,
+  "abstract": "How are public finances affected by climate-driven changes in wildfire risk? Using high-resolution meteorological forecasts, land use data, and US municipal bond spreads, we find that municipalities facing greater future wildfire exposure already incur higher borrowing costs: A one standard deviation increase in future wildfire risk is associated with a 7 (8) basis point rise in primary (secondary) market spreads—over 15% of the sample mean. Impacts appear larger in areas with higher minority populations and greater reliance on local revenue. Our study contributes to the broader literature by introducing a new approach to evaluating the capitalization of evolving physical climate risks.",
+  "abstract_source": "openalex"
+ },
+ "wildfire2025jori": {
+  "key": "wildfire2025jori",
+  "doi": "10.1111/jori.70021",
+  "crossref_found": true,
+  "title": "Wildfire risk and municipal bond yields",
+  "authors": [
+   "Berry‐Stölzle, Thomas R.",
+   "Hao, Yi"
+  ],
+  "year": 2026,
+  "issued": [
+   2025,
+   10,
+   13
+  ],
+  "journal": "Journal of Risk and Insurance",
+  "volume": "93",
+  "issue": "1",
+  "page": "118-162",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "cited_by_openalex": 4,
+  "abstract": "Wildfires increased in frequency and severity over the past 30 years, raising the exposure of municipalities. We study whether municipal bond yields reflect wildfire risk and find that the municipal bond market begins pricing wildfire risk around 2000. A one‐standard‐deviation rise in wildfire risk leads to a 3.646 basis points increase in a bond's yield spread, increasing financing cost for affected communities. The effect on yield spreads disappears for maturities of less than 1 year or more than 15 years, supporting the view that wildfire risk is a medium‐term risk. When including measures of investor attention into our analysis, we find that investor attention is associated with an additional increase in yield spreads. Fire mitigation measures, on the other hand, are associated with a reduction in yield spreads, highlighting the benefits of wildfire risk management for municipal financing.",
+  "abstract_source": "openalex"
+ },
+ "signaling2022": {
+  "key": "signaling2022",
+  "doi": "10.1007/s10584-022-03329-8",
+  "crossref_found": true,
+  "title": "Signaling climate resilience to municipal bond markets: does membership in adaptation-focused voluntary clubs affect bond rating?",
+  "authors": [
+   "Ko, Inhwan",
+   "Prakash, Aseem"
+  ],
+  "year": 2022,
+  "issued": [
+   2022,
+   3
+  ],
+  "journal": "Climatic Change",
+  "volume": "171",
+  "issue": "1-2",
+  "page": null,
+  "article_number": "9",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 13,
+  "abstract": "This paper examines whether U.S. cities’ membership in voluntary climate clubs improves the municipal bond ratings issued by S&P, Moody’s, and Fitch. We suggest that only clubs focused on climate adaptation could help cities signal their resilience to climate risks and their ability to service their municipal bonds. Yet, club membership is only a signal of intent. By itself, it does not offer concrete evidence that cities have adopted adaptation policies or enhanced their resilience to climate risks. We examine three climate clubs: ICELI, whose membership obligations cover climate and other environmental issues; the C40 club, whose scope covers both climate mitigation and adaptation; and the 100 Resilient Cities (100RC) program, which focuses on adaptation only. Employing a two-way fixed effects model for a panel of 80 U.S. cities from 1995 to 2018, we find that 100RC membership leads to a small improvement in bond ratings. This has important policy implications: assurances about implementing adaptation policy, as opposed to evidence about how adaptation reduces climate risks, could have spillover effects on municipal finance. In such cases, climate adaptation could have tangible implications for city-level finances.",
+  "abstract_source": "openalex"
+ },
+ "natcities2026": {
+  "key": "natcities2026",
+  "doi": "10.1038/s44284-025-00365-0",
+  "crossref_found": true,
+  "title": "Physical climate risk creates challenges and opportunities in US municipal finance",
+  "authors": [
+   "Mishra, Aayushi",
+   "Arun, Advait",
+   "Kodra, Evan",
+   "Smull, Erika",
+   "Woolcock, Owen",
+   "Doe, Tom",
+   "Marlowe, Justin",
+   "Ganguly, Auroop R."
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   1,
+   5
+  ],
+  "journal": "Nature Cities",
+  "volume": "3",
+  "issue": "1",
+  "page": "11-21",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 4,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "fiscalstress2022": {
+  "key": "fiscalstress2022",
+  "doi": "10.1038/s41558-022-01311-x",
+  "crossref_found": true,
+  "title": "Climate change will increase local government fiscal stress in the United States",
+  "authors": [
+   "Gilmore, Elisabeth A.",
+   "Kousky, Carolyn",
+   "St.Clair, Travis"
+  ],
+  "year": 2022,
+  "issued": [
+   2022,
+   3
+  ],
+  "journal": "Nature Climate Change",
+  "volume": "12",
+  "issue": "3",
+  "page": "216-218",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 46,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "munifin2024": {
+  "key": "munifin2024",
+  "doi": "10.1038/s41558-024-01924-4",
+  "crossref_found": true,
+  "title": "Municipal finance shapes urban climate action and justice",
+  "authors": [
+   "Diezmartínez, Claudia V.",
+   "Short Gianotti, Anne G."
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   2,
+   16
+  ],
+  "journal": "Nature Climate Change",
+  "volume": "14",
+  "issue": "3",
+  "page": "247-252",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 53,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "ratingsscales2024": {
+  "key": "ratingsscales2024",
+  "doi": "10.1080/2833115x.2024.2394501",
+  "crossref_found": true,
+  "title": "Climate change and municipal bonds across scales: credit ratings and the challenges of emergent risk in small localities",
+  "authors": [
+   "Shtob, Daniel A."
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   9,
+   13
+  ],
+  "journal": "Finance and Space",
+  "volume": "1",
+  "issue": "1",
+  "page": "368-388",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 1,
+  "abstract": "In recent years, credit ratings agencies have formally included metrics of climate and disaster risk in their municipal bond assessments. Although municipal bond ratings are a critically important element of local government finance with the power to motivate environmental and non-environmental policy, their entanglements with emergent climate and disaster risk, as well as responsive decision-making, are understudied. To better understand the potential implications of climate risk inclusions and to complement efforts focused on large cities, this exploratory effort places a new methodology through which Moody’s – one of the three primary ratings agencies – embeds climate and risk and resilience in their ordinal ratings categories into conversation with literatures on municipal finance, decision-making and bond ratings. By comparing the ratings treatment of Miami, a vulnerable but large and well-resourced municipality, with three smaller, less affluent bond issuers, it highlights some spatially uneven risks arising from ratings inclusions. Critically, it emphasises the internal diversity of bonds and issuers, a tension between long-term preventative investment to support resilience and adaptation and short-term crisis response, as well as several other ways that these factors may differentially impact local financial and environmental policy in smaller, less well-resourced municipalities that fly under the analytical radar.",
+  "abstract_source": "openalex"
+ },
+ "climrisk_rating2024": {
+  "key": "climrisk_rating2024",
+  "doi": "10.1111/jfir.12388",
+  "crossref_found": true,
+  "title": "Climate risk and credit ratings",
+  "authors": [
+   "Tran, Nhu",
+   "Uzmanoglu, Cihan"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   2,
+   12
+  ],
+  "journal": "Journal of Financial Research",
+  "volume": "47",
+  "issue": "4",
+  "page": "947-980",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "cited_by_openalex": 15,
+  "abstract": "We find weak evidence suggesting that cities’ credit ratings reflect their climate risk exposure. Using a large sample of US cities, we test whether cities with higher exposure to physical or transition risks of climate change have lower credit ratings. We also compare the ratings of coastal and similar noncoastal cities, and run difference‐in‐differences tests around events that raise climate change awareness. Moreover, we study the climate risk effect within cities and at the bond level. We observe a negative association only between the Hallegatte et al. (2013) sea‐level‐rise measure and ratings, and this association is solely driven by New Orleans, which had already experienced a significant climate event.",
+  "abstract_source": "openalex"
+ },
+ "c40_2025": {
+  "key": "c40_2025",
+  "doi": "10.1177/15239721251367753",
+  "crossref_found": true,
+  "title": "Climate budgeting in practice: comparing C40 cities",
+  "authors": [
+   "Brown, Alina",
+   "Hoti, Zenun"
+  ],
+  "year": 2025,
+  "issued": [
+   2025,
+   8,
+   28
+  ],
+  "journal": "Public Finance and Management",
+  "volume": "24",
+  "issue": "3-4",
+  "page": "169-175",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "SAGE Publications",
+  "cited_by_openalex": 5,
+  "abstract": "This paper evaluates the operationalization of climate budgeting across four global cities using a comparative framework grounded in three practitioner-relevant criteria: climate goal alignment, governance integration, and fiscal transparency. Drawing on best practices outlined by C40 Cities, International City/County Management Association, and Government Finance Officers Association, the study highlights how cities integrate climate considerations into their core financial processes. The findings show that climate budgeting is most effective when treated not as an environmental add-on, but as a reform of public financial management. The paper concludes by emphasizing the need for practical, accessible evaluation tools that can be used to translate climate goals into actionable fiscal strategies.",
+  "abstract_source": "openalex"
+ },
+ "norway2024": {
+  "key": "norway2024",
+  "doi": "10.1080/14693062.2024.2403563",
+  "crossref_found": true,
+  "title": "Mainstreaming decarbonization through local climate budgets in Norwegian municipalities",
+  "authors": [
+   "Baggio, Guilherme",
+   "Tozer, Laura"
+  ],
+  "year": 2025,
+  "issued": [
+   2024,
+   9,
+   17
+  ],
+  "journal": "Climate Policy",
+  "volume": "25",
+  "issue": "4",
+  "page": "578-592",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 4,
+  "abstract": "Climate budgets are increasingly being used in local climate governance, but it is not clear whether they have the potential to drive systemic change toward decarbonization. This study uses a political dynamics of decarbonization framework to assess the transformative potential of municipal climate budgets to catalyze changes across cultural, economic, political, and technological systems to overcome carbon lock-in. Document analysis and interviews with climate budget experts from Oslo, Fredrikstad, Hamar, Bergen, Arendal, Bærum, Asker and the county of Agder in Norway were employed in this study to identify and discuss transformative conditions for decarbonization. Climate budgets are used to integrate climate change mitigation as a core element of municipal governance. This approach aims to integrate climate change mitigation into existing decision-making mechanisms and expand the mandates of municipal departments and agencies in executing and overseeing climate actions. Local climate budgets are also being used to catalyze changes across cultural, economic, political, and technological systems through the alignment of new laws, regulations, financial and institutional capacities, inter-municipal coalitions, and cooperation with the private sector. However, climate budgeting in cities and local governments faces multiple barriers. These include a lack of jurisdiction over emissions accounted for in climate budgets; inadequate legal frameworks to support municipal climate actions; and competition for financial and institutional resources with other public services expected by city residents. These findings deepen our understanding of the transformative change potential in local climate action experiments by emphasizing the role of political dynamics in overcoming carbon lock-in.",
+  "abstract_source": "openalex"
+ },
+ "edmonton2026": {
+  "key": "edmonton2026",
+  "doi": "10.1177/00420980261492432",
+  "crossref_found": true,
+  "title": "The politics of calculative tools in practice: Climate budgeting in Edmonton",
+  "authors": [
+   "Davey, Taylor"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   10,
+   15
+  ],
+  "journal": "Urban Studies",
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article_number": "00420980261492432",
+  "type": "journal-article",
+  "publisher": "SAGE Publications",
+  "cited_by_openalex": 0,
+  "abstract": "Climate budgeting aims to integrate carbon accounting into municipal financial budgeting, promising to align annual spending decisions with long-term emissions targets. Yet limited attention has been given to how this calculative framework operates within existing administrative practices and contested political contexts. This article examines the City of Edmonton’s 2022 Carbon Budget, the first municipal climate budget implemented in North America. Drawing on interviews, policy documents, and observations of public budget deliberations, it traces how carbon metrics were developed, applied to budget profiles, and interpreted by administrators and councillors. The analysis finds that efforts to translate climate impacts into conventional fiscal formats encountered substantial methodological limits. Most investments could not be quantified, indirect and longer-term effects remained excluded, and aggregated results suggested proposed climate investments would have little effect on Edmonton’s emissions pathway. Rather than increasing transparency or building consensus, the project intensified disagreements over municipal responsibilities, public support, and the justification of climate spending. Comparison with Oslo demonstrates that climate budgeting’s effects may depend less on technical design than on the political authority, administrative capacity, and institutional relationships within which it operates. Climate budgeting should be understood not as a transferable accounting solution, but as a situated deliberative framework that makes some climate impacts visible while reorganizing, rather than resolving, political contestation.",
+  "abstract_source": "openalex"
+ },
+ "gbway2022": {
+  "key": "gbway2022",
+  "doi": "10.1787/dc7ac5a7-en",
+  "crossref_found": true,
+  "title": "",
+  "authors": [],
+  "year": 2022,
+  "issued": [
+   2022,
+   9,
+   17
+  ],
+  "journal": "OECD Journal on Budgeting",
+  "volume": "22",
+  "issue": "2",
+  "page": null,
+  "article_number": null,
+  "type": "journal-issue",
+  "publisher": "Organisation for Economic Co-Operation and Development (OECD)",
+  "cited_by_openalex": 33,
+  "abstract": "Green budgeting refers to the integration of climate and environmental perspectives into a government’s budgetary processes. Based on the resources of the OECD’s Paris Collaborative on Green Budgeting and experiences in OECD countries from implementing green budgeting, this paper identifies seven key areas to support the development of green budgeting practices in making progress toward climate and environmental goals. The key areas consider the institutional frameworks, budgetary tools, transparency and accountability arrangements and the enabling environment for budgeting in the public sector.",
+  "abstract_source": "openalex"
+ },
+ "gbeu2026": {
+  "key": "gbeu2026",
+  "doi": "10.1177/15239721251413585",
+  "crossref_found": true,
+  "title": "Green Budgeting in the EU",
+  "authors": [
+   "Ermasova, Natalia",
+   "Tátrai, Tünde",
+   "Nyikos, Györgyi",
+   "Gallasz, Andrea"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   1,
+   26
+  ],
+  "journal": "Public Finance and Management",
+  "volume": "25",
+  "issue": "1-2",
+  "page": "3-21",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "SAGE Publications",
+  "cited_by_openalex": 0,
+  "abstract": "Many countries have increased their commitments to meeting the goals of the Paris Agreement and the European Green Budgeting Reference Framework (GBRF) by improving their green budgeting. Based on a review of budgetary documents across the 27 EU Member countries, this study utilizes the methodology of coding countries’ green budgeting regulations and environmental practices based on the GBRF. This study found similarities in the practices pursued in EU countries: (a) the country’s political conditions strongly influence the green budgeting process in all countries, (b) all countries have made significant progress in green budgeting since 2000, (c) the green rating system requires an abundance of data and detailed information that cannot be generated within the “traditional” institutional budget structure. We found that the main challenges for applying green budgeting include a lack of a modern performance budgeting framework, a methodology for assessing environmental impacts, and relevant expertise.",
+  "abstract_source": "openalex"
+ },
+ "tagging2024": {
+  "key": "tagging2024",
+  "doi": "10.1080/14693062.2024.2302325",
+  "crossref_found": true,
+  "title": "Climate finance in developing countries: green budget tagging and resource mobilization",
+  "authors": [
+   "Pindiriri, Carren",
+   "Kwaramba, Marko"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   1,
+   8
+  ],
+  "journal": "Climate Policy",
+  "volume": "24",
+  "issue": "7",
+  "page": "894-908",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 27,
+  "abstract": "Information on the benefits of green budget tagging (Green budget tagging refers to itemization and linking of every budget item with climate action, mitigation, adaptation, or both) in developing countries could help boost the uptake of this practice and in turn help these same developing countries to mobilize climate-related development finance. We apply double differences in means econometric analytical approach to evaluate the association between green budget tagging (GBT) and target outcome variables of climate-related finance and CO2 emissions. The results show that all 32 developing countries that have undertaken green budget tagging are also associated with larger inflows of climate-related finance. Among the adopters, climate-related finance inflows have been significantly larger for countries with externally-initiated green budget tagging than for those with internally-initiated tagging. The results also show that a minimum level of climate-related finance is required to achieve CO2 emissions reduction. However, the current mean yearly inflow of climate-related development finance falls short of the level that drives emissions reduction. These findings point to the importance of green budget tagging and to the need to upscale climate-related finance inflows to propel improvement in environmental quality. Although green budget tagging is a useful tool for mobilizing external development finance, current external finance inflows are insufficient to achieve ambitious emission reductions. Immense effort is therefore required to mobilize the adequate scale of climate-related finance from both external and other sources.",
+  "abstract_source": "openalex"
+ },
+ "eftineq2026": {
+  "key": "eftineq2026",
+  "doi": "10.1016/j.ecolecon.2026.109130",
+  "crossref_found": true,
+  "title": "Who benefits from green fiscal flows? Unpacking the inequality effects of vertical and horizontal ecological fiscal transfers",
+  "authors": [
+   "Jin, Cai",
+   "Li, Tan"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   11
+  ],
+  "journal": "Ecological Economics",
+  "volume": "249",
+  "issue": null,
+  "page": "109130",
+  "article_number": "109130",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 1,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "eftdesign2018": {
+  "key": "eftdesign2018",
+  "doi": "10.1016/j.ecolecon.2018.01.031",
+  "crossref_found": true,
+  "title": "Ecological Fiscal Transfers in Europe – Evidence-Based Design Options for a Transnational Scheme",
+  "authors": [
+   "Droste, N.",
+   "Ring, I.",
+   "Santos, R.",
+   "Kettunen, M."
+  ],
+  "year": 2018,
+  "issued": [
+   2018,
+   5
+  ],
+  "journal": "Ecological Economics",
+  "volume": "147",
+  "issue": null,
+  "page": "373-382",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 61,
+  "abstract": "Ecological Fiscal Transfers (EFT) have recently gained attention as a promising instrument addressing public authorities to provide incentives for nature conservation. In parallel, both the EU and various European countries are exploring new mechanisms to mobilise funding to support biodiversity conservation. We develop a proposal for an EFT design within the supranational context of the EU and assess its potential effects with evidence-based estimates. We i) provide both a theoretical underpinning and a synthesis of the current EFT schemes and EU Nature Directives, ii) propose a model for EFT implementation within the existing EU funding mechanisms based on quantitative and qualitative conservation indicators, iii) analyse how resulting payments would be (spatially) distributed among European regions, and iv) discuss the model outcomes in terms of ecological effectiveness, distributive effects and cost-effectiveness. We thereby contribute to the debate about how to better integrate ecological public functions within multi-level and supra-national governance structures.",
+  "abstract_source": "openalex"
+ },
+ "eftdimin2025": {
+  "key": "eftdimin2025",
+  "doi": "10.1016/j.ecolecon.2025.108634",
+  "crossref_found": true,
+  "title": "The diminishing incentive of ecological fiscal transfer on local government environmental expenditure — Evidence from National Key Ecological Function Zone in China",
+  "authors": [
+   "Xiao, Yue",
+   "Shimada, Koji",
+   "Shao, Songdong",
+   "Liu, Liqin",
+   "Pan, Shen",
+   "Xiao, Wenhai"
+  ],
+  "year": 2025,
+  "issued": [
+   2025,
+   9
+  ],
+  "journal": "Ecological Economics",
+  "volume": "235",
+  "issue": null,
+  "page": "108634",
+  "article_number": "108634",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 15,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "envfed2025": {
+  "key": "envfed2025",
+  "doi": "10.1016/j.jenvman.2025.124449",
+  "crossref_found": true,
+  "title": "Empowering local governments: How environmental fiscal federalism affects greenhouse gas emissions in China?",
+  "authors": [
+   "Wu, Qingyang",
+   "Zhang, Wenhao",
+   "Xu, Nan",
+   "Chen, Yanzhu",
+   "Liu, Jiahe",
+   "Jiang, Lei"
+  ],
+  "year": 2025,
+  "issued": [
+   2025,
+   3
+  ],
+  "journal": "Journal of Environmental Management",
+  "volume": "376",
+  "issue": null,
+  "page": "124449",
+  "article_number": "124449",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 14,
+  "abstract": "Fiscal decentralization holds promise in addressing inherent challenges such as incentive deficiencies and information asymmetry in command-and-control environmental regulations. However, its effectiveness in mitigating climate change remains unclear. This study examines the impacts of environmental fiscal federalism on greenhouse gas emissions by applying a high-dimensional fixed-effects panel model to a multi-source panel dataset from 2006 to 2017 for 1757 counties in China. The findings show that environmental federalism significantly reduces local carbon emission intensity. Specifically, for a 1% increase in environmental decentralization, the average carbon emission intensity will drop by 0.35%. This effect is more pronounced in China's central and western regions as well as in areas with higher emissions. In addition, this decentralization process yields air pollution mitigation co-benefits. The results of channel tests further demonstrate that economic decentralization and industrial structural integration enhance the emission reduction effects of environmental decentralization. Finally, this study discovers that implementing cap-and-trade mechanisms strengthens the emission reduction effects of environmental decentralization, with theoretical analysis provided on how both mechanisms can achieve optimal outcomes. These findings offer valuable practical and policy implications for achieving carbon emission reduction goals in emerging and transitioning economies.",
+  "abstract_source": "semanticscholar"
+ },
+ "nbsfin2024": {
+  "key": "nbsfin2024",
+  "doi": "10.1016/j.nbsj.2024.100195",
+  "crossref_found": true,
+  "title": "“Financing urban Nature-based Solutions (NBS): A literature review from the perspective of funders”",
+  "authors": [
+   "Biasin, Anna",
+   "Toxopeus, Helen",
+   "Pettenella, Davide",
+   "Polzin, Friedemann",
+   "Masiero, Mauro"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   12
+  ],
+  "journal": "Nature-Based Solutions",
+  "volume": "6",
+  "issue": null,
+  "page": "100195",
+  "article_number": "100195",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 45,
+  "abstract": "Nature-based Solutions (NBS) are increasingly recognized as relevant strategies for mitigating the pressures coming from urbanization and climate change to build resilient and sustainable cities. However, securing financing for urban NBS is a persistent barrier for their widespread implementation. Therefore, understanding how to realize (co-)finance and funding by attracting resources from specific stakeholders – namely those that benefit from NBS - is essential to their expansion. While the need for NBS co-finance has been acknowledged, the funders' perspective on NBS has remained largely conceptual. Through a systematic review of the scientific literature this study identifies barriers and corresponding strategies for financing urban NBS from the funders'-oriented perspective. Knowledge sharing, fostering of innovative and alternative financing models and collaboration, also for co-financing, are among the most cited strategies to leverage other financial resources for NBS implementation and overcoming the budget shortfalls generally affecting public actors. We conclude by proposing future research avenues. Particularly, we suggest that the role of specific classes of stakeholders, namely corporations, the insurance sector, real estate firms and water utilities, should be investigated further since their contributions is likely to be relevant for the upscaling of NBS.",
+  "abstract_source": "openalex"
+ },
+ "paynbs2023": {
+  "key": "paynbs2023",
+  "doi": "10.1002/sd.2510",
+  "crossref_found": true,
+  "title": "Paying for\n                    <scp>nature‐based</scp>\n                    solutions: A review of funding and financing mechanisms for ecosystem services and their impacts on social equity",
+  "authors": [
+   "Thompson, Austin",
+   "Bunds, Kyle",
+   "Larson, Lincoln",
+   "Cutts, Bethany",
+   "Hipp, J. Aaron"
+  ],
+  "year": 2023,
+  "issued": [
+   2023,
+   3,
+   2
+  ],
+  "journal": "Sustainable Development",
+  "volume": "31",
+  "issue": "4",
+  "page": "1991-2066",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "cited_by_openalex": 94,
+  "abstract": "Funding and financing challenges remain a persistent barrier to implementing nature‐based solutions that enhance ecosystem services, facilitate adaptation to climate change, and combat environmental stressors in cities. In the absence of adequate public financial resources, private funds are often expected to fill the gap. But market‐driven, nature‐based solutions can contribute to an inequitable distribution of urban ecosystem services by focusing on net benefits provided by nature. To help foster sustainable development and ensure that nature‐based solutions reach diverse and historically marginalized populations and communities, this scoping review explores the ecosystem services provided by nature‐based solutions and the payment mechanisms that produce and maintain them, focusing on literature on the United States. Findings suggest that the net benefits provided by nature‐based solutions and the available payment mechanisms vary based on the solution utilized (e.g., urban trees, parks, community gardens). Further, the distribution of benefits from nature‐based solutions is influenced by local historical, cultural, political, economic, and environmental contexts, the voices included in decision‐making, and the payment mechanisms used. Inspired by social equity principles, we present a framework for ecosystem service provision that is sensitive to market‐driven funding, financing, and partnerships. Practitioners can use this framework to assess whether payment schemes work in tandem with place (the local context) and process (governance and planning approaches) to ameliorate or exacerbate disparities in nature‐based solutions and the benefits they provide to people.",
+  "abstract_source": "openalex"
+ },
+ "flemish2024": {
+  "key": "flemish2024",
+  "doi": "10.1016/j.landurbplan.2024.105094",
+  "crossref_found": true,
+  "title": "Financing climate adaptation in Flemish cities: Unpacking financial strategies and policy dynamics for nature-based solutions",
+  "authors": [
+   "Op de Beeck, Tara",
+   "den Heijer, Chris",
+   "Coppens, Tom"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   8
+  ],
+  "journal": "Landscape and Urban Planning",
+  "volume": "248",
+  "issue": null,
+  "page": "105094",
+  "article_number": "105094",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 18,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "taxonomy2023": {
+  "key": "taxonomy2023",
+  "doi": "10.1016/j.envsci.2023.103598",
+  "crossref_found": true,
+  "title": "Can the EU taxonomy for sustainable activities help upscale investments into urban nature-based solutions?",
+  "authors": [
+   "Papari, Cătălina-Alexandra",
+   "Toxopeus, Helen",
+   "Polzin, Friedemann",
+   "Bulkeley, Harriet",
+   "Menguzzo, Eloisa Vittoria"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   1
+  ],
+  "journal": "Environmental Science &amp; Policy",
+  "volume": "151",
+  "issue": null,
+  "page": "103598",
+  "article_number": "103598",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 88,
+  "abstract": "We analyze the potential of the European Union (EU) Taxonomy (ET) for Sustainable Activities to mobilize investments for the sustainability transition toward urban nature-based solutions (UNBS). We map the current investment landscape of UNBS in Europe and combine this mapping with document analysis of UNBS inclusion in the ET to understand how the ET might help overcome the well-documented barriers to UNBS finance. We suggest that the ET has a legitimizing effect on UNBS as climate investments, which can support their uptake, but also conclude that only some UNBS subtypes are explicitly included when they fit with existing investment classes. In particular, the ET (1) disregards innovative - and specifically urban - UNBS types and (2) fails to provide incentives for investments that can deliver multiple sustainable objectives, which would enhance the investment case for UNBS. Since the current investment landscape of UNBS is characterized by a strong presence of public actors and a high incidence of co-financing, we recommend that public actors leverage the ET to obtain private funding for UNBS via (green) bond issuance and public-private co-finance instruments. Our analysis indicates that the ability of the ET to upscale investments for specific sustainability transitions depends on the interplay among their current investment landscapes, specific financing barriers, and explicit inclusion in the ET.",
+  "abstract_source": "openalex"
+ },
+ "whopays2021": {
+  "key": "whopays2021",
+  "doi": "10.1080/1523908x.2021.1931064",
+  "crossref_found": true,
+  "title": "‘But who’s going to pay for it?’ Contemporary approaches to green infrastructure financing, development and governance in London, UK",
+  "authors": [
+   "Mell, Ian"
+  ],
+  "year": 2021,
+  "issued": [
+   2021,
+   5,
+   24
+  ],
+  "journal": "Journal of Environmental Policy &amp; Planning",
+  "volume": "23",
+  "issue": "5",
+  "page": "628-645",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 62,
+  "abstract": "Green infrastructure (GI) research has grown in prominence as planners, politicians and environmental specialists have promoted its socio-economic and ecological value in urban environments. However, as the pace of growth has continued so has the exploration of how GI can mitigate the impacts of poor air and water quality, promote improved quality of place and support economic prosperity. Unfortunately, investments can be undermined by weak organisational understandings of the financial and societal value of GI. Consequently, we identify a historical reluctance by decision-makers and developers to support GI, partially based on the outdated appreciation of economic-ecological value compared to other built infrastructure. To examine how cities respond this paper discusses GI as a ‘boundary object’ aligning divergent understandings of the ongoing challenges and responsibility for GI funding. Using an examination of public, private and environment sector practice in London (UK), the paper argues that opportunities exist to align alternative funding mechanisms using ‘GI’ to promote cooperation between economically and socio-ecologically focussed stakeholders.",
+  "abstract_source": "openalex"
+ },
+ "gg2022": {
+  "key": "gg2022",
+  "doi": "10.1038/s41467-022-31572-1",
+  "crossref_found": true,
+  "title": "Green gentrification in European and North American cities",
+  "authors": [
+   "Anguelovski, Isabelle",
+   "Connolly, James J. T.",
+   "Cole, Helen",
+   "Garcia-Lamarca, Melissa",
+   "Triguero-Mas, Margarita",
+   "Baró, Francesc",
+   "Martin, Nicholas",
+   "Conesa, David",
+   "Shokry, Galia",
+   "del Pulgar, Carmen Pérez",
+   "Ramos, Lucia Argüelles",
+   "Matheney, Austin",
+   "Gallez, Elsa",
+   "Oscilowicz, Emilia",
+   "Máñez, Jésua López",
+   "Sarzo, Blanca",
+   "Beltrán, Miguel Angel",
+   "Minaya, Joaquin Martinez"
+  ],
+  "year": 2022,
+  "issued": [
+   2022,
+   7,
+   2
+  ],
+  "journal": "Nature Communications",
+  "volume": "13",
+  "issue": "1",
+  "page": null,
+  "article_number": "3816",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 649,
+  "abstract": "Although urban greening is universally recognized as an essential part of sustainable and climate-responsive cities, a growing literature on green gentrification argues that new green infrastructure, and greenspace in particular, can contribute to gentrification, thus creating social and racial inequalities in access to the benefits of greenspace and further environmental and climate injustice. In response to limited quantitative evidence documenting the temporal relationship between new greenspaces and gentrification across entire cities, let alone across various international contexts, we employ a spatially weighted Bayesian model to test the green gentrification hypothesis across 28 cities in 9 countries in North America and Europe. Here we show a strong positive and relevant relationship for at least one decade between greening in the 1990s-2000s and gentrification that occurred between 2000-2016 in 17 of the 28 cities. Our results also determine whether greening plays a \"lead\", \"integrated\", or \"subsidiary\" role in explaining gentrification.",
+  "abstract_source": "openalex"
+ },
+ "improve2022": {
+  "key": "improve2022",
+  "doi": "10.1016/j.envsci.2022.09.013",
+  "crossref_found": true,
+  "title": "Improvement, not displacement: A framework for urban green gentrification research and practice",
+  "authors": [
+   "Sax, Daniel L.",
+   "Nesbitt, Lorien",
+   "Quinton, Jessica"
+  ],
+  "year": 2022,
+  "issued": [
+   2022,
+   11
+  ],
+  "journal": "Environmental Science &amp; Policy",
+  "volume": "137",
+  "issue": null,
+  "page": "373-383",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 84,
+  "abstract": "As researchers have continued to expand the bounds of green gentrification scholarship, understanding of what green gentrification is and how to identify the phenomenon on the ground has grown obscured. In an attempt to bring clarity to this conversation, our research presents an urban green gentrification framework, based on findings from a scoping review and dimensional analysis conducted across green gentrification, urban greening, and related literatures. Our study is guided by two primary objectives: (1) identify the key dimensions of green gentrification as it pertains to urban greening; and (2) explore the relationships and intersections between dimensions in terms of their implications for the social impacts and outcomes of urban greening initiatives. We identify three principle dimensions of green gentrification as it relates to urban greening — conceptual foundations; design and intent; and socio-spatial change — as well as six related sub-dimensions. Considered in tandem, these dimensions present green gentrification as a dynamic process bound within a history of exploitative, neoliberal social and economic processes, operating beyond the scope of any single urban greening initiative. Responding to green gentrification, therefore, requires trans-dimensional strategies that consider these structural influences guiding patterns of urban greening investment and development. Our results also show that green gentrification is not a sufficient explanation for the complexities of urban development and change, and greening should be considered alongside other drivers of gentrification more broadly.",
+  "abstract_source": "openalex"
+ },
+ "gazi2019": {
+  "key": "gazi2019",
+  "doi": "10.1007/s10584-019-02509-3",
+  "crossref_found": true,
+  "title": "From urban sustainability transformations to green gentrification: urban renewal in Gaziosmanpaşa, Istanbul",
+  "authors": [
+   "Yazar, Mahir",
+   "Hestad, Dina",
+   "Mangalagiu, Diana",
+   "Saysel, Ali Kerem",
+   "Ma, Yuge",
+   "Thornton, Thomas F."
+  ],
+  "year": 2020,
+  "issued": [
+   2019,
+   8,
+   1
+  ],
+  "journal": "Climatic Change",
+  "volume": "160",
+  "issue": "4",
+  "page": "637-653",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "cited_by_openalex": 88,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "cph2022": {
+  "key": "cph2022",
+  "doi": "10.5334/bc.238",
+  "crossref_found": true,
+  "title": "Stretching or conforming? Financing urban climate change adaptation in Copenhagen",
+  "authors": [
+   "Whittaker, Stella",
+   "Jespersen, Kristjan"
+  ],
+  "year": 2022,
+  "issued": [
+   2022,
+   11,
+   23
+  ],
+  "journal": "Buildings and Cities",
+  "volume": "3",
+  "issue": "1",
+  "page": "974",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Ubiquity Press, Ltd.",
+  "cited_by_openalex": 11,
+  "abstract": "Cities worldwide are struggling to build resilience to the risks posed by climate change for their infrastructures, economies and quality of life. However, no city government has sufficient capacities to fund the adaptations required to ensure such resilience alone. Copenhagen’s efforts to secure financing for adaptation and mitigation are investigated, focusing on its innovative arrangements for funding projects to protect against extreme rainfall and flooding. A mixed-methods approach explores how municipal actors and investors accessed finance for supporting transition to a climate-adapted city. Mobilising concepts from the multilevel perspective to analyse the governance and market conditions that facilitate or impede such financing, this paper contributes to sustainable transition theory and the assessment of different funding approaches. The case study confirms the comprehensiveness and effective implementation of the city’s plans, especially its innovative financing product for adaptation to urban flooding. However, this approach has knock-on effects for tackling other climate hazards, partnerships and investment urgency. Although extreme rainfall events in 2011–13 opened a valuable ‘window of opportunity’ for change at the system landscape level, catalysing a radical shift in government policy and investment, this disruption did not elicit a commensurate response from the city’s finance sector. Practice relevance Several challenges exist for municipalities and investors when financing urban adaptation. Innovation is needed not only in technology but also in approaches to financing and investment. A key strength of Copenhagen’s adaptation approach lies in its innovative financing arrangements for funding an effective response to the risks of extreme rainfall, i.e. combining measures to protect against urban flooding with improvements in the urban public realm. A sustainable transition model can help guide cities in planning and funding adaptation to climate change. Recommendations include equal prioritisation by all actors of climate adaptation and mitigation; the removal of constraints on private sector participation; government engagement with a diverse set of private capital providers; experimentation with different financing mechanisms; the development of bankable adaptation projects; and efforts to monetise and unlock the value of adaptation projects.",
+  "abstract_source": "openalex"
+ },
+ "beyondplan2024": {
+  "key": "beyondplan2024",
+  "doi": "10.1002/eet.2142",
+  "crossref_found": true,
+  "title": "Moving beyond the plan: Exploring the opportunities to accelerate the implementation of municipal climate change adaptation policies and plans",
+  "authors": [
+   "Rogers, Nina J. L.",
+   "Adams, Vanessa M.",
+   "Byrne, Jason A."
+  ],
+  "year": 2025,
+  "issued": [
+   2024,
+   11,
+   27
+  ],
+  "journal": "Environmental Policy and Governance",
+  "volume": "35",
+  "issue": "2",
+  "page": "276-291",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "cited_by_openalex": 25,
+  "abstract": "Across the globe, ecosystems, biodiversity and human societies are experiencing the escalating and often catastrophic impacts of anthropogenic climate change. Well‐considered, properly resourced and trans‐scalar adaptation responses are essential. Local governments (e.g., municipal councils) can provide crucial support to communities enabling planning, response and recovery from climate change impacts. While innumerable municipal climate change adaptation policies, strategies and plans have been developed, the implementation of adaptation actions typically lags, creating a planning‐to‐implementation gap. Contributing factors and the opportunities to overcome key constraints remain underexplored. This article reports the results of research addressing that knowledge gap analysing the circumstances that give rise to a municipal climate adaptation implementation gap, and the opportunities to progress from adaptation planning to implementation. Interviews with 25 local government leaders and staff reveal five key opportunities to advance the implementation of adaptation polices and plans—(i) mobilising novel finance solutions; (ii) developing an adaptation skills pipeline; (iii) building collaborative and trans‐disciplinary ways of working across municipal councils; (iv) enhancing the salience and prominence of adaptation as a core municipal concern and (v) legislating for municipal climate change adaptation mainstreaming. Establishing good climate governance and improving capacity for adaptation will be critical if local governments are to close the municipal climate change adaptation planning‐to‐implementation gap.",
+  "abstract_source": "openalex"
+ },
+ "payt2023": {
+  "key": "payt2023",
+  "doi": "10.1016/j.jenvman.2023.119211",
+  "crossref_found": true,
+  "title": "Pay-as-you-throw tariff and sustainable urban waste management: An empirical analysis of relevant effects",
+  "authors": [
+   "Romano, Giulia",
+   "Masserini, Lucio"
+  ],
+  "year": 2023,
+  "issued": [
+   2023,
+   12
+  ],
+  "journal": "Journal of Environmental Management",
+  "volume": "347",
+  "issue": null,
+  "page": "119211",
+  "article_number": "119211",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 63,
+  "abstract": "Sustainable waste management presents a critical global challenge, necessitating the development of strategies for waste reduction and enhanced recycling. This study explores the impact of pay-as-you-throw tariffs (PAYTT) on promoting sustainable urban waste management. Propensity score matching was employed to analyse data from 7583 Italian municipalities. The study assesses the effects of PAYTT on both total and unsorted urban waste and evaluates their influence on the quantity and quality of separate waste collection. The findings indicate that the implementation of PAYTT effectively aligns with EU waste hierarchy policies. Municipalities adopting PAYTT experience reduced total and unsorted waste generation, along with improved quantity and quality of separate waste collections. Consequently, PAYTT holds significant potential for widespread application throughout the EU, contributing to enhanced separate waste collection efforts.",
+  "abstract_source": "openalex"
+ },
+ "payt2026": {
+  "key": "payt2026",
+  "doi": "10.1016/j.ecolecon.2026.108991",
+  "crossref_found": true,
+  "title": "Environmental and economic effects of pay-as-you-throw waste taxation: An assessment based on difference-in-differences models",
+  "authors": [
+   "Compagnoni, Marco",
+   "Torbert, Jane"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   8
+  ],
+  "journal": "Ecological Economics",
+  "volume": "246",
+  "issue": null,
+  "page": "108991",
+  "article_number": "108991",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 5,
+  "abstract": "Excessive municipal waste generation remains a pressing environmental challenge in the European Union, motivating the adoption of policies such as Pay-As-You-Throw (PAYT) schemes that link household waste management fees to unsorted waste production. Rigorous evaluation of PAYT’s effects is complicated by staggered policy adoption and non-reliable parallel trends across municipalities, which can bias standard Difference-in-Differences (DiD) estimates. We address this challenge by comparing two-way fixed effects DiD, staggered DiD, and Synthetic DiD approaches. Applying this framework to the staggered PAYT rollout in the Italian region of Emilia-Romagna, we find a robust 10 percentage point increase in sorted waste collection rates on average. This shift is almost entirely due to a reduction of unsorted waste per capita, without a significant growth of sorted waste generated, aligning with the top priority of the EU Waste Hierarchy, i.e. waste prevention. Importantly, PAYT does not significantly raise the total cost of the waste management service on average, although it does involve a shift in the composition of cost components. PAYT adoption patterns point to capacity- and performance-based selection into PAYT, while the Early–Late dynamics are consistent with learning and diffusion. This study underscores the potential of PAYT as an economically viable policy instrument for municipalities and regions to advance urban waste management in line with circular economy objectives.",
+  "abstract_source": "openalex"
+ },
+ "payt2024": {
+  "key": "payt2024",
+  "doi": "10.1016/j.jclepro.2024.143659",
+  "crossref_found": true,
+  "title": "Tax incentives and environmental performance: The pay-as-you-throw policy in Emilia-Romagna, Italy",
+  "authors": [
+   "Di Matteo, Dante",
+   "Guadagno, Eleonora"
+  ],
+  "year": 2024,
+  "issued": [
+   2024,
+   10
+  ],
+  "journal": "Journal of Cleaner Production",
+  "volume": "475",
+  "issue": null,
+  "page": "143659",
+  "article_number": "143659",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "cited_by_openalex": 17,
+  "abstract": "",
+  "abstract_source": ""
+ },
+ "coord2022": {
+  "key": "coord2022",
+  "doi": "10.1080/00220388.2022.2055467",
+  "crossref_found": true,
+  "title": "Climate Finance Coordination From the Global to the Local: Norm Localization and the Politics of Climate Finance Coordination in Zambia",
+  "authors": [
+   "Funder, Mikkel",
+   "Dupuy, Kendra"
+  ],
+  "year": 2022,
+  "issued": [
+   2022,
+   3,
+   30
+  ],
+  "journal": "The Journal of Development Studies",
+  "volume": "58",
+  "issue": "10",
+  "page": "1899-1916",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 27,
+  "abstract": "The transfer of climate finance to developing countries is a key feature in global climate change agreements. This article examines how conflicting preferences between climate finance donors and domestic actors affect the diffusion of emerging international norms on climate finance coordination at national and subnational levels in Zambia. Informed by literature on norm localization we trace the diverging preferences and interactions among donors and domestic actors over a 12-year period as they shape climate finance coordination in Zambia with support from the global Climate Investment Funds. We find that this has been a highly conflictual and dynamic process with contestation centered on norm application rather than norm validity. While the World Bank have had a strong initial influence on the enactment of coordination norms, domestic actors have over time undermined and reconfigured coordination arrangements to align better with their own preferences. Our findings show (i) how emerging international norms on climate finance coordination may be localized and reshaped as they are enacted in developing countries; (ii) that preferences may differ significantly between and among donors and domestic actors in this regard, and (iii) that past relationships from development cooperation may be carried forward but also challenged in this process.",
+  "abstract_source": "openalex"
+ },
+ "managers2023": {
+  "key": "managers2023",
+  "doi": "10.1111/puar.13726",
+  "crossref_found": true,
+  "title": "Local government managers are on the frontlines of climate change: Are they ready?",
+  "authors": [
+   "Deslatte, Aaron",
+   "Siciliano, Michael D.",
+   "Krause, Rachel M."
+  ],
+  "year": 2023,
+  "issued": [
+   2023,
+   9,
+   12
+  ],
+  "journal": "Public Administration Review",
+  "volume": "83",
+  "issue": "6",
+  "page": "1506-1511",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "cited_by_openalex": 30,
+  "abstract": "State and local governments in the United States are the implementation agents for a vast swath of federal policies. As the country embarks on an unprecedented foray into fiscal federalism to combat climate change, we face a stark reality: many local governments are not ready. Drawing from recent data and evidence on local sustainability activities, we argue policy makers and managers at all levels of governance need to apply the lessons learned over the last two decades of subnational climate efforts. For local government managers working in the 21st century, climate change will likely be a defining social dilemma of their lifetimes. After years of inaction, the United States has taken a major step in trying to meet its greenhouse‐gas mitigation pledges. But implementation requires understanding both the opportunities and opportunity costs posed by such generational investments.",
+  "abstract_source": "openalex"
+ },
+ "sdb2021": {
+  "key": "sdb2021",
+  "doi": "10.1080/09538259.2021.1977545",
+  "crossref_found": true,
+  "title": "From Global to Local: Subnational Development Banks in the Era of Sustainable Development Goals",
+  "authors": [
+   "Suchodolski, Sergio Gusmão",
+   "Modesto Junior, Adauto",
+   "Bechelaine, Cinthia Helena de Oliveira",
+   "Costa, Leila Maria Bedeschi"
+  ],
+  "year": 2022,
+  "issued": [
+   2021,
+   10,
+   11
+  ],
+  "journal": "Review of Political Economy",
+  "volume": "34",
+  "issue": "2",
+  "page": "318-339",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 13,
+  "abstract": "Financing the implementation of the seventeen Sustainable Development Goals (SDGs) has been a development challenge since the establishment of the 2030 Agenda — especially under the unequal circumstances imposed by COVID-19. This paper aims to better inform this debate by highlighting the nature of Subnational Development Banks (SDBs) in the context of sustainable finance and how they operate within development networks. To this end, the research method addresses a comparative study among countries that stand out for the number of subnational institutions in their development systems, Brazil and Vietnam. After comparing the Brazilian and Vietnamese particularities, we present concrete examples of SDBs working to connect local needs to the 2030 Agenda investments. As final conclusions, the study allows to demonstrate that, by being the last mile specialist on the ground, in different localities with particular backgrounds and contexts, SDBs could be available channels to international resources to address the financial needs of local firms and governments, improving both efficiency and effectiveness of development programs and funds. Highlighting the potential of SDBs, this analysis leaves possibilities for a future research agenda on more integrated national development finance systems focused on local impact.",
+  "abstract_source": "openalex"
+ },
+ "privfin2019": {
+  "key": "privfin2019",
+  "doi": "10.1080/19463138.2018.1559970",
+  "crossref_found": true,
+  "title": "Addressing constraints to private financing of urban (climate) infrastructure in developing countries",
+  "authors": [
+   "White, Roland",
+   "Wahba, Sameh"
+  ],
+  "year": 2019,
+  "issued": [
+   2019,
+   1,
+   28
+  ],
+  "journal": "International Journal of Urban Sustainable Development",
+  "volume": "11",
+  "issue": "3",
+  "page": "245-256",
+  "article_number": null,
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "cited_by_openalex": 37,
+  "abstract": "Urban infrastructure investment needs in the developing world are immense, particularly when the additional costs associated with lower carbon, more climate-resilient options are considered. These cannot possibly be financed from fiscal sources and ODA flows alone; private financing will need to be accessed. Focusing on the ability of city governments and subnational urban utilities to mobilize private finance, this paper makes two core arguments. First, private investment in municipal infrastructure requires robust institutional, fiscal and regulatory systems that are often absent in developing countries. Establishing such systems often requires policy and institutional reform, much of which lies beyond the competence and control of city governments themselves. Second, while the marginal investment needs related to climate mitigation and adaptation complicate and aggravate the picture, they do not alter the fundamental requirements of private investors. Put simply, municipalities and utilities will need to satisfy the requirements of regular private finance before they can attract green private finance. This paper looks across the main avenues for city governments to mobilize private finance – municipal borrowing, public–private partnerships, and land value capture instruments – and identifies four broad factors that determine the potential size and scope of city leveraging activity. It then offers a new framework to understand where the most pressing constraints to private investment readiness lie and proposes priority measures that local and national governments, together with development partners and other stakeholders, can take to address them.",
+  "abstract_source": "openalex"
+ },
+ "mission2026": {
+  "key": "mission2026",
+  "doi": "10.3389/frsc.2025.1665973",
+  "crossref_found": true,
+  "title": "Financing the net-zero transition of Mission Cities: governance barriers and enablers to the use of innovative financing instruments",
+  "authors": [
+   "Kupper, Diana",
+   "Pennino, Stella",
+   "Deshayes, Eloïse",
+   "Veskioja, Kaija",
+   "Haseth, Renata"
+  ],
+  "year": 2026,
+  "issued": [
+   2026,
+   1,
+   9
+  ],
+  "journal": "Frontiers in Sustainable Cities",
+  "volume": "7",
+  "issue": null,
+  "page": null,
+  "article_number": "1665973",
+  "type": "journal-article",
+  "publisher": "Frontiers Media SA",
+  "cited_by_openalex": 2,
+  "abstract": "As CO 2 emissions continue to rise and the impacts of climate change reach unprecedented levels, cities must accelerate the net-zero transition through rapid and effective action. The EU Mission for Climate-Neutral and Smart Cities has made strong commitments to lead this transition, but securing the necessary resources increasingly requires leveraging innovative financing instruments (IFIs). This paper provides an exploratory empirical assessment of governance barriers and enabling conditions shaping innovative finance in Mission Cities, drawing on qualitative analysis of cities’ Climate Investment Plans and in-depth interviews with six Mission Cities (Barcelona, Münster, Parma, Pécs, The Hague, and Thessaloniki). The results reveal a high level of interest but limited uptake of IFIs, with many instruments remaining in conceptual stages. We identify six mutually reinforcing categories of barriers—fiscal and financial; legal and regulatory; institutional and capacity; behavioral and cultural; political and macroeconomic; and technological and market—through which instrument choices become constrained and cities remain reliant on grants and concessional loans. At the same time, progress is enabled by motivated municipal leadership, EU-funded technical assistance and peer learning, and prior “learning-by-doing” experience with specific instruments. Building on these findings, we propose governance-oriented recommendations across four areas to help cities move from plans to implementation: strengthening institutional and financial capacity, improving public engagement and acceptance, reforming national rules that constrain local fiscal tools and borrowing, and restructuring EU funding programmes to reduce administrative burden while deliberately building more effective, innovative, and blended urban climate finance.",
+  "abstract_source": "openalex"
+ }
+}
