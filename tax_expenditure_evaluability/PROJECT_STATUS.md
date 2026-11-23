@@ -235,3 +235,11 @@ Arama terimleri: "2019 Vergi Harcamaları Raporu", "7156 sayılı 2019 Yılı Me
 - Kod kitabı başlığı, README ve Tablo 10 etiketi ("göründüğü her raporda") de güncellendi.
 
 **Yeniden çalıştırma:** `run_all.sh` tam çalıştırıldı. `12_number_trace.py`: 75/75 PASS. Özet 200 sözcük; metin (kaynakçaya kadar) 7.007 sözcük.
+
+### 10.7 Bibliography and submission files (23 Nov 2026)
+
+- `paper/references.bib` curated and verified: 36 entries = 24 literature keys (2 unused entries removed; Bar-Siman-Tov book review replaced by the 2018 R&G article) + 9 reports + Laws 5018, 7156, 7197. All 36 cited; no missing keys (`scripts/13_check_citations.py`).
+- Law 5018 Art. 15 and Art. 18(2)(c) verified in the consolidated text (`data/raw/law/`); added to Section 3.
+- IMF note page locators checked against the PDF; one corrected (pp. 4, 12 → pp. 3, 10, 12).
+- Style: APA 7 (no target journal specified). Submission files: `paper/submission/manuscript_anonymised.docx` (with references, tables, figures) and `title_page.docx` (`scripts/14_build_submission.py`). Number trace 75/75 PASS after edits.
+- Details: `paper/reference_verification_report.md`.

@@ -19,4 +19,6 @@ python3 scripts/09_item_codes.py
 python3 scripts/10_analysis.py > /dev/null
 python3 scripts/11_verify_references.py   # uses cached CrossRef records in data/literature/crossref when present
 python3 scripts/12_number_trace.py
+python3 scripts/13_check_citations.py > /dev/null   # citation keys vs paper/references.bib
+# Submission files (requires pandoc): python3 scripts/14_build_submission.py
 echo "done"

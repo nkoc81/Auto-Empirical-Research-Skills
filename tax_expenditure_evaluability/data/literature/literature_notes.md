@@ -46,3 +46,15 @@ The manuscript was revised so that sources not read in full are cited only for t
 Bar-Siman-Tov) or for statements contained in their CrossRef abstract (Heald; Leviton et al.; Trevisan; Redonda et al.;
 Burton & Sadiq). Statements about Turkish studies are explicitly marked in the text as based on abstracts.
 oecd2026 was removed (not cited). All 26 entries in paper/references.bib are cited in the manuscript and vice versa.
+
+## Bibliography audit (23 Nov 2026, second pass)
+
+- Correction to the note above: toder2000 and burman2008 were in references.bib but not cited; both removed.
+- barsimantov2018 previously pointed to a book review (AJCL 66(2), 453–457; OpenAlex type book-review). Replaced
+  by Bar-Siman-Tov (2018), Regulation & Governance 12(2), 192–219, doi:10.1111/rego.12148 (Crossref + abstract);
+  the sentence in Section 2.3 was rewritten to match that abstract.
+- Twelve official sources added to references.bib (nine reports, Laws 7156 and 7197, Law 5018); fields taken from
+  the documents in data/raw/. Law 5018 Arts. 15 and 18(2)(c) read in data/raw/law/.
+- references.bib is now curated by hand; scripts/11_verify_references.py writes the raw Crossref version to
+  data/literature/references_crossref_raw.bib instead of overwriting it.
+- Full record: paper/reference_verification_report.md.
