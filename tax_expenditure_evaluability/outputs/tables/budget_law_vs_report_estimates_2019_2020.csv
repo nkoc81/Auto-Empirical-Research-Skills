@@ -1,0 +1,10 @@
+fiscal_year,estimate,document,location,total_million_try,pct_vs_budget_law_of_year
+2019,"2018 report, projection (estimate made with 2017 data)",VHR2018,"Tablo 3, PDF p. 298",178696.0,0.0
+2019,"2018 report, table of amounts added to the 2019-2021 budget law",VHR2018,"Tablo 2, PDF p. 296",178696.0,0.0
+2019,"2019 budget law annex (Law 7156), budget estimate",BL2019,Official Gazette p. 1973 (PDF p. 45),178695.913,0.0
+2019,"2020 report, 'gerçekleşme' (realisation) estimate calculated from 2019 data",VHR2020,"Tablo 2, PDF p. 308",177601.0,-0.61
+2020,"2018 report, projection",VHR2018,"Tablo 3, PDF p. 298",205401.0,5.02
+2020,"2019 budget law annex, second-year estimate",BL2019,Official Gazette p. 1973 (PDF p. 45),205401.393,5.02
+2020,"2020 budget law annex (Law 7197), budget estimate",BL2020,Official Gazette p. 1973 (PDF p. 44),195590.813,0.0
+2020,"2020 report, projection (estimate made with 2019 data)",VHR2020,"Tablo 2, PDF p. 308",198247.0,1.36
+2020,"2021 report, 'gerçekleşme' (realisation) estimate calculated from 2020 data",VHR2021,"Tablo 2, PDF p. 316",237395.0,21.37

@@ -45,7 +45,7 @@
 |          2023 | 2023                        |                       1476664.0 | Report 2022, budget-law table  |                           994380.0 |                   2024 |                  1729457.0 |                            17.1 |                            73.9 |                     5.8 |                      6.5 |
 |          2024 | 2024                        |                       2454037.0 | Report 2023, budget-law table  |                          2210376.0 |                   2025 |                  2752854.0 |                            12.2 |                            24.5 |                     5.5 |                      6.2 |
 
-*Note:* Each row compares estimates for the same fiscal year published in different documents (same-year prices, so the nominal comparison is meaningful). First projection = first projection year of the report whose realisation year is the preceding year. Budget-law estimate = the estimate attached to that year's central government budget law: taken from the budget-law annex for 2019 and 2020 (Official Gazette 30642 and 30995, Mükerrer) and otherwise from the budget-law table reprinted in the reports. The 2019 budget-law figure is identical to the 2018 report's projection (same vintage, one observation); the 2020 budget-law figure belongs to the vintage of the missing 2019 report. 'Realisation' is the later report's ex post revenue-forgone estimate, not an observed outcome. Differences reflect macro assumptions, legal changes and data/method updates together; they are not a measure of policy effects.
+*Note:* Each row compares estimates for the same fiscal year published in different documents (same-year prices, so the nominal comparison is meaningful). First projection = first projection year of the report whose realisation year is the preceding year. Budget-law estimate = the estimate attached to that year's central government budget law: taken from the budget-law annex for 2019 and 2020 (Official Gazette 30642 and 30995, Mükerrer) and otherwise from the budget-law table reprinted in the reports. The 2019 budget-law figure is identical to the 2018 report's projection (the 2018 report states that its amounts were also added to the budget law; one estimate, counted once). The 2020 budget-law figure appears in no report analysed; it is used only as the budget-law estimate for 2020. No first projection exists for 2019 because no 2019 report was found; the 2019 realisation estimate is from the 2020 report. 'Realisation' is the later report's ex post revenue-forgone estimate, not an observed outcome. Differences reflect macro assumptions, legal changes and data/method updates together; they are not a measure of policy effects.
 
 ### Table 3b. Item-level projection versus later realisation estimate (strongly linked items)
 
@@ -160,12 +160,12 @@
 
 ### Table 10. Persistence of missing cost estimates across reports
 
-|                                                    |   Count |
-|:---------------------------------------------------|--------:|
-| Distinct items (linked ids)                        |     338 |
-| Items appearing in ≥3 reports                      |     284 |
-| ...of which never estimated (C3=0 in every report) |      25 |
-| ...of which C3=0 in at least one report            |      85 |
+|                                                                              |   Count |
+|:-----------------------------------------------------------------------------|--------:|
+| Distinct items (linked ids)                                                  |     338 |
+| Items appearing in ≥3 reports                                                |     284 |
+| ...of which never estimated (C3=0 in every report in which the item appears) |      25 |
+| ...of which C3=0 in at least one report                                      |      85 |
 
 *Note:* Item identities across reports are a research construct (data/interim/items_by_report.csv, link_method).
 

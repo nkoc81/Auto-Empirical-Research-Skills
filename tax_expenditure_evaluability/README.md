@@ -3,7 +3,7 @@
 Replication package for the article *"Evaluability of Tax Expenditures in Türkiye: An Assessment of Official
 Reporting Against the IMF Evaluation Framework"* (manuscript: `paper/manuscript.md`).
 
-The study codes the information in nine official Tax Expenditure Reports (2016–2025) against nine criteria
+The study codes the information in nine official Tax Expenditure Reports available for 2016–2018 and 2020–2025 (no 2019 report was found), plus the tax expenditure tables of the 2019 and 2020 budget laws, against nine criteria
 derived from the IMF How-To Note 22/05 (Beer, Benedek, Erard & Loeprick, 2022). It measures **evaluability of the
 reported information**, not the effects of any tax expenditure.
 

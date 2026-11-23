@@ -1,4 +1,4 @@
-# Codebook: evaluability of tax expenditure reporting (Türkiye, 2016–2025 reports)
+# Codebook: evaluability of tax expenditure reporting (Türkiye; reports 2016–2018 and 2020–2025, no 2019 report found)
 
 Version 1.0 (22 Nov 2026). One coder (the author). **No independent second coder was available.** Codes
 were assigned with dictionary-assisted retrieval of candidate sentences (scripts/06_candidate_sentences.py)

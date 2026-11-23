@@ -54,7 +54,6 @@ add("395", "reconciliation_rows_vs_subtable_totals.csv", "status == ok_within_5"
 add("402", "reconciliation_rows_vs_subtable_totals.csv", "rows with a printed total", len(ok))
 add("6.17", "table2_official_aggregates.csv", "2025, TE/GDP (%)", t2.loc[2025, "TE/GDP (%)"], f2)
 add("37.68", "table2_official_aggregates.csv", "2025, TE/tax revenue (%)", t2.loc[2025, "TE/tax revenue (%)"], f2)
-add("4.70", "table2_official_aggregates.csv", "2021 report (2020), TE/GDP", t2.loc[2021, "TE/GDP (%)"], f2)
 add("5.85", "table2_official_aggregates.csv", "2022 report (2021), TE/GDP", t2.loc[2022, "TE/GDP (%)"], f2)
 add("6.52", "table2_official_aggregates.csv", "2024 report (2023), TE/GDP", t2.loc[2024, "TE/GDP (%)"], f2)
 add("19.51", "table2_official_aggregates.csv", "2016 report (2015), TE/tax revenue", t2.loc[2016, "TE/tax revenue (%)"], f2)
@@ -80,9 +79,8 @@ add("22–35", "table4_cost_information.csv", "data not available, min-max", (dn
 nm = t4.loc[[2016, 2017, 2018], "of which: new measure"]
 add("10–16", "table4_cost_information.csv", "new measure 2016-2018, min-max", (nm.min(), nm.max()), lambda v: f"{v[0]}–{v[1]}")
 add("284", "table10_missing_persistence.csv", "Items appearing in ≥3 reports", int(t10.loc["Items appearing in ≥3 reports", "Count"]))
-add("25 are never estimated", "table10_missing_persistence.csv", "never estimated", int(t10.iloc[2, 0]), lambda x: f"{x} are never estimated")
+add("25 are never estimated", "table10_missing_persistence.csv", "never estimated (C3=0 in every report in which the item appears)", int(t10.iloc[2, 0]), lambda x: f"{x} are never estimated")
 add("85 lack", "table10_missing_persistence.csv", "C3=0 in at least one report", int(t10.iloc[3, 0]), lambda x: f"{x} lack")
-add("57.8–61.5%", "table5_estimate_quality.csv", "Very good % of amount, 2016-2020", (t5.loc[2016:2020, "Very good (% of amount)"].min(), t5.loc[2016:2020, "Very good (% of amount)"].max()), lambda v: rng(v[0], v[1], f1) + "%")
 add("14.2%", "table5_estimate_quality.csv", "2025, Very good % of amount", t5.loc[2025, "Very good (% of amount)"], lambda x: f"{x:.1f}%")
 add("42.5%", "table5_estimate_quality.csv", "2025, Approximate % of amount", t5.loc[2025, "Approximate (% of amount)"], lambda x: f"{x:.1f}%")
 c4 = t6[t6.Criterion == "C4"]["1"]
@@ -142,6 +140,18 @@ IC = pd.read_csv(D / "coding" / "item_codes.csv", dtype=str, keep_default_na=Fal
 m = IC[(IC.report_id == "VHR2025") & (IC.sec_no != "")].groupby("sec_no").size()
 add("28%", "data/coding/item_codes.csv", "2025: share of sections with >1 mapped item", 100 * (m > 1).mean(), lambda x: f"{x:.0f}%")
 add("25 items", "data/coding/item_codes.csv", "2025: max items mapped to one section (2.3.4 KDV Art. 17)", int(m.max()), lambda x: f"{x} items")
+
+K = pd.read_csv(T / "budget_law_vs_report_estimates_2019_2020.csv")
+kv = lambda y, doc, part: float(K[(K.fiscal_year == y) & (K.document == doc) & K.estimate.str.contains(part, regex=False)].total_million_try.iloc[0])
+add("177,601 million TL", "budget_law_vs_report_estimates_2019_2020.csv", "2019, VHR2020 realisation estimate", kv(2019, "VHR2020", "gerçekleşme"), lambda x: f"{x:,.0f} million TL")
+add("0.6% below", "budget_law_vs_report_estimates_2019_2020.csv", "2019, VHR2020 vs BL2019 (%)",
+    -float(K[(K.fiscal_year == 2019) & (K.document == "VHR2020")].pct_vs_budget_law_of_year.iloc[0]), lambda x: f"{x:.1f}% below")
+add("21.4% above", "budget_law_vs_report_estimates_2019_2020.csv", "2020, VHR2021 vs BL2020 (%)",
+    float(K[(K.fiscal_year == 2020) & (K.document == "VHR2021")].pct_vs_budget_law_of_year.iloc[0]), lambda x: f"{x:.1f}% above")
+add("23.60%", "table2_official_aggregates.csv", "2018 report (2017), TE/tax revenue", t2.loc[2018, "TE/tax revenue (%)"], lambda x: f"{x:.2f}%")
+add("4.11% of GDP for 2019", "table2_official_aggregates.csv", "2020 report (2019), TE/GDP", t2.loc[2020, "TE/GDP (%)"], lambda x: f"{x:.2f}% of GDP for 2019")
+add("57.8–61.0%", "table5_estimate_quality.csv", "Very good % of amount, 2016-2018", (t5.loc[2016:2018, "Very good (% of amount)"].min(), t5.loc[2016:2018, "Very good (% of amount)"].max()), lambda v: rng(v[0], v[1], f1) + "%")
+add("61.5% in the 2020 report", "table5_estimate_quality.csv", "2020, Very good % of amount", t5.loc[2020, "Very good (% of amount)"], lambda x: f"{x:.1f}% in the 2020 report")
 
 X = pd.DataFrame(CH)
 X.to_csv(T / "manuscript_number_trace.csv", index=False)

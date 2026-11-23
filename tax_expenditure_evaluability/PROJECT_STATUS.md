@@ -1,10 +1,26 @@
-# PROJE DURUMU – Veri Uygunluğu (Fizibilite) Raporu
+# PROJE DURUMU
 
 **Proje:** Evaluability of Tax Expenditures in Türkiye: An Assessment of Official Reporting Against the IMF Evaluation Framework
-**Tarih:** 22 Kasım 2026 (tüm erişim tarihleri bu tarihtir)
-**Durum:** Kaynak taraması, belge temini, ek tablolarının çıkarımı ve mutabakatı tamamlandı. Kodlama ve analiz **henüz yapılmadı**; aşağıdaki bulgular yalnızca veri uygunluğuna ilişkindir, araştırma sonucu değildir.
+**Son güncelleme:** 23 Kasım 2026
+
+## 0. Güncel durum (özet)
+
+**Durum:** Kaynak taraması, veri çıkarımı ve mutabakatı, kodlama, analiz, makale taslağı ve iki denetim tamamlandı. Bu dosyanın 1–8. bölümleri, analizden önce yazılmış **analiz öncesi fizibilite notudur** ve tarihsel kayıt olarak korunuyor. Güncel sonuçlar §0, §9 ve §10'dadır. Fizibilite notundaki bir ifade sonradan değiştiyse yanında *[güncellendi]* notu var.
+
+**Belgeler ve kapsam**
+- **Vergi Harcamaları Raporları:** 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025 (9 rapor) analiz edildi.
+- **2019 Vergi Harcamaları Raporu:** bulunamadı. Bu raporun gerçekleşme yılı 2018 olurdu; bu nedenle **2018 gerçekleşme yılı rapor serisinde eksik**. 2019 gerçekleşme yılı eksik değildir: 2020 raporu 2019 verileriyle hesaplanmış "gerçekleşme" tahmini veriyor (Tablo 2, PDF s. 308: 177.601 milyon TL; PDF s. 23, 307).
+- **2019 bütçe kanunu eki:** bulundu (7156 sayılı Kanun, RG 31.12.2018/30642 Mükerrer, RG s. 1973 = cetvel PDF s. 45). 2019–2021 bütçe tahminleri, vergi türü toplamları, TL. Bütün satırlar 2018 raporunun Tablo 2 (PDF s. 296) ve Tablo 3 (PDF s. 298) değerleriyle milyon TL'ye yuvarlamayla aynı. 2018 raporu da bu tutarların 2019–2021 bütçe kanununa eklendiğini yazıyor (PDF s. 296). Yani aynı tahmin iki belgede yayımlanmış ve **tek tahmin** sayıldı. Bu bir 2019 tahminidir, 2019 gerçekleşmesi değildir.
+- **2020 bütçe kanunu eki:** bulundu (7197 sayılı Kanun, RG 31.12.2019/30995 Mükerrer, RG s. 1973 = cetvel PDF s. 44). 2020–2022 bütçe tahminleri. Bu değerler analiz edilen hiçbir raporda geçmiyor ve hangi rapora dayandıklarını gösteren bir belge yok. Bu nedenle yalnızca "2020 bütçe kanunu ekindeki 2020–2022 tahminleri" olarak kullanılıyor.
+- **Panele dahil edilmedi:** Bütçe ekleri kalem bazında tutar vermiyor; yalnızca vergi türü toplamları içeriyor. Bu nedenle `data/tax_expenditure_panel.csv` (rapor-kalem-yıl) paneline eklenmedi. Ayrı bir seri olarak tutuluyor (`data/interim/budget_law_annexes.csv`) ve yalnızca Tablo 3'teki aynı-yıl karşılaştırmalarında kullanılıyor.
+
+**Ana çıktılar:** `paper/manuscript.md`; `outputs/tables/tables.md` (Tablo 1–13); `outputs/figures/fig1–fig4`; `outputs/tables/manuscript_number_trace.csv` (metindeki her sayının kaynağı); `outputs/tables/budget_law_vs_report_estimates_2019_2020.csv`.
+
+**Açık işler:** §10.5'te. **İkinci denetim kaydı:** §10.6.
 
 ---
+
+> **Aşağıdaki 1–8. bölümler: ANALİZ ÖNCESİ FİZİBİLİTE NOTU (22 Kasım 2026).** Analizden önce yazılmıştır, tarihsel kayıt olarak korunuyor. Güncel durum için §0, §9 ve §10'a bakın.
 
 ## 1. Hangi yılların hangi resmî belgeleri bulundu?
 
@@ -26,10 +42,10 @@ Ayrıntılı envanter: `data/source_inventory.csv` (kurum, başlık, belge tür�
 | IMF How-To Note 22/05 (Beer, Benedek, Erard, Loeprick) | IMF FAD | 2022-11 | – | – | indirildi; DOI 10.5089/9798400221507.061 CrossRef ile doğrulandı |
 
 Notlar:
-- **2019 raporu bulunamadı.** HMB arşiv sayfası yalnızca 2007, 2016, 2017, 2018 raporlarını; GİB sayfası 2020–2025 raporlarını listeliyor. GİB dosya sunucusunda 2019 ve 2026 adları HTTP 400 döndürüyor. İkincil bir kaynakta 2019 raporundan söz edilmesi, resmî bir kopyaya ulaşılamadığı için kullanılmadı. Sonuç: **2018 gerçekleşme yılı serisi eksiktir.**
+- **2019 raporu bulunamadı.** HMB arşiv sayfası yalnızca 2007, 2016, 2017, 2018 raporlarını; GİB sayfası 2020–2025 raporlarını listeliyor. GİB dosya sunucusunda 2019 ve 2026 adları HTTP 400 döndürüyor. İkincil bir kaynakta 2019 raporundan söz edilmesi, resmî bir kopyaya ulaşılamadığı için kullanılmadı. Sonuç: **2018 gerçekleşme yılı serisi eksiktir.** *[güncellendi: 2019 gerçekleşme tahmini 2020 raporunda var; bkz. §0.]*
 - **En güncel rapor 2025 raporudur** (Şubat 2026). 2026 raporu henüz yayımlanmamış görünüyor (dosya adı sunucuda yok, listeleme sayfasında yok).
 - Kullanıcının verdiği `teknoloji.gib.gov.tr` adresi 404 döndürdü; aynı belge `cdn.gib.gov.tr` üzerinden alındı (envanterde kalıcı URL olarak bu adres kayıtlı).
-- **Bütçe kanunu ekleri** ayrı belge türü olarak envantere girildi ancak ayrıca indirilmedi. Raporlar bütçe kanununa eklenen vergi türü toplamlarını kendi tablolarında yeniden basıyor (2016 Tablo 4.4; 2017 Tablo 2; 2018 Tablo 2; 2020–2025 Tablo 1). Analizde bu rakamlar `budget_law` serisi olarak ayrı tutulacak; rapor tutarlarıyla toplanmayacak (çift sayım yok). 2025 raporundaki bütçe kanunu tutarları raporun kendi tahmin sütunlarıyla birebir aynıdır (2026: 3.597.140 milyon TL). *[23 Kasım 2026 güncellemesi: 2019 ve 2020 bütçe kanunu ekleri Resmî Gazete'den indirildi; bkz. §10.]*
+- **Bütçe kanunu ekleri** ayrı belge türü olarak envantere girildi ancak ayrıca indirilmedi. Raporlar bütçe kanununa eklenen vergi türü toplamlarını kendi tablolarında yeniden basıyor (2016 Tablo 4.4; 2017 Tablo 2; 2018 Tablo 2; 2020–2025 Tablo 1). Analizde bu rakamlar `budget_law` serisi olarak ayrı tutulacak; rapor tutarlarıyla toplanmayacak (çift sayım yok). 2025 raporundaki bütçe kanunu tutarları raporun kendi tahmin sütunlarıyla birebir aynıdır (2026: 3.597.140 milyon TL). *[güncellendi: 2019 ve 2020 bütçe kanunu ekleri Resmî Gazete'den indirildi ve doğrulandı; 2021–2024 bütçe tahminleri hâlâ raporların yeniden bastığı tablolardan alınıyor; bkz. §0, §10.]*
 - **Sanayi ve Teknoloji Bakanlığı** sitesi otomatik erişime “The requested URL was rejected” yanıtı veriyor; erişim kısıtı aşılmaya çalışılmadı. Bu kaynak elle indirilip `data/raw/sanayi/` klasörüne konursa eklenebilir. Ancak teşvik belgesi istatistikleri **öngörülen (planlanan)** yatırım ve istihdamı gösterir; ne vergi harcaması maliyeti ne de nedensel etki ölçüsüdür. Bu nedenle çalışmanın ana sorusu için zorunlu değildir; yalnızca “raporlarda çıktı/gösterge bilgisi yok, ama başka kurumlarda kısmi bilgi var” tespitini desteklemek için kullanılabilir.
 - **GTED, OECD, TÜİK:** Oranlar için raporların kendi resmî tabloları (GSYH’ye ve vergi gelirlerine oranlar) yeterli olduğundan ayrıca payda verisi gerekmiyor. GTED yalnızca uluslararası bağlam için (Türkiye’nin GTED’deki kaydı) isteğe bağlıdır.
 
@@ -99,35 +115,35 @@ IMF notu (How-To Note 22/05) puanlı bir kontrol listesi vermiyor; değerlendirm
 - **Nicel göstergeler:** Raporların kendi resmî oranları (GSYH’ye ve genel bütçe vergi gelirlerine oran). Nominal TL karşılaştırması yapılmayacak (yüksek enflasyon dönemi; güvenilir bir deflatörle uzun dönem karşılaştırma yerine oranlar kullanılacak). Vergi türü dağılımları ek tablolardan; fonksiyonel sınıflandırma (Ek II) yalnızca 2020–2025’te tutarlı biçimde çıkarılabilirse kullanılacak.
 - **Kapsam dışı:** etki/etkililik tahmini; 2008–2015 bütçe eki serisi (yöntem kırılması); Sanayi ve Teknoloji Bakanlığı verileri (erişilemedi, ayrıca maliyet ölçüsü değil).
 
-## 8. Sıradaki adımlar
+## 8. Sıradaki adımlar (fizibilite aşamasındaki plan — hepsi tamamlandı)
 
-1. `data/codebook.md` ve karar günlüğü; IMF ölçüt eşleştirme tablosu.
-2. Anlatı bölümlerinin çıkarımı ve kalem-bölüm bağlantısı; 9 ölçütün sayfa referanslı kodlanması.
-3. Hakemli literatür taraması (CrossRef ile DOI doğrulaması) ve `paper/references.bib`.
-4. Nicel tablolar/şekiller, kodlama dağılımları; makale metni bulgulara göre (İngilizce); sınırlılıklar dosyası; tüm kodun yeniden çalıştırılarak çapraz kontrolü.
+1. ✅ `data/codebook.md` ve karar günlüğü; IMF ölçüt eşleştirme tablosu (makale Tablo A1).
+2. ✅ Anlatı bölümlerinin çıkarımı ve kalem-bölüm bağlantısı; 9 ölçütün sayfa referanslı kodlanması. *[Uygulamada kodlama bütün raporlara kurallarla uygulandı, ardından gözden geçirildi; bkz. kod kitabı §4.]*
+3. ✅ Literatür taraması ve `paper/references.bib` (26 kayıt, CrossRef ile doğrulandı).
+4. ✅ Tablolar ve şekiller, makale, sınırlılıklar, temiz yeniden çalıştırma. Güncel açık işler §10.5'te.
 
 ---
 
 ## 9. Tamamlanma durumu (analiz sonrası güncelleme, 22 Kasım 2026)
 
-Yukarıdaki fizibilite bölümleri analiz öncesinde yazıldı ve değiştirilmedi; bu bölüm sonradan eklendi.
+Yukarıdaki fizibilite bölümleri analiz öncesinde yazıldı; içerikleri korunuyor, sonradan değişen ifadelerin yanına *[güncellendi]* notu eklendi.
 
 **Yapılanlar**
 - Kod kitabı ve karar günlüğü: `data/codebook.md`, `data/coding/decision_log.md` (D1–D10), elle düzeltmeler `data/coding/overrides.csv`.
 - Anlatı bölümleri: 683 rapor-bölüm (2016: 74, 2017: 22, 2018: 76, 2020–2025: 82–87); her kodun kanıt cümlesi ve PDF sayfası `data/coding/section_codes.csv` içinde.
 - Kalem-bölüm eşleştirmesi: 2020–2025'te kalemlerin %74–84'ü bir anlatı bölümüne bağlanıyor; BSMV, MTV ve ÖİV kalemleri için raporlarda anlatı yok.
 - Tablolar ve şekiller: `outputs/tables/tables.md`, `outputs/figures/fig1–fig4`. Tam yeniden çalıştırma (`run_all.sh`) art arda iki kez aynı tabloları üretti.
-- Literatür: 27 kaynak, DOI'ler CrossRef ile doğrulandı; her kaynağın neye dayanılarak kullanıldığı (tam metin / özet / üst veri) `data/literature/literature_notes.md` dosyasında.
-- Makale (İngilizce): `paper/manuscript.md` (özet 189 sözcük, toplam yaklaşık 5.700 sözcük); sınırlılıklar: `paper/limitations_and_data_gaps.md`.
+- Literatür: 26 kaynak (ilk sürümde 27; kullanılmayan biri §10'da çıkarıldı), DOI'ler CrossRef ile doğrulandı; her kaynağın neye dayanılarak kullanıldığı (tam metin / özet / üst veri) `data/literature/literature_notes.md` dosyasında.
+- Makale (İngilizce): `paper/manuscript.md` (güncel sözcük sayıları §10.4'te); sınırlılıklar: `paper/limitations_and_data_gaps.md`.
 
-**Başlıca bulgular (yalnızca raporlardaki bilgiye ilişkin)**
-- *[§10'da düzeltildi: iki raporlama dönemi ayrı verilmeli.]* Kalem düzeyinde maliyet tahmini olan kalemlerin payı (uygulanabilir kalemler içinde) %75,5'ten (2016) %88,1'e (2025) yükseldi. Üç ya da daha fazla raporda görünen 284 kalemden 25'i hiçbir raporda tahmin edilmemiş.
-- Tahmin kalitesi etiketleri tanımsız. "Çok iyi" etiketli kalemlerin tutar payı %58–62'den (2016–2020) %14'e (2025) düştü; 2025'te tutarın %42,5'i "yaklaşık" etiketli.
-- Aynı yıl için sonraki raporun gerçekleşme tahmini, ilk tahminden her karşılaştırmada %5,7–35,7, bütçe kanunu tahmininden ise %24,5–162,1 yüksek. *[§10'da düzeltildi: 2019 ve 2020 eklenince aralık −%0,6 ile +%162,1.]*
-- Amaç: 2025'te bölümlerin %51'inde kaleme özgü, %23'ünde genel bir amaç ifadesi var. Beklenen çıktı hiçbir bölümde ölçülebilir biçimde tanımlanmamış. Yararlanıcı sayısı, gösterge verisi, ek katkı (karşı-olgusal) analizi, maliyet-etkinlik değerlendirmesi ve gözden geçirme sonucu hiçbir raporda yok. Hükümlerin yaklaşık yarısında yalnızca yasal süre sınırı görülüyor.
+**Başlıca bulgular (güncel; yalnızca analiz edilen 9 raporun — 2016–2018 ve 2020–2025 — bilgisine ilişkin)**
+- Maliyet tahmini olan kalemlerin payı (uygulanabilir kalemler içinde): 2016–2018 raporlarında %72,1–75,5; 2020 raporunda %79,5, 2025 raporunda %88,1. Tüm zincir boyunca güçlü bağlı ortak kalemlerde 2020'de %82,1, 2025'te %87,2 (Tablo 4, 12). Üç ya da daha fazla raporda görünen 284 kalemden 25'i, göründüğü hiçbir raporda tahmin edilmemiş.
+- Tahmin kalitesi etiketleri tanımsız. "Çok iyi" etiketli kalemlerin tutar payı 2016–2018 raporlarında %57,8–61,0, 2020 raporunda %61,5, 2025 raporunda %14,2; 2025'te tutarın %42,5'i "yaklaşık" etiketli (Tablo 5).
+- Aynı yıl karşılaştırmaları (Tablo 3): sonraki raporun gerçekleşme tahmini ilk tahminden her karşılaştırmada %5,7–35,7 yüksek. Bütçe kanunu tahminine göre fark 2019'da −%0,6, 2020'de +%21,4, 2021–2024'te +%24,5 ile +%162,1 arasında. 2019 için ilk tahmin yok (2019 raporu bulunamadı).
+- Amaç: 2025'te bölümlerin %51'inde kaleme özgü, %23'ünde genel bir amaç ifadesi var. Kalem düzeyinde açık amaç payı alt sınırda %10,0, üst sınırda %48,1 (Tablo 11). Beklenen çıktı hiçbir bölümde ölçülebilir biçimde tanımlanmamış. Yararlanıcı sayısı, gösterge verisi, ek katkı (karşı-olgusal) analizi, maliyet-etkinlik değerlendirmesi ve gözden geçirme sonucu analiz edilen raporların hiçbirinde yok. Bölümlerin yaklaşık yarısında yalnızca yasal süre sınırı görülüyor.
 
 **Açık kalanlar**
-- 2019 raporu bulunamadı. *[§10: 2019 ve 2020 bütçe kanunu ekleri bulundu.]* Sanayi ve Teknoloji Bakanlığı verilerine erişilemedi.
+- 2019 raporu bulunamadı (2019 ve 2020 bütçe kanunu ekleri ise bulundu; bkz. §0). Sanayi ve Teknoloji Bakanlığı verilerine erişilemedi.
 - Bağımsız ikinci kodlayıcı yok. Dergiye göndermeden önce bağımsız bir kodlayıcıyla örneklem üzerinde güvenilirlik denetimi önerilir.
 - Bazı Türkçe kaynaklar yalnızca özetten değerlendirildi. Gönderim öncesinde tam metinleri okunmalı.
 
@@ -145,14 +161,14 @@ Yukarıdaki fizibilite bölümleri analiz öncesinde yazıldı ve değiştirilme
 | | GİB dosya sunucusu `.../objectKey=arsiv/kurumsal/Vergi_Harcamalari_Raporu_2019.pdf` | HTTP 400 |
 | | Eski GİB yolu https://gib.gov.tr/sites/default/files/fileadmin/2019_Ver_har_rapor.pdf | HTTP 404 |
 | 2019 bütçe kanunu eki | Resmî Gazete 31.12.2018, sayı 30642 (Mükerrer): 7156 sayılı 2019 Yılı Merkezi Yönetim Bütçe Kanunu, https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-1.htm; cetvel dosyası https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-B221.pdf | **Bulundu.** PDF s. 13–44: "Vergi Harcamaları Listesi – Vergi harcamalarının kanuni dayanaklarına ilişkin liste" (tutarsız). PDF s. 45 (RG s. 1973): "Vergi Türleri İtibarıyla Toplam Vergi Harcaması Tahminleri (TL)", 2019–2021 |
-| 2020 bütçe kanunu eki (kayıp 2019 raporu vintajı) | Resmî Gazete 31.12.2019, sayı 30995 (Mükerrer): 7197 sayılı Kanun, https://www.resmigazete.gov.tr/eskiler/2019/12/20191231-B226.pdf | **Bulundu.** PDF s. 44 (RG s. 1973), 2020–2022 toplamları |
+| 2020 bütçe kanunu eki | Resmî Gazete 31.12.2019, sayı 30995 (Mükerrer): 7197 sayılı Kanun, https://www.resmigazete.gov.tr/eskiler/2019/12/20191231-B226.pdf | **Bulundu.** PDF s. 44 (RG s. 1973), 2020–2022 toplamları |
 | SBB | https://www.sbb.gov.tr/wp-content/uploads/2019/01/1-2019ButceKanunu.doc | Yalnız kanun metni; vergi harcaması tablosu yok |
 
 Arama terimleri: "2019 Vergi Harcamaları Raporu", "7156 sayılı 2019 Yılı Merkezi Yönetim Bütçe Kanunu", "vergi harcamaları cetveli", "Vergi Türleri İtibarıyla Toplam Vergi Harcaması Tahminleri", "Bütçe Gerekçesi 2019 vergi harcaması". Arama motoru sonuçları yalnızca adres bulmak için kullanıldı; tüm değerler Resmî Gazete PDF'lerinden okundu.
 
-**2019 bütçe eki ve 2018 raporu.** Ek taranmış görüntü olduğundan değerler OCR (Tesseract, Türkçe) ve 200 dpi görüntünün gözle okunmasıyla aktarıldı (`data/interim/budget_law_annexes.csv`). 2019 için toplam 178.695.912.831 TL (GV 68.267.364.779; KV 28.030.970.717; KDV 49.796.734.881; ÖTV 24.903.208.169; Diğer Kanunlar 7.697.634.285). Satır toplamları basılı toplamla 0–1 TL farkla uyuşuyor. 2018 raporu da 2019 tahminini içeriyor: Tablo 2 (bütçe kanununa eklenen tahminler, PDF s. 296) ve Tablo 3 (PDF s. 298), toplam 178.696 milyon TL; ekteki kalem tutarlarının 2019 sütun toplamı 178.695,9 milyon TL. **Üç yılın (2019–2021) tüm satırları 2018 raporuyla aynıdır**: aynı vintajın iki belgede yayımlanmasıdır ve tek gözlem sayılmıştır (`outputs/tables/budget_law_annex_comparison.csv`). Bu rakam bir **tahmindir**: ne 2019 gerçekleşmesidir ne de bağımsız bir bütçe tahmini. 2019 için raporlardaki gerçekleşme tahmini 2020 raporundadır (177.601 milyon TL).
+**2019 bütçe eki ve 2018 raporu.** Ek taranmış görüntü olduğundan değerler OCR (Tesseract, Türkçe) ve 200 dpi görüntünün gözle okunmasıyla aktarıldı (`data/interim/budget_law_annexes.csv`). 2019 için toplam 178.695.912.831 TL (GV 68.267.364.779; KV 28.030.970.717; KDV 49.796.734.881; ÖTV 24.903.208.169; Diğer Kanunlar 7.697.634.285). Satır toplamları basılı toplamla 0–1 TL farkla uyuşuyor. 2018 raporu da 2019 tahminini içeriyor: Tablo 2 (bütçe kanununa eklenen tahminler, PDF s. 296) ve Tablo 3 (PDF s. 298), toplam 178.696 milyon TL; ekteki kalem tutarlarının 2019 sütun toplamı 178.695,9 milyon TL. **Üç yılın (2019–2021) tüm satırları 2018 raporuyla milyon TL'ye yuvarlamayla aynıdır** (TL ile milyon TL arasındaki fark yalnızca yuvarlama; en büyük fark 0,5 milyon TL'nin altında). 2018 raporu bu tutarların bütçe kanununa da eklendiğini yazıyor (PDF s. 296). Bu nedenle aynı tahmin iki belgede yayımlanmış ve tek gözlem sayılmıştır (`outputs/tables/budget_law_annex_comparison.csv`, `outputs/tables/budget_law_vs_report_estimates_2019_2020.csv`). Bu rakam bir **tahmindir**: ne 2019 gerçekleşmesidir ne de bağımsız bir bütçe tahmini. 2019 için raporlardaki gerçekleşme tahmini 2020 raporundadır (177.601 milyon TL).
 
-**2020 bütçe eki.** 2020: 195.590.812.732 TL; 2021: 222.661.650.447 TL; 2022: 251.397.082.494 TL. Bu değerler hiçbir mevcut raporda yok; kayıp 2019 raporunun vintajının yayımlanmış tek izi. Ek yalnızca vergi türü toplamları verdiği için kalem panel şemasına uymuyor; panele eklenmedi, ayrı seri olarak tutuluyor.
+**2020 bütçe eki.** 2020: 195.590.812.732 TL; 2021: 222.661.650.447 TL; 2022: 251.397.082.494 TL. Bu değerler analiz edilen hiçbir raporda yok. 2020 raporunun 2020 tahmininden de farklılar (198.247 milyon TL; +%1,36). Hangi rapora dayandıklarına ilişkin doğrudan kanıt yok; bu nedenle yalnızca 2020 bütçe kanunu ekindeki 2020–2022 bütçe tahminleri olarak adlandırılıyor. *[23 Kasım ikinci denetim: önceki "kayıp 2019 raporu vintajının tek izi" ifadesi kanıtsız olduğu için kaldırıldı.]* Ek yalnızca vergi türü toplamları verdiği için kalem panel şemasına uymuyor; panele eklenmedi, ayrı seri olarak tutuluyor.
 
 **Analize etkisi.** Tablo 3'e 2019 satırı ve 2020 bütçe kanunu tahmini eklendi. Gerçekleşme tahmini bütçe kanunu tahmininin 2019'da %0,6 altında, 2020'de %21,4 üstünde (2021–2024: %24,5–162,1 üstünde). Önceki metindeki "gerçekleşme her yıl bütçe tahminini aşıyor" ifadesi düzeltildi.
 
@@ -173,12 +189,49 @@ Arama terimleri: "2019 Vergi Harcamaları Raporu", "7156 sayılı 2019 Yılı Me
 - **Politika önerileri:** Doğrulanmamış bir veri kaynağını varsayan ifade ("beyannamelerden kolayca") kaldırıldı; yararlanıcı sayıları için önce kaynakların incelenmesi önerildi.
 - **Alıntılar:** Tüm doğrudan alıntılar özgün PDF'lerle karşılaştırıldı. Türkçe kaynaklardan yapılanlar özgün Türkçe metin ve çeviri olarak verildi.
 - **Kaynakça:** 26 kayıt, hepsi metinde kullanılıyor; kullanılmayan oecd2026 çıkarıldı. Yoruldu (2021) kaydındaki CrossRef "volume 0" hatası kaldırıldı. Tam metni okunmayan kaynaklar yalnızca genel tezleri veya özetleri düzeyinde kullanılıyor.
-- **Özet:** 197 sözcük. Metin (kaynakçaya kadar): 6.756 sözcük.
+- **Özet ve metin uzunluğu:** ilk denetimde 197 / 6.756 sözcüktü; güncel sayılar §10.6'da.
 
-### 10.4 Açık kalanlar
+### 10.4 Sözcük sayıları
 
-- 2018 gerçekleşme yılı ve kayıp 2019 raporunun kalem düzeyi verisi hâlâ yok.
+Özet ve metin sözcük sayıları ikinci denetimden sonra yeniden hesaplandı (§10.6).
+
+### 10.5 Açık kalanlar
+
+- 2018 gerçekleşme yılına ait (2019 raporunda yer alacak) kalem düzeyi veri hâlâ yok.
 - 2021–2024 bütçe kanunu ekleri ayrıca indirilmedi (değerler raporların yeniden bastığı tablolardan alınıyor). Gönderim öncesinde Resmî Gazete'den aynı yöntemle doğrulanabilir.
 - Bağımsız ikinci kodlayıcı yok. Gönderim öncesinde bir örneklem üzerinde bağımsız kodlama ve uyuşma ölçümü önerilir.
 - Uluslararası kaynakların tam metinleri ve Türkçe makalelerin tam metinleri okunmalı.
 - Sanayi ve Teknoloji Bakanlığı verileri ile Sayıştay raporları incelenmedi.
+
+### 10.6 İkinci denetim (23 Kasım 2026)
+
+**Kaynak doğrulaması**
+- 2019 ve 2020 bütçe eki tabloları yerel PDF'lerden (`data/raw/budget_law/20181231M1-B221.pdf` s. 45, `20191231-B226.pdf` s. 44) 200 dpi'da yeniden görüntülenip satır satır okundu. Tüm değerler `data/interim/budget_law_annexes.csv` ile aynı.
+- 2018 raporunun Tablo 2 (PDF s. 296) ve Tablo 3 (PDF s. 298) değerleri ve 2020 raporunun Tablo 2'si (PDF s. 308) doğrudan PDF metninden okundu.
+- 2018 raporunun "Bu tutarlar aynı zamanda 2019-2021 dönemi Merkezi Yönetim Bütçe Kanununa vergi harcaması tahminleri olarak da eklenmiştir" cümlesi (PDF s. 296) doğrulandı.
+- 2020 raporu 2019 sütununu "2019 yılı gerçekleşme tutarları" olarak tanımlıyor ve tutarların 2019 verilerine göre hesaplandığını yazıyor (PDF s. 23, 307).
+
+**Dört tahminin ayrımı** (`outputs/tables/budget_law_vs_report_estimates_2019_2020.csv`, `scripts/03b_budget_law_annexes.py`)
+
+| Mali yıl | Tahmin | Belge ve yer | Milyon TL | Aynı yılın bütçe kanunu tahminine göre |
+|---|---|---|---|---|
+| 2019 | 2018 raporu, tahmin (2017 verisine dayalı) | Tablo 3, PDF s. 298 | 178.696 | 0,00% |
+| 2019 | 2018 raporu, bütçe kanununa eklenen tutarlar | Tablo 2, PDF s. 296 | 178.696 | 0,00% |
+| 2019 | 2019 bütçe kanunu eki (7156) | RG s. 1973 (PDF s. 45) | 178.695,913 | — |
+| 2019 | 2020 raporu, 2019 verisiyle hesaplanan "gerçekleşme" tahmini | Tablo 2, PDF s. 308 | 177.601 | −0,61% |
+| 2020 | 2019 bütçe kanunu eki, ikinci yıl tahmini (= 2018 raporu) | RG s. 1973 (PDF s. 45) | 205.401,393 | +5,02% |
+| 2020 | 2020 bütçe kanunu eki (7197) | RG s. 1973 (PDF s. 44) | 195.590,813 | — |
+| 2020 | 2020 raporu, tahmin (2019 verisine dayalı) | Tablo 2, PDF s. 308 | 198.247 | +1,36% |
+| 2020 | 2021 raporu, 2020 verisiyle hesaplanan "gerçekleşme" tahmini | Tablo 2, PDF s. 316 | 237.395 | +21,37% |
+
+- **2019 bütçe eki ve 2018 raporu:** 36 satırın hepsi milyon TL'ye yuvarlamayla aynı; en büyük fark 0,477 milyon TL. Tek tahmin olarak sayıldı. Bu rakam bir tahmin, 2019 gerçekleşmesi değil.
+- **2020 bütçe eki:** Değerler analiz edilen hiçbir raporda ve rapor metinlerinde geçmiyor (rapor metinlerinde rakam araması yapıldı). Kayıp 2019 raporuyla bağlantısını gösteren doğrudan kanıt yok. "Kayıp 2019 raporunun tek izi/vintajı" ifadeleri makaleden, sınırlılıklar dosyasından, bu dosyadan, kaynak envanterinden ve Tablo 3 notundan kaldırıldı.
+- **"Gerçekleşme":** Revenue-forgone yöntemiyle, davranış değişikliği olmadığı varsayımıyla yapılan statik bir tahmindir. Politika etkisi ya da kaldırılma halinde elde edilecek gelir olarak sunulmuyor.
+
+**Dönem ifadeleri**
+- Makalede "2016–2025 reports", "every report from 2016 to 2025" ve "2016–2020 reports" geçen yerler "2016–2018 and 2020–2025" / "the nine reports analysed" biçiminde düzeltildi. Düzeltilen yerler: özet, §3, §5.1, §5.2, §5.4, §5.6, §6, §7, §8 ve Tablo A1 başlığı.
+- Rapor serisinde 2018 gerçekleşme yılının eksik olduğu, 2019 gerçekleşme tahmininin ise 2020 raporunda bulunduğu açıkça yazıldı (§3, §8).
+- §5.1'de iki rejimin düzeyleri tek bir eğilim olarak sunulmuyor.
+- Kod kitabı başlığı, README ve Tablo 10 etiketi ("göründüğü her raporda") de güncellendi.
+
+**Yeniden çalıştırma:** `run_all.sh` tam çalıştırıldı. `12_number_trace.py`: 75/75 PASS. Özet 200 sözcük; metin (kaynakçaya kadar) 7.007 sözcük.

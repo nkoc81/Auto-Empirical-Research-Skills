@@ -6,13 +6,16 @@ Updated 23 November 2026 (audit). Numbers refer to files in `outputs/tables/`.
 1. **Missing 2019 report.** No official copy of a 2019 Tax Expenditure Report was found. Searched: HMB archive page
    (lists 2007, 2016–2018), Revenue Administration report page (2020–2025), the Revenue Administration file server
    (2019 object key: HTTP 400), a legacy gib.gov.tr file path (HTTP 404), the Official Gazette. The 2018 realisation
-   year is therefore missing, and the 2018→2020 comparisons span two report vintages.
+   year is therefore missing from the report series. The 2019 realisation year is not missing: the 2020 report gives
+   estimates calculated from 2019 data. Comparisons between the 2018 and 2020 reports span two report vintages.
 2. **Budget-law annexes.** The annexes of the 2019 budget law (Law 7156, Official Gazette 30642 Mükerrer, 31.12.2018,
    p. 1973) and the 2020 budget law (Law 7197, Official Gazette 30995 Mükerrer, 31.12.2019, p. 1973) were retrieved.
    They give totals by tax law only (no item amounts) and were published as scanned images; values were transcribed by
    OCR with visual checking, and row sums match printed totals within 1 TL. The 2019 annex is identical to the 2018
-   report's tables (same vintage; counted once). The 2020 annex is the only published trace of the vintage of the
-   missing 2019 report. Budget-law figures for 2021–2024 are taken from tables reprinted in the reports; annexes of
+   report's Tablo 2/Tablo 3 (the 2018 report says its amounts were also added to the budget law; one estimate, counted
+   once; a 2019 projection, not a 2019 realisation estimate). The 2020 annex gives budget estimates for 2020–2022 that
+   appear in none of the reports analysed; no document links them to a particular report, so they are used only as
+   budget-law estimates. Budget-law figures for 2021–2024 are taken from tables reprinted in the reports; annexes of
    other budget laws were not retrieved separately. The 2008–2015 budget-law series rests on the 2007 methodology and
    is not comparable with the post-2016 series (the 2016 report prints both: 1.34% vs 4.08% of GDP for 2015).
 3. **Ministry of Industry and Technology statistics not used.** The ministry's website refused automated access; the

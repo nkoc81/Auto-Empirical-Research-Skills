@@ -7,7 +7,6 @@ printed,source,locator,recomputed,status
 402,reconciliation_rows_vs_subtable_totals.csv,rows with a printed total,402,PASS
 6.17,table2_official_aggregates.csv,"2025, TE/GDP (%)",6.17,PASS
 37.68,table2_official_aggregates.csv,"2025, TE/tax revenue (%)",37.68,PASS
-4.70,table2_official_aggregates.csv,"2021 report (2020), TE/GDP",4.70,PASS
 5.85,table2_official_aggregates.csv,"2022 report (2021), TE/GDP",5.85,PASS
 6.52,table2_official_aggregates.csv,"2024 report (2023), TE/GDP",6.52,PASS
 19.51,table2_official_aggregates.csv,"2016 report (2015), TE/tax revenue",19.51,PASS
@@ -26,9 +25,8 @@ printed,source,locator,recomputed,status
 22–35,table4_cost_information.csv,"data not available, min-max",22–35,PASS
 10–16,table4_cost_information.csv,"new measure 2016-2018, min-max",10–16,PASS
 284,table10_missing_persistence.csv,Items appearing in ≥3 reports,284,PASS
-25 are never estimated,table10_missing_persistence.csv,never estimated,25 are never estimated,PASS
+25 are never estimated,table10_missing_persistence.csv,never estimated (C3=0 in every report in which the item appears),25 are never estimated,PASS
 85 lack,table10_missing_persistence.csv,C3=0 in at least one report,85 lack,PASS
-57.8–61.5%,table5_estimate_quality.csv,"Very good % of amount, 2016-2020",57.8–61.5%,PASS
 14.2%,table5_estimate_quality.csv,"2025, Very good % of amount",14.2%,PASS
 42.5%,table5_estimate_quality.csv,"2025, Approximate % of amount",42.5%,PASS
 98% and 100%,table6_criteria_items_long.csv,"C4 coded 1, min-max across reports",98% and 100%,PASS
@@ -69,3 +67,10 @@ printed,source,locator,recomputed,status
 "74 sections in 2016, 22 in 2017, 76 in 2018 and 82–87",data/coding/section_codes.csv,sections per report,"74 sections in 2016, 22 in 2017, 76 in 2018 and 82–87",PASS
 28%,data/coding/item_codes.csv,2025: share of sections with >1 mapped item,28%,PASS
 25 items,data/coding/item_codes.csv,2025: max items mapped to one section (2.3.4 KDV Art. 17),25 items,PASS
+"177,601 million TL",budget_law_vs_report_estimates_2019_2020.csv,"2019, VHR2020 realisation estimate","177,601 million TL",PASS
+0.6% below,budget_law_vs_report_estimates_2019_2020.csv,"2019, VHR2020 vs BL2019 (%)",0.6% below,PASS
+21.4% above,budget_law_vs_report_estimates_2019_2020.csv,"2020, VHR2021 vs BL2020 (%)",21.4% above,PASS
+23.60%,table2_official_aggregates.csv,"2018 report (2017), TE/tax revenue",23.60%,PASS
+4.11% of GDP for 2019,table2_official_aggregates.csv,"2020 report (2019), TE/GDP",4.11% of GDP for 2019,PASS
+57.8–61.0%,table5_estimate_quality.csv,"Very good % of amount, 2016-2018",57.8–61.0%,PASS
+61.5% in the 2020 report,table5_estimate_quality.csv,"2020, Very good % of amount",61.5% in the 2020 report,PASS
